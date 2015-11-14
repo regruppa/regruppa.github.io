@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Идеи для сайта: что надо улучшить?</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/25/idei-dlya-sayta-chto-nado-uluchshit.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/25/idei-dlya-sayta-chto-nado-uluchshit.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/25/idei-dlya-sayta-chto-nado-uluchshit.html/comment-page-1#comment-233</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 15:20:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/25/idei-dlya-sayta-chto-nado-uluchshit.html#comment-233</guid>
+		<description><![CDATA[ну да, ссылку на Блог лучше сделать сразу с первой страницы. также на главной лучше отображать последний коммент, или последний пост, или просто последнюю важную для всех новость.. ну и где-нибудь надо написать user manual по грамотному написанию постов]]></description>
+		<content:encoded><![CDATA[<p>ну да, ссылку на Блог лучше сделать сразу с первой страницы. также на главной лучше отображать последний коммент, или последний пост, или просто последнюю важную для всех новость.. ну и где-нибудь надо написать user manual по грамотному написанию постов</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

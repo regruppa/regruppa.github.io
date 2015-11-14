@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Книги и музыка</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Redrick Shuhart</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1891</link>
+		<dc:creator><![CDATA[Redrick Shuhart]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 18:48:52 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1891</guid>
+		<description><![CDATA[Да помоему так никто больше не может. Geras - уникум.]]></description>
+		<content:encoded><![CDATA[<p>Да помоему так никто больше не может. Geras &#8212; уникум.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Paul Scholes</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1798</link>
+		<dc:creator><![CDATA[Paul Scholes]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 22:08:51 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1798</guid>
+		<description><![CDATA[Да не... Мысль просто развил хорошо*THUMBS_UP*]]></description>
+		<content:encoded><![CDATA[<p>Да не&#8230; Мысль просто развил хорошо*THUMBS_UP*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1795</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 20:18:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1795</guid>
+		<description><![CDATA[по литературе была четверка, а читать в свое удовольствие начал только на первом курсе]]></description>
+		<content:encoded><![CDATA[<p>по литературе была четверка, а читать в свое удовольствие начал только на первом курсе</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Paul Scholes</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1793</link>
+		<dc:creator><![CDATA[Paul Scholes]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:12:43 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1793</guid>
+		<description><![CDATA[А вообще я люблю &quot;Войну и Мир&quot; под Heavy Metall]]></description>
+		<content:encoded><![CDATA[<p>А вообще я люблю &#171;Войну и Мир&#187; под Heavy Metall</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Paul Scholes</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1792</link>
+		<dc:creator><![CDATA[Paul Scholes]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:11:38 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1792</guid>
+		<description><![CDATA[Николай, походу у вас было 5 по литературе :) :) :)]]></description>
+		<content:encoded><![CDATA[<p>Николай, походу у вас было 5 по литературе :) :) :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1790</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 18:16:08 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1790</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Это как кино с субтитрами: пока прочитаешь, упустишь кадр.
+&lt;/blockquote&gt;
+Возможно это и так, но мне нравится смотреть фильмы с оригинальным звуком, когда слышишь реальные голоса актёров. По началу очень напрягает читать эти субтитры, но потом как-то привыкаешь и даже не замечаешь, что они есть ;-)]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Это как кино с субтитрами: пока прочитаешь, упустишь кадр.
+</p></blockquote>
+<p>Возможно это и так, но мне нравится смотреть фильмы с оригинальным звуком, когда слышишь реальные голоса актёров. По началу очень напрягает читать эти субтитры, но потом как-то привыкаешь и даже не замечаешь, что они есть ;-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1786</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 15:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1786</guid>
+		<description><![CDATA[Я вот тоже, не могу делать два дела одновременно. ТОлько если есть и смотреть телек *SMILE* Вообще когда ешь можно делать еще много других дел *SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Я вот тоже, не могу делать два дела одновременно. ТОлько если есть и смотреть телек <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> Вообще когда ешь можно делать еще много других дел <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1784</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 15:07:02 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1784</guid>
+		<description><![CDATA[Я так не могу... Всегда разделяю во времени чтение и прослушивание музыки. Одно мешает другому. Это как кино с субтитрами: пока прочитаешь, упустишь кадр. И наоборот.]]></description>
+		<content:encoded><![CDATA[<p>Я так не могу&#8230; Всегда разделяю во времени чтение и прослушивание музыки. Одно мешает другому. Это как кино с субтитрами: пока прочитаешь, упустишь кадр. И наоборот.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1777</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 09:43:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1777</guid>
+		<description><![CDATA[Я говорю, почти о том же, если неправильно подобрать музыку, то чтение становится мучением, а в другом случае можно ощутить мелочи, которые не найти при тщательном прочтении. А &quot;Чистовик&quot;, хорошая книга. Лукьяненко-молодец, в моменты, когда уже ясно, что убийца - садовник, находится нетривиальное продолжение сюжета :)]]></description>
+		<content:encoded><![CDATA[<p>Я говорю, почти о том же, если неправильно подобрать музыку, то чтение становится мучением, а в другом случае можно ощутить мелочи, которые не найти при тщательном прочтении. А &#171;Чистовик&#187;, хорошая книга. Лукьяненко-молодец, в моменты, когда уже ясно, что убийца &#8212; садовник, находится нетривиальное продолжение сюжета :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html/comment-page-1#comment-1775</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 06:57:49 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/03/knigi-i-muzyika.html#comment-1775</guid>
+		<description><![CDATA[Вот у меня тоже самое почти ;-)]]></description>
+		<content:encoded><![CDATA[<p>Вот у меня тоже самое почти ;-)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

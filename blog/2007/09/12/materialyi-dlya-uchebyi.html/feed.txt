@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Материалы для учебы</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Сергей Чернов</title>
+		<link>http://regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html/comment-page-1#comment-1877</link>
+		<dc:creator><![CDATA[Сергей Чернов]]></dc:creator>
+		<pubDate>Sun, 11 Nov 2007 16:05:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html#comment-1877</guid>
+		<description><![CDATA[*EVIL*
+Я выхожу на сайт уже раз седьмой в ожидании найти главу 4 какй-то книги, которую задали перевести с английского.
+Где она!!!??? *SMILE*
+Ну пожалуйста выложьте *SAD*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> Я выхожу на сайт уже раз седьмой в ожидании найти главу 4 какй-то книги, которую задали перевести с английского.<br />
+Где она!!!??? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> Ну пожалуйста выложьте <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_sad.gif' alt='*SAD*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html/comment-page-1#comment-1438</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2007 20:51:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/materialyi-dlya-uchebyi.html#comment-1438</guid>
+		<description><![CDATA[Материалы для ОБЖ добавлены в раздел ОТКРЫТО]]></description>
+		<content:encoded><![CDATA[<p>Материалы для ОБЖ добавлены в раздел ОТКРЫТО</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Новое на сайте: поиск по блогу</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html/comment-page-1#comment-657</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 12:19:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html#comment-657</guid>
+		<description><![CDATA[Не пришлось пока ставить новый WordPress, так как с переходом на новый сервер всё и так заработало. Но со временем (в ближайшем будущем)  поставим новую систему!]]></description>
+		<content:encoded><![CDATA[<p>Не пришлось пока ставить новый WordPress, так как с переходом на новый сервер всё и так заработало. Но со временем (в ближайшем будущем)  поставим новую систему!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html/comment-page-1#comment-593</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 16:50:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/29/novoe-na-sayte-poisk-po-blogu.html#comment-593</guid>
+		<description><![CDATA[Наверное, придётся ставить новый &lt;a href=&quot;http://maxsite.org/wp220rus&quot; rel=&quot;nofollow&quot;&gt;WordPress 2.2 от MaxSite&lt;/a&gt;, где решена эта проблема с поиском.]]></description>
+		<content:encoded><![CDATA[<p>Наверное, придётся ставить новый <a href="http://maxsite.org/wp220rus" rel="nofollow" class="liexternal">WordPress 2.2 от MaxSite</a>, где решена эта проблема с поиском.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

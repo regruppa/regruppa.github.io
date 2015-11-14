@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Пропатчить KDE под FreeBSD</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Назарбаев не знает как пропатчить KDE под FreeBSD &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-1064</link>
+		<dc:creator><![CDATA[Назарбаев не знает как пропатчить KDE под FreeBSD &#124; Regruppa]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2007 05:10:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-1064</guid>
+		<description><![CDATA[[...] Из облаков:&#160;FreeBSD, KDE, интернет конференция, НазарбаевЗавершилась интернет-конференция в Казахтане, где Н.А.Назарбаев мог ответить на довольно популярный вопрос: Как пропатчить KDE под FreeBSD. Но&#8230; он не ответил. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;FreeBSD, KDE, интернет конференция, НазарбаевЗавершилась интернет-конференция в Казахтане, где Н.А.Назарбаев мог ответить на довольно популярный вопрос: Как пропатчить KDE под FreeBSD. Но&#8230; он не ответил. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-758</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2007 10:54:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-758</guid>
+		<description><![CDATA[Бугога, как у них все запущено :)]]></description>
+		<content:encoded><![CDATA[<p>Бугога, как у них все запущено :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-744</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 19:17:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-744</guid>
+		<description><![CDATA[Кстати, голосов уже более 40 тысяч!!! *BOMB*]]></description>
+		<content:encoded><![CDATA[<p>Кстати, голосов уже более 40 тысяч!!! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-724</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 16:04:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-724</guid>
+		<description><![CDATA[Я Азиму дал вчера свою толстую книгу &lt;strong&gt;FreeBSD&lt;/strong&gt; -- может он всё-таки узнает, как что пропатчить? *JOKINGLY*]]></description>
+		<content:encoded><![CDATA[<p>Я Азиму дал вчера свою толстую книгу <strong>FreeBSD</strong> &#8212; может он всё-таки узнает, как что пропатчить? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_mocking.gif' alt='*JOKINGLY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-685</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 03 Jun 2007 08:07:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-685</guid>
+		<description><![CDATA[7 числа будет эта конференция.]]></description>
+		<content:encoded><![CDATA[<p>7 числа будет эта конференция.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-673</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 18:28:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-673</guid>
+		<description><![CDATA[Э-э-э... =-O]]></description>
+		<content:encoded><![CDATA[<p>Э-э-э&#8230; =-O</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-669</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 18:21:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-669</guid>
+		<description><![CDATA[интересно, что ответит президент???... =)
+может:
+&quot;А ШТО ТАКОЕ КДЕ?? НЯ? КТУЛХУ ВЫСОСАЛО МОЙ МОСК=)) БУГОГА&quot;]]></description>
+		<content:encoded><![CDATA[<p>интересно, что ответит президент???&#8230; =)</p>
+<p>может:</p>
+<p>&#171;А ШТО ТАКОЕ КДЕ?? НЯ? КТУЛХУ ВЫСОСАЛО МОЙ МОСК=)) БУГОГА&#187;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-663</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 07:20:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-663</guid>
+		<description><![CDATA[Да-да... Пушкин :-) а голосов за вопрос всё больше и больше.]]></description>
+		<content:encoded><![CDATA[<p>Да-да&#8230; Пушкин :-) а голосов за вопрос всё больше и больше.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-661</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 23:24:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-661</guid>
+		<description><![CDATA[ну да моб как моб, мало ли их, вспоминается Пушкин:
+Там бугога, там Ктулху бродит,
+Креведко на ветвях висит.
+Там на невидимых дорожках
+Следы хентайных аниме.
+Блондинко там на курьих ножках
+Под фрею патчит КДЕ.]]></description>
+		<content:encoded><![CDATA[<p>ну да моб как моб, мало ли их, вспоминается Пушкин:</p>
+<p>Там бугога, там Ктулху бродит,<br />
+Креведко на ветвях висит.<br />
+Там на невидимых дорожках<br />
+Следы хентайных аниме.<br />
+Блондинко там на курьих ножках<br />
+Под фрею патчит КДЕ.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html/comment-page-1#comment-658</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 12:20:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/24/propatchit-kde-pod-freebsd.html#comment-658</guid>
+		<description><![CDATA[*ROFL* это какой-то новый интернет-флэшмоб. Посмотрим, что дальше будет.]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /> это какой-то новый интернет-флэшмоб. Посмотрим, что дальше будет.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Сайт, который отгадывает загаданное за 20 вопросов</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: PattyhAn</title>
+		<link>http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html/comment-page-1#comment-11692</link>
+		<dc:creator><![CDATA[PattyhAn]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2009 19:08:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html#comment-11692</guid>
+		<description><![CDATA[Очень понравилось, скопирую себе на блог]]></description>
+		<content:encoded><![CDATA[<p>Очень понравилось, скопирую себе на блог</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html/comment-page-1#comment-273</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 16:57:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html#comment-273</guid>
+		<description><![CDATA[Попробовала сию игру, но меня разгадать не смогли;( Видимо Александр Овечкин за пределами информации... Игра, кстати, называется &quot;Я знаменит&quot;;), а в Мертвого Европейца её превратили мы:))]]></description>
+		<content:encoded><![CDATA[<p>Попробовала сию игру, но меня разгадать не смогли;( Видимо Александр Овечкин за пределами информации&#8230; Игра, кстати, называется &#171;Я знаменит&#187;;), а в Мертвого Европейца её превратили мы:))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html/comment-page-1#comment-265</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 21:56:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html#comment-265</guid>
+		<description><![CDATA[Wazzup?]]></description>
+		<content:encoded><![CDATA[<p>Wazzup?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html/comment-page-1#comment-241</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2007 19:47:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/26/sayt-kotoryiy-otgadyivaet-zagadannoe-za-20-voprosov.html#comment-241</guid>
+		<description><![CDATA[действительно забавный сайт!! конечно, чем чаще загадывают человека, тем его легче угадывает сайт: напримар Бритни Спирс он угудал за 16 вопоросов, а  АрнольдаШварцнегера воопще за 10!, а вот например чарли чаплина воопще не отгадал =) ни с какого вопроса =) и Репина тоже. даже вариантов не предложил...
+в некоторых местах просто возникают спорные ситуации с постановкой вопроса..
+на мой взгляд отгадывать вещи--проще]]></description>
+		<content:encoded><![CDATA[<p>действительно забавный сайт!! конечно, чем чаще загадывают человека, тем его легче угадывает сайт: напримар Бритни Спирс он угудал за 16 вопоросов, а  АрнольдаШварцнегера воопще за 10!, а вот например чарли чаплина воопще не отгадал =) ни с какого вопроса =) и Репина тоже. даже вариантов не предложил&#8230;<br />
+в некоторых местах просто возникают спорные ситуации с постановкой вопроса..<br />
+на мой взгляд отгадывать вещи&#8212;проще</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

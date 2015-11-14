@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: ASCII &#8212; это здорово!</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Reya</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-15167</link>
+		<dc:creator><![CDATA[Reya]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2009 20:35:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-15167</guid>
+		<description><![CDATA[Автор журфак что ли заканчивал?  &lt;a href=&quot;http://motorsclub.ru/&quot; rel=&quot;nofollow&quot;&gt; &lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>Автор журфак что ли заканчивал?  <a href="http://motorsclub.ru/" rel="nofollow" class="liexternal"> </a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ASCII графика своими руками &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-591</link>
+		<dc:creator><![CDATA[ASCII графика своими руками &#124; Regruppa]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 16:25:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-591</guid>
+		<description><![CDATA[[...] Из облаков:&#160;ASCII, графика, текстовые рисункине так давно на нашем сайте был пост про ASCII фильм, который можно смотреть из cmd,. случайно нашел прогу для создания ASCII рисунков: ASC_art.  (она правдо вся на немецком, но для тех кто немецкого не знает там лежит мануал). создаем (или редактируем фото ) рисунок *.bmp двухцветный (черное и бело) и загружаем в программу, выбираем метод и получаем картинку из символов, которую уже можно копипастить в тексторвые редакторы  вот что у меня получилось: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;ASCII, графика, текстовые рисункине так давно на нашем сайте был пост про ASCII фильм, который можно смотреть из cmd,. случайно нашел прогу для создания ASCII рисунков: ASC_art.  (она правдо вся на немецком, но для тех кто немецкого не знает там лежит мануал). создаем (или редактируем фото ) рисунок *.bmp двухцветный (черное и бело) и загружаем в программу, выбираем метод и получаем картинку из символов, которую уже можно копипастить в тексторвые редакторы  вот что у меня получилось: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-263</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 21:54:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-263</guid>
+		<description><![CDATA[КОМРАД, этож баян... 2х леней давности)]]></description>
+		<content:encoded><![CDATA[<p>КОМРАД, этож баян&#8230; 2х леней давности)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-231</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 14:40:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-231</guid>
+		<description><![CDATA[Можно :-) ведь есть даже такое искусство: музыка на матричных принтерах. Лежит где-то у меня эта музыка.]]></description>
+		<content:encoded><![CDATA[<p>Можно :-) ведь есть даже такое искусство: музыка на матричных принтерах. Лежит где-то у меня эта музыка.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-230</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 17:08:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-230</guid>
+		<description><![CDATA[Здорово! А еще можно определенным образов расположить буквы на листочке, закодировав мелодию. А потом распечатать на матричном принтере... Будет музыкальное сопровождение к фильму! :-D]]></description>
+		<content:encoded><![CDATA[<p>Здорово! А еще можно определенным образов расположить буквы на листочке, закодировав мелодию. А потом распечатать на матричном принтере&#8230; Будет музыкальное сопровождение к фильму! :-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-228</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 10:26:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-228</guid>
+		<description><![CDATA[Напоминает прогараммы которые я писал в школе на уроках информатики в Basic(только там была полная фигня)]]></description>
+		<content:encoded><![CDATA[<p>Напоминает прогараммы которые я писал в школе на уроках информатики в Basic(только там была полная фигня)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/23/ascii-eto-zdorovo.html/comment-page-1#comment-225</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 05:34:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/23/ascii-eto-zdorovo.html#comment-225</guid>
+		<description><![CDATA[Можно смотреть даже по GPRS, так как минимум трафика *DANCE*
+Но, по-моему, не все поняли, как смотреть...
+&lt;div style=&quot;text-align:center;&quot;&gt;
+&lt;img id=&quot;image189&quot; src=&quot;http://www.regruppa.ru/content/blog/2007/04/telnet.gif&quot; alt=&quot;Telnet&quot; /&gt;
+&lt;/div&gt;
+Эту команду надо выполнять в командной строке (&lt;tt&gt;cmd&lt;/tt&gt;).]]></description>
+		<content:encoded><![CDATA[<p>Можно смотреть даже по GPRS, так как минимум трафика <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> Но, по-моему, не все поняли, как смотреть&#8230;</p>
+<div style="text-align:center;">
+<img id="image189" src="http://www.regruppa.ru/content/blog/2007/04/telnet.gif" alt="Telnet" />
+</div>
+<p>Эту команду надо выполнять в командной строке (<tt>cmd</tt>).</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Superconductors (cтатья по английскому)</title>
+	<atom:link href="http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2553</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Thu, 21 Feb 2008 00:22:39 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2553</guid>
+		<description><![CDATA[у нас английский щас про грамматику:)) Тут вобще как... вощем описываю подробно...
+Приходишь ты в универ, тя заставляют тест писать по английскому, дальше 3 группы сложности, вернее даж 4.
+1) к которой я отношусь, зовется ламье(ну ещеб я всю жизнь дойч ботал) и нас учат 4 года англу..
+2) Средненько так... Ну учат тексты там посолиднее, переводят пожеще и т.д.
+3) Ничотак... Гоняют балду с понтом что англ ботают:)))
+4)О вилике гуру английского языка... Их то и отправляют на второй язык:) выбор не велик: французский, немецкий, испанский, японский, арабский.
+Последние 3 группы сдают по англу гос на 3ем курсе, первая сдает тот же гос на 4ом... итог: все типа с одинаковым уровнем выходят кто то раньше, кто то позже...
+Апосля прохождения курса английского есть выбор... Примерно следующий: бизнес инглишь, технический переводчик(очень пафосно, типа диплом о дополнительном образовании, который ценится, и защитывается вступительным в аспирантуру(тут языкам уделяют серьезное мнение)), разговорный английский, ну и естессно всегда есть вариант с другим языком))
+Ну от себя могу добавить что программа составлена не плохо, во всяком случае та по которой я занимаюсь, за 3,5 года вобщем то вывел свое знание английского пусть и не на небеса, но на очень приличный уровень с нуля... Мне вобщем по работе понять о чем говорят и пишут хватает:)
+А теперь, Жень, ответ на твой вопрос, про что щас учим не понятно, прошлый семак рассуждали на тему &quot;global worming&quot;, до этого - &quot;on the nature of the electron&quot;]]></description>
+		<content:encoded><![CDATA[<p>у нас английский щас про грамматику:)) Тут вобще как&#8230; вощем описываю подробно&#8230;<br />
+Приходишь ты в универ, тя заставляют тест писать по английскому, дальше 3 группы сложности, вернее даж 4.<br />
+1) к которой я отношусь, зовется ламье(ну ещеб я всю жизнь дойч ботал) и нас учат 4 года англу..<br />
+2) Средненько так&#8230; Ну учат тексты там посолиднее, переводят пожеще и т.д.<br />
+3) Ничотак&#8230; Гоняют балду с понтом что англ ботают:)))<br />
+4)О вилике гуру английского языка&#8230; Их то и отправляют на второй язык:) выбор не велик: французский, немецкий, испанский, японский, арабский.<br />
+Последние 3 группы сдают по англу гос на 3ем курсе, первая сдает тот же гос на 4ом&#8230; итог: все типа с одинаковым уровнем выходят кто то раньше, кто то позже&#8230; </p>
+<p>Апосля прохождения курса английского есть выбор&#8230; Примерно следующий: бизнес инглишь, технический переводчик(очень пафосно, типа диплом о дополнительном образовании, который ценится, и защитывается вступительным в аспирантуру(тут языкам уделяют серьезное мнение)), разговорный английский, ну и естессно всегда есть вариант с другим языком)) </p>
+<p>Ну от себя могу добавить что программа составлена не плохо, во всяком случае та по которой я занимаюсь, за 3,5 года вобщем то вывел свое знание английского пусть и не на небеса, но на очень приличный уровень с нуля&#8230; Мне вобщем по работе понять о чем говорят и пишут хватает:)</p>
+<p>А теперь, Жень, ответ на твой вопрос, про что щас учим не понятно, прошлый семак рассуждали на тему &#171;global worming&#187;, до этого &#8212; &#171;on the nature of the electron&#187;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2552</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2008 19:03:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2552</guid>
+		<description><![CDATA[У вас английский про что? :)]]></description>
+		<content:encoded><![CDATA[<p>У вас английский про что? :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2551</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2008 18:55:15 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2551</guid>
+		<description><![CDATA[а у нас есть:) и нада делать:) чооорт... впааааадлу... *зевает*]]></description>
+		<content:encoded><![CDATA[<p>а у нас есть:) и нада делать:) чооорт&#8230; впааааадлу&#8230; *зевает*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2549</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2008 18:03:44 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2549</guid>
+		<description><![CDATA[Говорят, что завтра и английского-то не будет *UNKNOWN*]]></description>
+		<content:encoded><![CDATA[<p>Говорят, что завтра и английского-то не будет <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Сергей Black</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2547</link>
+		<dc:creator><![CDATA[Сергей Black]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2008 15:23:05 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2547</guid>
+		<description><![CDATA[Колян, спасибо за оперативность!
+Теперь придется делать домашку *BO*]]></description>
+		<content:encoded><![CDATA[<p>Колян, спасибо за оперативность!<br />
+Теперь придется делать домашку <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bo.gif' alt='*BO*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html/comment-page-1#comment-2540</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2008 22:01:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/19/superconductors-ctatya-po-angliyskomu.html#comment-2540</guid>
+		<description><![CDATA[Эм... чисто моя тематика:)))) Потому и читается легко:)]]></description>
+		<content:encoded><![CDATA[<p>Эм&#8230; чисто моя тематика:)))) Потому и читается легко:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

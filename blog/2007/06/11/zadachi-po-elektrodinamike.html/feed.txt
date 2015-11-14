@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Задачи по электродинамике</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-2025</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 25 Nov 2007 17:23:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-2025</guid>
+		<description><![CDATA[Вроде я такого не встречал... или, может, кто-нибудь видел?]]></description>
+		<content:encoded><![CDATA[<p>Вроде я такого не встречал&#8230; или, может, кто-нибудь видел?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Акмарал</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-2020</link>
+		<dc:creator><![CDATA[Акмарал]]></dc:creator>
+		<pubDate>Sun, 25 Nov 2007 06:10:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-2020</guid>
+		<description><![CDATA[помогите найти решебник по электродинамике Батыгин, Топтыгин]]></description>
+		<content:encoded><![CDATA[<p>помогите найти решебник по электродинамике Батыгин, Топтыгин</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-789</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 15 Jun 2007 17:58:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-789</guid>
+		<description><![CDATA[жесть какая то пошла, смайлоботы атакуют)]]></description>
+		<content:encoded><![CDATA[<p>жесть какая то пошла, смайлоботы атакуют)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-788</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Fri, 15 Jun 2007 17:47:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-788</guid>
+		<description><![CDATA[*DANCE**DANCE**DANCE*]]></description>
+		<content:encoded><![CDATA[<p>*DANCE**DANCE**DANCE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-786</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 15 Jun 2007 12:06:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-786</guid>
+		<description><![CDATA[*CRAZY*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-785</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Fri, 15 Jun 2007 11:12:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-785</guid>
+		<description><![CDATA[Все мы пережили эту электродинамику *SMILE* Ура! Ура! Ура!]]></description>
+		<content:encoded><![CDATA[<p>Все мы пережили эту электродинамику <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> Ура! Ура! Ура!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-780</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2007 18:39:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-780</guid>
+		<description><![CDATA[Да-да... :-) и у нас такой задачник был.]]></description>
+		<content:encoded><![CDATA[<p>Да-да&#8230; :-) и у нас такой задачник был.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-778</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2007 21:21:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-778</guid>
+		<description><![CDATA[Нет я не ошибался.. Это и была тот самый теорпол который семак назад мы сдавали... именно он;))) Больше всего из всего курса меня веселила одна из основных книжек по которой ботать надо было &quot;Батыгин, Топтыгин под редакцией Бредова&quot;, у вас в списке литературы поминаются сии авторы, так вот она наиболее ярко описывала всё, что происходит в этом разделе теорфиза... Ну и Ландафшиц, да, да тот самый легендарный Ландафшиц, страницы из которого можно просто вырывать и курить, не забивая травой, потому как там такие приходы у батюшки Ландау были...
+Вобщем госплода желаю удачи;)]]></description>
+		<content:encoded><![CDATA[<p>Нет я не ошибался.. Это и была тот самый теорпол который семак назад мы сдавали&#8230; именно он;))) Больше всего из всего курса меня веселила одна из основных книжек по которой ботать надо было &#171;Батыгин, Топтыгин под редакцией Бредова&#187;, у вас в списке литературы поминаются сии авторы, так вот она наиболее ярко описывала всё, что происходит в этом разделе теорфиза&#8230; Ну и Ландафшиц, да, да тот самый легендарный Ландафшиц, страницы из которого можно просто вырывать и курить, не забивая травой, потому как там такие приходы у батюшки Ландау были&#8230;<br />
+Вобщем госплода желаю удачи;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html/comment-page-1#comment-777</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2007 18:23:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html#comment-777</guid>
+		<description><![CDATA[Прикольно, главное вовремя :)]]></description>
+		<content:encoded><![CDATA[<p>Прикольно, главное вовремя :)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

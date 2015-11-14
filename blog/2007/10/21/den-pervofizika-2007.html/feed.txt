@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: День первофизика-2007!</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1676</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2007 13:03:01 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1676</guid>
+		<description><![CDATA[По поводу хороших рок-клубов согласен]]></description>
+		<content:encoded><![CDATA[<p>По поводу хороших рок-клубов согласен</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: gesha</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1675</link>
+		<dc:creator><![CDATA[gesha]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2007 12:34:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1675</guid>
+		<description><![CDATA[все [moderated]]]></description>
+		<content:encoded><![CDATA[<p>все [moderated]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Paul Scholes</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1660</link>
+		<dc:creator><![CDATA[Paul Scholes]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2007 16:08:38 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1660</guid>
+		<description><![CDATA[Прикольно было хоть я и не люблю дискотеки, всеравно понравилось. Очень пахнет Европой *EVIL*
+Клуб на НЕБОСКРЕБ выше Партизана *THUMBS_UP*
+Обидно, что у нас, в Ярославле, нет хороших рок-клубов где могли бы выступать группы хотябы уровня Lumen]]></description>
+		<content:encoded><![CDATA[<p>Прикольно было хоть я и не люблю дискотеки, всеравно понравилось. Очень пахнет Европой <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> Клуб на НЕБОСКРЕБ выше Партизана <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /><br />
+Обидно, что у нас, в Ярославле, нет хороших рок-клубов где могли бы выступать группы хотябы уровня Lumen</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1654</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 20:56:27 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1654</guid>
+		<description><![CDATA[А также огромное спасибо Илюхе Гомбацу за такси*THUMBS_UP*]]></description>
+		<content:encoded><![CDATA[<p>А также огромное спасибо Илюхе Гомбацу за такси*THUMBS_UP*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1653</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 20:53:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1653</guid>
+		<description><![CDATA[Офигенный день первофизика!!!!! И пишут негатив не все, а одна барышня, которая &quot;в душе мальчик&quot;, как она сама о себе говорит.
+Задержали-ибо охрана продуманная и работает хорошо,естественно по студенческому сперва смотрели-вечеринка для физиков и ими приглашённых, посторонних личностей там быть не должно! Одна и таже песня-это &quot;Облака&quot;,господа, вы знали куда шли. Здесь царствует rnb, house, techno.Кто любит эти стили, разобрались что была всё-таки не одна) Программы продуманной, как правило не бывает, многие приходят просто потанцевать, а в перерывах, когда проходят конкурсы совершенно не обязательно смотреть на сцену-можно посидеть и отдохнуть. Про рэпера-согласна! Про коктейли- естесственно откажется огласить весь список! Во первых,просить надо вежливо и матом не ругаться, во вторых-музыка играет громко,можно этот список элементарно прочитать в меню.Про гардероб не осведомлена, ибо куртку туда не сдавала)) Партяга может и рулит, но, чесно говоря, надоело в этой самой паряге танцевать под Земфиру, Пикник и тд. Надоело, что там, помимо своих тусуются посторонние личности. А про тряпки, которые там с потолка свешиваются-вообще молчу! В общем, мы уехали домой около 3-х ночи, больше просто ноги не держали) Понравилось ещё потому, что там я встретила невероятное количество тех, кого давно уже не видела. И вмещает клуб около 700 человек(!) В общем-самый клёвый и быстрый(в плане музыки) ДПФ, на котором я была.]]></description>
+		<content:encoded><![CDATA[<p>Офигенный день первофизика!!!!! И пишут негатив не все, а одна барышня, которая &#171;в душе мальчик&#187;, как она сама о себе говорит.<br />
+Задержали-ибо охрана продуманная и работает хорошо,естественно по студенческому сперва смотрели-вечеринка для физиков и ими приглашённых, посторонних личностей там быть не должно! Одна и таже песня-это &#171;Облака&#187;,господа, вы знали куда шли. Здесь царствует rnb, house, techno.Кто любит эти стили, разобрались что была всё-таки не одна) Программы продуманной, как правило не бывает, многие приходят просто потанцевать, а в перерывах, когда проходят конкурсы совершенно не обязательно смотреть на сцену-можно посидеть и отдохнуть. Про рэпера-согласна! Про коктейли- естесственно откажется огласить весь список! Во первых,просить надо вежливо и матом не ругаться, во вторых-музыка играет громко,можно этот список элементарно прочитать в меню.Про гардероб не осведомлена, ибо куртку туда не сдавала)) Партяга может и рулит, но, чесно говоря, надоело в этой самой паряге танцевать под Земфиру, Пикник и тд. Надоело, что там, помимо своих тусуются посторонние личности. А про тряпки, которые там с потолка свешиваются-вообще молчу! В общем, мы уехали домой около 3-х ночи, больше просто ноги не держали) Понравилось ещё потому, что там я встретила невероятное количество тех, кого давно уже не видела. И вмещает клуб около 700 человек(!) В общем-самый клёвый и быстрый(в плане музыки) ДПФ, на котором я была.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1651</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 18:51:47 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1651</guid>
+		<description><![CDATA[Для кого то это был самый быстрый ДПФ в мире :)]]></description>
+		<content:encoded><![CDATA[<p>Для кого то это был самый быстрый ДПФ в мире :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1646</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 15:14:11 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1646</guid>
+		<description><![CDATA[Неужели это правда, что пишут о ДПФ в контакте:
+&lt;blockquote&gt;
+Щаслив тот кто придумал провести ДПФ в аир,ибо не известно мне имя его... Иначе окончилось преждевременно бы житие его)))
+Ибо задержали начало на час
+ибо заебало слушать всю ночь одну и ту же пестню (а обещали музыку на любой вкус... наверно у меня не любой)
+ибо не заметил я продуманной программы
+ибо репер надоел уже и вообще не в тему
+ибо в баре отказывались огласить список коктелей
+ибо когда расстроен и недопйан собрался я домой, простял полтора часа в очереди за шубою моею
+ибо был это самый дрянной ДПФ из виденных мною
+АИР ГАМНО ПАРТЯГА РУЛИТ
+&lt;/blockquote&gt;]]></description>
+		<content:encoded><![CDATA[<p>Неужели это правда, что пишут о ДПФ в контакте:</p>
+<blockquote><p>
+Щаслив тот кто придумал провести ДПФ в аир,ибо не известно мне имя его&#8230; Иначе окончилось преждевременно бы житие его)))<br />
+Ибо задержали начало на час<br />
+ибо заебало слушать всю ночь одну и ту же пестню (а обещали музыку на любой вкус&#8230; наверно у меня не любой)<br />
+ибо не заметил я продуманной программы<br />
+ибо репер надоел уже и вообще не в тему<br />
+ибо в баре отказывались огласить список коктелей<br />
+ибо когда расстроен и недопйан собрался я домой, простял полтора часа в очереди за шубою моею<br />
+ибо был это самый дрянной ДПФ из виденных мною</p>
+<p>АИР ГАМНО ПАРТЯГА РУЛИТ
+</p></blockquote>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1620</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 22 Oct 2007 20:44:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1620</guid>
+		<description><![CDATA[Люди!!! Пойдёмте в &quot;Облака&quot;!это редкость, что за 80р!туда обычно минимум 200 вход))]]></description>
+		<content:encoded><![CDATA[<p>Люди!!! Пойдёмте в &#171;Облака&#187;!это редкость, что за 80р!туда обычно минимум 200 вход))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1604</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2007 07:35:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1604</guid>
+		<description><![CDATA[Спасибо за информацию -- сейчас подправлю ;-)]]></description>
+		<content:encoded><![CDATA[<p>Спасибо за информацию &#8212; сейчас подправлю ;-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html/comment-page-1#comment-1603</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2007 07:31:45 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/21/den-pervofizika-2007.html#comment-1603</guid>
+		<description><![CDATA[У Петрушовой есть 40 билетов на 4 курс. 10 из них она отдала мне, у распространителей(то бишь меня и Петрушовой)билеты по 80. После полуночи билеты будут стоить не 150, а 120))]]></description>
+		<content:encoded><![CDATA[<p>У Петрушовой есть 40 билетов на 4 курс. 10 из них она отдала мне, у распространителей(то бишь меня и Петрушовой)билеты по 80. После полуночи билеты будут стоить не 150, а 120))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

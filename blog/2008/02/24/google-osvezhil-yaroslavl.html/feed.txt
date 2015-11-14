@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Google освежил Ярославль</title>
+	<atom:link href="http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html/comment-page-1#comment-2581</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 06:12:25 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html#comment-2581</guid>
+		<description><![CDATA[Да, это про самое последнее обновление. В то обновление они обновили весь сервер Ярославля. А вот теперь и юг %)]]></description>
+		<content:encoded><![CDATA[<p>Да, это про самое последнее обновление. В то обновление они обновили весь сервер Ярославля. А вот теперь и юг %)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html/comment-page-1#comment-2579</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sun, 24 Feb 2008 18:46:42 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html#comment-2579</guid>
+		<description><![CDATA[да... это мы про предпоследний update говорили..]]></description>
+		<content:encoded><![CDATA[<p>да&#8230; это мы про предпоследний update говорили..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html/comment-page-1#comment-2578</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Sun, 24 Feb 2008 15:24:08 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/24/google-osvezhil-yaroslavl.html#comment-2578</guid>
+		<description><![CDATA[&quot; 29.10.2007 22:07:41, ER
+прикинь на гугл мэпе  наконец то ярославль прорисовали
+ 29.10.2007 22:07:44, ER
+привет
+ 29.10.2007 22:07:54, ErliZz
+Привет!
+ 29.10.2007 22:08:08, ErliZz
+с большим засветом в нижнем правом углу ?
+ 29.10.2007 22:08:22, ER
+типа того 3 недели назад еще не было)
+ 29.10.2007 22:08:41, ErliZz
+да лана.... я счас кнешна гляну
+ 29.10.2007 22:08:51, ErliZz
+ но перефокали еще весной по моему
+ 29.10.2007 22:08:57, ER
+нет
+ 29.10.2007 22:09:00, ER
+точно нет
+ 29.10.2007 22:11:06, ErliZz
+да ты гонишь это уже давным давно перефоткано. я даже Жене писал в логах есть когда
+ 29.10.2007 22:18:11, ErliZz
+прислал бы координаты дома своего, раз всеравно в гугле был =)
+&quot;
+Но к сожалению моего дома так и не нарисовали:(((
+Кстати карты нормальные для Ярославля есть:) Во всяком случае для GPS (у меня знакомый активно использует:) )]]></description>
+		<content:encoded><![CDATA[<p>&#187; 29.10.2007 22:07:41, ER<br />
+прикинь на гугл мэпе  наконец то ярославль прорисовали</p>
+<p> 29.10.2007 22:07:44, ER<br />
+привет</p>
+<p> 29.10.2007 22:07:54, ErliZz<br />
+Привет!</p>
+<p> 29.10.2007 22:08:08, ErliZz<br />
+с большим засветом в нижнем правом углу ?</p>
+<p> 29.10.2007 22:08:22, ER<br />
+типа того 3 недели назад еще не было)</p>
+<p> 29.10.2007 22:08:41, ErliZz<br />
+да лана&#8230;. я счас кнешна гляну</p>
+<p> 29.10.2007 22:08:51, ErliZz<br />
+ но перефокали еще весной по моему</p>
+<p> 29.10.2007 22:08:57, ER<br />
+нет</p>
+<p> 29.10.2007 22:09:00, ER<br />
+точно нет</p>
+<p> 29.10.2007 22:11:06, ErliZz<br />
+да ты гонишь это уже давным давно перефоткано. я даже Жене писал в логах есть когда</p>
+<p> 29.10.2007 22:18:11, ErliZz<br />
+прислал бы координаты дома своего, раз всеравно в гугле был =)<br />
+&#187;</p>
+<p>Но к сожалению моего дома так и не нарисовали:(((<br />
+Кстати карты нормальные для Ярославля есть:) Во всяком случае для GPS (у меня знакомый активно использует:) )</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

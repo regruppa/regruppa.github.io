@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Моё первое видео на YouTube</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html/comment-page-1#comment-135</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Mon, 16 Apr 2007 15:46:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/12/moyo-pervoe-video-na-youtube.html#comment-135</guid>
+		<description><![CDATA[&lt;blockquote&gt;А то видео, что у нас уже было, пока надо просто перепросжать, да выложить в раздел Видео, который пока почему-то пустует.&lt;/blockquote&gt;
+я вроде за это брался *BLUSH* - исправлюсь: на этой неделе предоставлю прожатые ролики]]></description>
+		<content:encoded><![CDATA[<blockquote><p>А то видео, что у нас уже было, пока надо просто перепросжать, да выложить в раздел Видео, который пока почему-то пустует.</p></blockquote>
+<p>я вроде за это брался <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blush.gif' alt='*BLUSH*' class='wp-smiley' /> &#8212; исправлюсь: на этой неделе предоставлю прожатые ролики</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html/comment-page-1#comment-88</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 14 Apr 2007 03:49:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/12/moyo-pervoe-video-na-youtube.html#comment-88</guid>
+		<description><![CDATA[Надо будет выложить ещё пару роликов с Юрой, так как пока они самые современные. А то видео, что у нас уже было, пока надо просто перепросжать, да выложить в раздел &lt;a href=&quot;/media/videos/&quot; rel=&quot;nofollow&quot;&gt;Видео&lt;/a&gt;, который пока почему-то пустует.]]></description>
+		<content:encoded><![CDATA[<p>Надо будет выложить ещё пару роликов с Юрой, так как пока они самые современные. А то видео, что у нас уже было, пока надо просто перепросжать, да выложить в раздел <a href="/media/videos/" rel="nofollow" class="liinternal">Видео</a>, который пока почему-то пустует.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html/comment-page-1#comment-75</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 13 Apr 2007 03:54:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/12/moyo-pervoe-video-na-youtube.html#comment-75</guid>
+		<description><![CDATA[Точно! Надо было так регистрироваться *PARDON* Может перерегистрироваться или где-нибудь указать дополнительную инфу о сайте?
+Кстати, у нас существует специальный спам-ящик для сайта -- regruppa &lt;a href=&quot;/etc/explanaion/#at&quot; rel=&quot;nofollow&quot;&gt;at&lt;/a&gt; yandex.ru :-D]]></description>
+		<content:encoded><![CDATA[<p>Точно! Надо было так регистрироваться <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_pardon.gif' alt='*PARDON*' class='wp-smiley' /> Может перерегистрироваться или где-нибудь указать дополнительную инфу о сайте?<br />
+Кстати, у нас существует специальный спам-ящик для сайта &#8212; regruppa <a href="/etc/explanaion/#at" rel="nofollow" class="liinternal">at</a> yandex.ru :-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/12/moyo-pervoe-video-na-youtube.html/comment-page-1#comment-68</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 12 Apr 2007 20:06:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/12/moyo-pervoe-video-na-youtube.html#comment-68</guid>
+		<description><![CDATA[здорово! еще хорошо, что это видео не занимает место на нашем сервере! но хотел отметить: там &lt;a href=&quot;http://www.regruppa.ru/re/misha&quot; rel=&quot;nofollow&quot;&gt;Миши&lt;/a&gt; еще больше чем меня, а в тексте не упомянуто =)  а на сайте &lt;a href=&quot;http://www.youtube.com&quot; rel=&quot;nofollow&quot;&gt;youtube&lt;/a&gt; пользователя нельзя было назвать www.regruppa.ru?-- тогда возможно АмериканцЫ к нам на сайт бы навещались=)]]></description>
+		<content:encoded><![CDATA[<p>здорово! еще хорошо, что это видео не занимает место на нашем сервере! но хотел отметить: там <a href="http://www.regruppa.ru/re/misha" rel="nofollow" class="liinternal">Миши</a> еще больше чем меня, а в тексте не упомянуто =)  а на сайте <a href="http://www.youtube.com" rel="nofollow" class="liexternal">youtube</a> пользователя нельзя было назвать <a href="http://www.regruppa.ru?--" rel="nofollow" class="re">http://www.regruppa.ru?&#8212;</a> тогда возможно АмериканцЫ к нам на сайт бы навещались=)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

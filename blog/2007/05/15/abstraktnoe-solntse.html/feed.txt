@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Абстрактное солнце</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-481</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 18 May 2007 09:18:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-481</guid>
+		<description><![CDATA[Видимо это...
+&lt;div style=&quot;text-align:center;&quot;&gt;
+&lt;img src=&quot;http://www.regruppa.ru/content/blog/2007/05/480883.gif&quot; /&gt;
+&lt;/div&gt;]]></description>
+		<content:encoded><![CDATA[<p>Видимо это&#8230;</p>
+<div style="text-align:center;">
+<img src="http://www.regruppa.ru/content/blog/2007/05/480883.gif" />
+</div>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-474</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 17 May 2007 07:36:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-474</guid>
+		<description><![CDATA[*CRAZY* &lt;a href=&quot;http://www.regruppa.ru/re/vova/&quot; rel=&quot;nofollow&quot;&gt;Вова&lt;/a&gt;, а зачем ты используешь два ника?]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> <a href="http://www.regruppa.ru/re/vova/" rel="nofollow" class="liinternal">Вова</a>, а зачем ты используешь два ника?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: паук</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-469</link>
+		<dc:creator><![CDATA[паук]]></dc:creator>
+		<pubDate>Wed, 16 May 2007 16:08:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-469</guid>
+		<description><![CDATA[Ребятки, абстрактное солнце это уже путёвка в загородный садик, там вас уже ждёт паук........:-D:-D:-D:-D:-D над всеми там светит абстрактное солнце.........]]></description>
+		<content:encoded><![CDATA[<p>Ребятки, абстрактное солнце это уже путёвка в загородный садик, там вас уже ждёт паук&#8230;&#8230;..:-D:-D:-D:-D:-D над всеми там светит абстрактное солнце&#8230;&#8230;&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: паук</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-468</link>
+		<dc:creator><![CDATA[паук]]></dc:creator>
+		<pubDate>Wed, 16 May 2007 16:04:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-468</guid>
+		<description><![CDATA[Всем в жопу *EVIL*]]></description>
+		<content:encoded><![CDATA[<p>Всем в жопу <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: paul_scholes</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-467</link>
+		<dc:creator><![CDATA[paul_scholes]]></dc:creator>
+		<pubDate>Wed, 16 May 2007 16:03:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-467</guid>
+		<description><![CDATA[А у кого есть вся коллекция &quot;Чудес на вирожах&quot;?
+*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>А у кого есть вся коллекция &#171;Чудес на вирожах&#187;? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-459</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 16:12:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-459</guid>
+		<description><![CDATA[Эм... у группы кино на обложке альбома &quot;Звезда по имени Солнце&quot; рисунок не катит? :)]]></description>
+		<content:encoded><![CDATA[<p>Эм&#8230; у группы кино на обложке альбома &#171;Звезда по имени Солнце&#187; рисунок не катит? :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-454</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 15:05:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-454</guid>
+		<description><![CDATA[Ну да :-) похоже. А есть ещё какие-нибудь картинки?]]></description>
+		<content:encoded><![CDATA[<p>Ну да :-) похоже. А есть ещё какие-нибудь картинки?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html/comment-page-1#comment-448</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 14:51:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/15/abstraktnoe-solntse.html#comment-448</guid>
+		<description><![CDATA[вполне похоже на пиктограмму для раздела Летопись =)]]></description>
+		<content:encoded><![CDATA[<p>вполне похоже на пиктограмму для раздела Летопись =)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

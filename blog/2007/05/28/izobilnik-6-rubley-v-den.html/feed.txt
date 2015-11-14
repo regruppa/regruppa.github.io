@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Изобильник: 6 рублей в день</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ава</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-1040</link>
+		<dc:creator><![CDATA[ава]]></dc:creator>
+		<pubDate>Wed, 11 Jul 2007 16:19:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-1040</guid>
+		<description><![CDATA[ХУЙ ВАМ ВСЕ В РОТ ПИДАРЫ*BOMB*]]></description>
+		<content:encoded><![CDATA[<p>ХУЙ ВАМ ВСЕ В РОТ ПИДАРЫ*BOMB*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ster</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-809</link>
+		<dc:creator><![CDATA[ster]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 06:02:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-809</guid>
+		<description><![CDATA[[no ad!]]]></description>
+		<content:encoded><![CDATA[<p>[no ad!]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-649</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 16:27:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-649</guid>
+		<description><![CDATA[2 eunix
+нет я не о том... ясно - понятно что меседжеров дофига и протоколов дофига... самый распространённый, кстати, как не странно aim, icq всего на 7ом чтоли месте, по колличеству пользователей.. но мысль вы не правильно поняли... скайп просто считается именно прогой для деловых людей, например в силиконовой долине не прилично давать визитку без указания на ней скайпа, то есть это как телефон и рабочий адрес, такая же контактная инфа(это мне ребята с imagine cup рассказали, их просто как победителей приглашали на работу, они месяц поработали и вернулись назад прогать в россии;))
+2 fetisha
+и на том пасиба....
+2 Erlizz
+нет она так не называется на билайне
+2 eunix
+ты не прав это не всегда выгодно, у меня симка ярославская... и тарифов которые есть в ярославле в москве может и не быть, верно и наоборот, кстати стоимость на одинаковых тарифах тоже разная, хотя регион один считается центральный...]]></description>
+		<content:encoded><![CDATA[<p>2 eunix<br />
+нет я не о том&#8230; ясно &#8212; понятно что меседжеров дофига и протоколов дофига&#8230; самый распространённый, кстати, как не странно aim, icq всего на 7ом чтоли месте, по колличеству пользователей.. но мысль вы не правильно поняли&#8230; скайп просто считается именно прогой для деловых людей, например в силиконовой долине не прилично давать визитку без указания на ней скайпа, то есть это как телефон и рабочий адрес, такая же контактная инфа(это мне ребята с imagine cup рассказали, их просто как победителей приглашали на работу, они месяц поработали и вернулись назад прогать в россии;)) </p>
+<p>2 fetisha<br />
+и на том пасиба&#8230;.</p>
+<p>2 Erlizz<br />
+нет она так не называется на билайне</p>
+<p>2 eunix </p>
+<p>ты не прав это не всегда выгодно, у меня симка ярославская&#8230; и тарифов которые есть в ярославле в москве может и не быть, верно и наоборот, кстати стоимость на одинаковых тарифах тоже разная, хотя регион один считается центральный&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-648</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 16:13:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-648</guid>
+		<description><![CDATA[у МТСа знаю (у Гришки сейчас такой) в регионы по россии звонки 1.80 минута, вот уж не знаю есть ли дешевле где... (запоминать тарифы всех операторов имхо совершенно ни  к чему. голову забивать).]]></description>
+		<content:encoded><![CDATA[<p>у МТСа знаю (у Гришки сейчас такой) в регионы по россии звонки 1.80 минута, вот уж не знаю есть ли дешевле где&#8230; (запоминать тарифы всех операторов имхо совершенно ни  к чему. голову забивать).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-647</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 15:59:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-647</guid>
+		<description><![CDATA[Skype? Источники, пожалуйста =) для общения многие выбирают на западе Yahoo, Google Talk, MSN (Windows Live).]]></description>
+		<content:encoded><![CDATA[<p>Skype? Источники, пожалуйста =) для общения многие выбирают на западе Yahoo, Google Talk, MSN (Windows Live).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-645</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 15:56:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-645</guid>
+		<description><![CDATA[Да, ER, та прав, что с роумингом в &lt;strong&gt;центральной&lt;/strong&gt; России у СМАРТС проблемы, и он явно проигрывает Билайну. Но вот Волжский регион и Краснодарский край... :-) да и вообще лучше прямо в том регионе, где находишься, и покупать sim-карту местного оператора.
+А почему забыли про МТС, НСС, Мегафон, Теле2?]]></description>
+		<content:encoded><![CDATA[<p>Да, ER, та прав, что с роумингом в <strong>центральной</strong> России у СМАРТС проблемы, и он явно проигрывает Билайну. Но вот Волжский регион и Краснодарский край&#8230; :-) да и вообще лучше прямо в том регионе, где находишься, и покупать sim-карту местного оператора.</p>
+<p>А почему забыли про МТС, НСС, Мегафон, Теле2?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-644</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 15:48:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-644</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Не знаю как в других районах, но в Ярославской области Смартс первым ввел услуги пакета смс, “дать взаймы” и передача денег с аккаунта на аккаунт. Так что Билайн БАЯНИТ
+&lt;/blockquote&gt;
+Первый в России :-)]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Не знаю как в других районах, но в Ярославской области Смартс первым ввел услуги пакета смс, “дать взаймы” и передача денег с аккаунта на аккаунт. Так что Билайн БАЯНИТ
+</p></blockquote>
+<p>Первый в России :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-643</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 14:19:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-643</guid>
+		<description><![CDATA[To ER правильно мыслите, молодой человек:))]]></description>
+		<content:encoded><![CDATA[<p>To ER правильно мыслите, молодой человек:))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz/Geras</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-642</link>
+		<dc:creator><![CDATA[Erlizz/Geras]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 12:52:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-642</guid>
+		<description><![CDATA[E:У Билайна эта услуга &quot;много смсок&quot; вроде назывется &quot;ДЛЯ ГЛУХОНЕМЫХ&quot;..=)
+G: Не знаю как в других районах, но в Ярославской области Смартс первым ввел услуги пакета смс, &quot;дать взаймы&quot; и передача денег с аккаунта на аккаунт. Так что Билайн БАЯНИТ *ROFL*. А еще у Билайна нет выгоды во всем: каждый тариф имеет только одну фишку, так что не катите бочку*BLUM*]]></description>
+		<content:encoded><![CDATA[<p>E:У Билайна эта услуга &#171;много смсок&#187; вроде назывется &#171;ДЛЯ ГЛУХОНЕМЫХ&#187;..=)<br />
+G: Не знаю как в других районах, но в Ярославской области Смартс первым ввел услуги пакета смс, &#171;дать взаймы&#187; и передача денег с аккаунта на аккаунт. Так что Билайн БАЯНИТ *ROFL*. А еще у Билайна нет выгоды во всем: каждый тариф имеет только одну фишку, так что не катите бочку*BLUM*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html/comment-page-1#comment-641</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 08:01:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/izobilnik-6-rubley-v-den.html#comment-641</guid>
+		<description><![CDATA[Ну что может предложить билайн я уже сказал... городские телефоны меня не касаются совершенно(хотя если кто то мне позвонить то 1,5 рубля потратит в минуту) потому как мне никто не звонит с них... насчёт смсок, на билайне кстати тоже есть услуга смс пакет, она чуть дороже чем на смартсе, но не многим, я смсками особо не балуюсь... при нулевом балансе могу попросиьт доверительный платёж от билайна, очень удобно када денег нет и возможности положить тоже нет, могу попросить перезвонить человека отправив одну совершенно бесплатную смску.... да и бонусы у билайна гораздо эффектнее, +10% от всех платежей, ну и так ещё по мелочи халявки с неба падают) внимание вопрос: а что если, упоси Господь, со смартсами вы куда нить поедете, ну скажем в Питер(не говорю Москву, шоб розжига не было) на выходные, и чо менять симку или платить бешеный объём денег? а пчелайн это всё грамотно предусмотрел)
+А аська действительно фигня, все модные дядьки на западе юзают скайп, ну так вот у них приянто.... да и вообще аська это как то не серьёзно, всегда и везеде с официальными запросами пишут письма... нет я сам юзаю аську, она так скажем удобна для трёпа, ну и порой нужна реально бывает, но это не та вещь в которой я уверен на 100%, вот позвонил человеку сказал надо то и то он сказал &quot;угу&quot; вот тогда можно быть в чём то уверенным...]]></description>
+		<content:encoded><![CDATA[<p>Ну что может предложить билайн я уже сказал&#8230; городские телефоны меня не касаются совершенно(хотя если кто то мне позвонить то 1,5 рубля потратит в минуту) потому как мне никто не звонит с них&#8230; насчёт смсок, на билайне кстати тоже есть услуга смс пакет, она чуть дороже чем на смартсе, но не многим, я смсками особо не балуюсь&#8230; при нулевом балансе могу попросиьт доверительный платёж от билайна, очень удобно када денег нет и возможности положить тоже нет, могу попросить перезвонить человека отправив одну совершенно бесплатную смску&#8230;. да и бонусы у билайна гораздо эффектнее, +10% от всех платежей, ну и так ещё по мелочи халявки с неба падают) внимание вопрос: а что если, упоси Господь, со смартсами вы куда нить поедете, ну скажем в Питер(не говорю Москву, шоб розжига не было) на выходные, и чо менять симку или платить бешеный объём денег? а пчелайн это всё грамотно предусмотрел)</p>
+<p>А аська действительно фигня, все модные дядьки на западе юзают скайп, ну так вот у них приянто&#8230;. да и вообще аська это как то не серьёзно, всегда и везеде с официальными запросами пишут письма&#8230; нет я сам юзаю аську, она так скажем удобна для трёпа, ну и порой нужна реально бывает, но это не та вещь в которой я уверен на 100%, вот позвонил человеку сказал надо то и то он сказал &#171;угу&#187; вот тогда можно быть в чём то уверенным&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

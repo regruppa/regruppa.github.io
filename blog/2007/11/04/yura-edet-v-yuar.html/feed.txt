@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Юра едет в ЮАР</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/comment-page-1#comment-1794</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 19:13:47 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html#comment-1794</guid>
+		<description><![CDATA[Это песня так называется &quot;Юра едет в ЮАР&quot;...)))]]></description>
+		<content:encoded><![CDATA[<p>Это песня так называется &#171;Юра едет в ЮАР&#187;&#8230;)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/comment-page-1#comment-1788</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 16:09:45 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html#comment-1788</guid>
+		<description><![CDATA[ага Бобры... крылья 2006... просила оценить группу девочка с сокраментальной фамилией Боброва...]]></description>
+		<content:encoded><![CDATA[<p>ага Бобры&#8230; крылья 2006&#8230; просила оценить группу девочка с сокраментальной фамилией Боброва&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/comment-page-1#comment-1785</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 15:30:35 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html#comment-1785</guid>
+		<description><![CDATA[Что-то я не понял *UNKNOWN* Причем тут Юра и ЮАР ???]]></description>
+		<content:encoded><![CDATA[<p>Что-то я не понял <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> Причем тут Юра и ЮАР ???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/comment-page-1#comment-1781</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 13:33:14 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html#comment-1781</guid>
+		<description><![CDATA[Да, музычка у Боборов позитивная)) тут ничего не скажешь)))]]></description>
+		<content:encoded><![CDATA[<p>Да, музычка у Боборов позитивная)) тут ничего не скажешь)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html/comment-page-1#comment-1778</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 09:48:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/04/yura-edet-v-yuar.html#comment-1778</guid>
+		<description><![CDATA[Ну дык, надо сходить :)]]></description>
+		<content:encoded><![CDATA[<p>Ну дык, надо сходить :)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

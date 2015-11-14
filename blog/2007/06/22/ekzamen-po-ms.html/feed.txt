@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Экзамен по МС</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/comment-page-1#comment-942</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2007 18:13:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html#comment-942</guid>
+		<description><![CDATA[всегда бы так. без лишних разговоров и вопросов =))]]></description>
+		<content:encoded><![CDATA[<p>всегда бы так. без лишних разговоров и вопросов =))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/comment-page-1#comment-940</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2007 18:05:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html#comment-940</guid>
+		<description><![CDATA[Вот и поставил он всем оценки без экзамена :)]]></description>
+		<content:encoded><![CDATA[<p>Вот и поставил он всем оценки без экзамена :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/comment-page-1#comment-891</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2007 18:37:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html#comment-891</guid>
+		<description><![CDATA[Клёво!!!=)]]></description>
+		<content:encoded><![CDATA[<p>Клёво!!!=)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/comment-page-1#comment-888</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2007 14:43:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html#comment-888</guid>
+		<description><![CDATA[Да :) позитивная инфа.
++ P.S. Надеюсь письмо по рассылке пришло не только мне... сообщите, если пришло и вам.]]></description>
+		<content:encoded><![CDATA[<p>Да :) позитивная инфа.<br />
++ P.S. Надеюсь письмо по рассылке пришло не только мне&#8230; сообщите, если пришло и вам.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html/comment-page-1#comment-887</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2007 14:34:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/22/ekzamen-po-ms.html#comment-887</guid>
+		<description><![CDATA[Это очень позитивная Сессионная Новость.! пусть все уже давно знают, что учить не надо, но в очередной раз прочитать официальную инфо об этом-- оч приятно!=)]]></description>
+		<content:encoded><![CDATA[<p>Это очень позитивная Сессионная Новость.! пусть все уже давно знают, что учить не надо, но в очередной раз прочитать официальную инфо об этом&#8212; оч приятно!=)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

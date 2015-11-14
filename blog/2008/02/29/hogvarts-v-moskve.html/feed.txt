@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Хогвартс в Москве</title>
+	<atom:link href="http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Евгений</title>
+		<link>http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html/comment-page-1#comment-4520</link>
+		<dc:creator><![CDATA[Евгений]]></dc:creator>
+		<pubDate>Sun, 27 Jul 2008 11:09:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html#comment-4520</guid>
+		<description><![CDATA[эта лестница выполняла функцию по доставке оборудования для лабораторных работ и прочей дребедени, которую не так легко поднять и &quot;забросить&quot; на этажи]]></description>
+		<content:encoded><![CDATA[<p>эта лестница выполняла функцию по доставке оборудования для лабораторных работ и прочей дребедени, которую не так легко поднять и &#171;забросить&#187; на этажи</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html/comment-page-1#comment-2599</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Fri, 29 Feb 2008 20:52:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html#comment-2599</guid>
+		<description><![CDATA[эх.. а у нас есть что тока похвастаться дореволюционным зданием с лифтом:)]]></description>
+		<content:encoded><![CDATA[<p>эх.. а у нас есть что тока похвастаться дореволюционным зданием с лифтом:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html/comment-page-1#comment-2598</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 29 Feb 2008 20:04:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html#comment-2598</guid>
+		<description><![CDATA[Во-во! :) нас тоже испугала такая лестница.]]></description>
+		<content:encoded><![CDATA[<p>Во-во! :) нас тоже испугала такая лестница.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Elina</title>
+		<link>http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html/comment-page-1#comment-2597</link>
+		<dc:creator><![CDATA[Elina]]></dc:creator>
+		<pubDate>Fri, 29 Feb 2008 20:01:39 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/29/hogvarts-v-moskve.html#comment-2597</guid>
+		<description><![CDATA[Ничего себе! :) Первый раз вижу, что бы в университете были такие лестницы!*CRAZY* Футуристическая обстановка! %-)]]></description>
+		<content:encoded><![CDATA[<p>Ничего себе! :) Первый раз вижу, что бы в университете были такие лестницы!*CRAZY* Футуристическая обстановка! %-)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

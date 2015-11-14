@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: SMS на СМАРТС через интернет</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: 9544</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-25879</link>
+		<dc:creator><![CDATA[9544]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2010 08:48:22 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-25879</guid>
+		<description><![CDATA[11- ну и как пашет]]></description>
+		<content:encoded><![CDATA[<p>11- ну и как пашет</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Yura</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2108</link>
+		<dc:creator><![CDATA[Yura]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2007 16:11:10 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2108</guid>
+		<description><![CDATA[Здорово! Только вот под каждым сообщением нужно подпись ставить :-)]]></description>
+		<content:encoded><![CDATA[<p>Здорово! Только вот под каждым сообщением нужно подпись ставить :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: CaDoBHuK</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2080</link>
+		<dc:creator><![CDATA[CaDoBHuK]]></dc:creator>
+		<pubDate>Wed, 28 Nov 2007 08:12:29 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2080</guid>
+		<description><![CDATA[Выкладывай исходник! =)]]></description>
+		<content:encoded><![CDATA[<p>Выкладывай исходник! =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2068</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2007 22:17:57 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2068</guid>
+		<description><![CDATA[даешь для всех операторов:)Надо тож пошаманить, заинтриговал:) Вот работу разгребу тож попробую свои силы:)
+Спасиб за идею:)]]></description>
+		<content:encoded><![CDATA[<p>даешь для всех операторов:)Надо тож пошаманить, заинтриговал:) Вот работу разгребу тож попробую свои силы:)<br />
+Спасиб за идею:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Дмитрий</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2066</link>
+		<dc:creator><![CDATA[Дмитрий]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2007 21:39:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2066</guid>
+		<description><![CDATA[летом сделал такой сервис для МТС, вот уж голову поломал над их защитой, всё таки одолел :) если у тебя получится расскажу свое решение]]></description>
+		<content:encoded><![CDATA[<p>летом сделал такой сервис для МТС, вот уж голову поломал над их защитой, всё таки одолел :) если у тебя получится расскажу свое решение</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2063</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2007 20:29:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2063</guid>
+		<description><![CDATA[конечно законно., это получается просто клиент для сервиса, который предоставляет сам смартс... там даже антиспам картинки (captcha) с оффсайта грузятся.]]></description>
+		<content:encoded><![CDATA[<p>конечно законно., это получается просто клиент для сервиса, который предоставляет сам смартс&#8230; там даже антиспам картинки (captcha) с оффсайта грузятся.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Дмитрий</title>
+		<link>http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html/comment-page-1#comment-2062</link>
+		<dc:creator><![CDATA[Дмитрий]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2007 20:06:30 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/27/sms-na-smarts-cherez-internet.html#comment-2062</guid>
+		<description><![CDATA[Интересно законно ли это?]]></description>
+		<content:encoded><![CDATA[<p>Интересно законно ли это?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

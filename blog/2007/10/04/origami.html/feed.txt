@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Оригами</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/04/origami.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/04/origami.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1454</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 08:07:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1454</guid>
+		<description><![CDATA[баш тут втемен
+http://bash.org.ru/quote/392475
+осторожно мат:)]]></description>
+		<content:encoded><![CDATA[<p>баш тут втемен<br />
+<a href="http://bash.org.ru/quote/392475" rel="nofollow" class="liexternal">http://bash.org.ru/quote/392475</a><br />
+осторожно мат:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1417</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2007 05:10:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1417</guid>
+		<description><![CDATA[Надо распечатать пару оригами, да поделать на паре-лекции какой-нибудь :)]]></description>
+		<content:encoded><![CDATA[<p>Надо распечатать пару оригами, да поделать на паре-лекции какой-нибудь :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1410</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 17:07:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1410</guid>
+		<description><![CDATA[не, ну когда уже идут очень много-сложно-составные из большого количества составляющих, то там иногда клей применяеться..., а так в основном без клея и без ножниц]]></description>
+		<content:encoded><![CDATA[<p>не, ну когда уже идут очень много-сложно-составные из большого количества составляющих, то там иногда клей применяеться&#8230;, а так в основном без клея и без ножниц</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1409</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 16:49:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1409</guid>
+		<description><![CDATA[Клей? Что, серьёзно? Я всегда думал, что оригами -- это фигуры без клея *UNKNOWN*]]></description>
+		<content:encoded><![CDATA[<p>Клей? Что, серьёзно? Я всегда думал, что оригами &#8212; это фигуры без клея <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1408</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 16:39:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1408</guid>
+		<description><![CDATA[а некоторые без клея кажется и не собрать ;)]]></description>
+		<content:encoded><![CDATA[<p>а некоторые без клея кажется и не собрать ;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/04/origami.html/comment-page-1#comment-1406</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 15:06:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/04/origami.html#comment-1406</guid>
+		<description><![CDATA[На просторах интернета есть много схем оригами. Но иногда попадаются такие сложные, что и не сделать. Например, я как-то пытался сделать &lt;a href=&quot;http://origami.ru/mod/mode/0032dm1.htm&quot; rel=&quot;nofollow&quot;&gt;розу&lt;/a&gt; -- так и не получилось *NO*]]></description>
+		<content:encoded><![CDATA[<p>На просторах интернета есть много схем оригами. Но иногда попадаются такие сложные, что и не сделать. Например, я как-то пытался сделать <a href="http://origami.ru/mod/mode/0032dm1.htm" rel="nofollow" class="liexternal">розу</a> &#8212; так и не получилось <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_nea.gif' alt='*NO*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,218 @@
+﻿﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Nov 2015 19:55:19 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Задачи по электродинамике | Regruppa</title>
+<meta name="generator" content="WordPress 4.3.1" /> <!-- leave this for stats -->
+<link rel="shortcut icon" href="../../../../favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="verify-v1" content="ra1FN/+PLSPCHMcna+X0hdsUUCDrMh4WaSl7ScNDCLM=" >
+<link rel="stylesheet" href="../../../../wp-content/themes/regruppa/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Regruppa RSS Feed" href="http://feeds.feedburner.com/regruppa" />
+<link rel="pingback" href="../../../../xmlrpc.php" />
+<script type="text/javascript">
+stylesheet_directory  = '../../../../wp-content/themes/regruppa/index.html';
+</script>
+<script type="text/javascript" src="../../../../wp-content/themes/regruppa/js/nifty_n_nav.js"></script>
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[280,345] -->
+<meta name="description"  content="Скоро экзамен по электродинамике, поэтому выкладываю небольшое пособие по решению задач: Задачи по электродинамике via Курс лекций Электродинамика" />
+<meta name="keywords"  content="Студенты" />
+<link rel="canonical" href="zadachi-po-elektrodinamike.html" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Regruppa &raquo; Лента комментариев к &laquo;Задачи по электродинамике&raquo;" href="zadachi-po-elektrodinamike.html/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/regruppa.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">border: 1px solid #ccc; background: #eee; padding: 5px; margin: 10px;</style>
+<link rel='stylesheet' id='codecolorer-css'  href='../../../../wp-content/plugins/codecolorer/codecolorere2dc.css?ver=0.9.9' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp_dlmp_styles-css'  href='../../../../wp-content/plugins/download-monitor/page-addon/styles5b31.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jqueryc1d8.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='Назарбаев не знает как пропатчить KDE под FreeBSD' href='../07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html' />
+<link rel='next' title='Вузы Ярославля' href='../14/vuzyi-yaroslavlya.html' />
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='shortlink' href='../../../../index63fb.html?p=319' />
+<!-- wpSpoiler Code -->
+        <script type="text/javascript">
+            function wpSpoilerToggle(spoiler, link, showtext, hidetext) {
+                if (spoiler.style.display != 'none') {
+                    spoiler.style.display = 'none';
+                    link.innerHTML = showtext;
+                    link.className = 'spoiler_link_show';
+                } else {
+                    spoiler.style.display = 'block';
+                    link.innerHTML = hidetext;
+                    link.className = 'spoiler_link_hide';
+                }
+            }
+          </script>
+</head>
+<body>
+<div id="top">
+	<a href="../../../../index.html"><img src="../../../../wp-content/themes/regruppa/images/top.gif" alt="Радиофизика и электроника" /></a>
+</div>
+<div id="nav">
+<ul>
+<li><a href="../../../../re/index.html" onmouseover="mOver('navWe');this.style.cursor='hand';" onmouseout="mOut('navWe');"><img name="navWe" src="../../../../wp-content/themes/regruppa/images/nav/we.gif" alt="это мы!" /></a></li>
+<li><a href="../../../../media/index.html" onmouseover="mOver('navMedia');this.style.cursor='hand';" onmouseout="mOut('navMedia');"><img name="navMedia" src="../../../../wp-content/themes/regruppa/images/nav/media.gif" alt="медиа" /></a></li>
+<li><a href="../../../../chronicle/index.html" onmouseover="mOut('navChronicle');this.style.cursor='hand';" onmouseout="mOver('navChronicle');"><img name="navChronicle" src="../../../../wp-content/themes/regruppa/images/nav/chronicle_.gif" alt="летопись" /></a></li>
+<li><a href="../../../../files/index.html" onmouseover="mOver('navFiles');this.style.cursor='hand';" onmouseout="mOut('navFiles');"><img name="navFiles" src="../../../../wp-content/themes/regruppa/images/nav/files.gif" alt="файлы" /></a></li>
+<li><a href="../../../../etc/index.html" onmouseover="mOver('navEtc');this.style.cursor='hand';" onmouseout="mOut('navEtc');"><img name="navEtc" src="../../../../wp-content/themes/regruppa/images/nav/etc.gif" alt="и т.д." /></a></li>
+</ul>
+</div>
+<div id="center">
+	<img src="../../../../wp-content/themes/regruppa/images/center.gif" />
+</div>
+<div id="content">
+<div id="search-box">
+<form method="get" id="searchform" action="http://regruppa.ru/">
+	<span class="search"><input type="text" value="" name="s" id="s" /></span>
+</form>
+</div>
+<h1><a href="../../../../chronicle/index.html">Летопись</a> / <a href="../../../index.html">Буквы</a></h1>
+<p>Блог, или буквы. <a href="../../../../cloud/index.html">Облака</a> всё ещё доступны.</p>
+<div class="post" id="post-319">
+<div class="title">
+	<h2>Задачи по электродинамике</h2>
+</div>
+<div class="entry">
+<p class="tagcommalist">Из облаков: <a href="../../../../tag/zadachi.html" rel="tag">задачи</a>, <a href="../../../../tag/reshenie.html" rel="tag">решение</a>, <a href="../../../../tag/ekzamen.html" rel="tag">экзамен</a>, <a href="../../../../tag/elektrodinamika.html" rel="tag">электродинамика</a></p>
+<p>Скоро <a href="../02/voprosyi-k-ekzamenam.html" class="liinternal">экзамен по электродинамике</a>, поэтому выкладываю небольшое пособие по решению задач:</p>
+<ul>
+<li><a href="http://www.regruppa.ru/content/blog/2007/06/izluch.pdf" id="p318" class="lipdf">Задачи по электродинамике</a></li>
+</ul>
+<p>via <a href="http://www.rec.vsu.ru/rus/ecourse/eldin/" class="liexternal">Курс лекций Электродинамика</a></p>
+<p class="postmetadata">11 июня 2007 @ <span class="re">Eunix</span>&nbsp;&nbsp;
+<span class="cat"><a href="../../../../category/studentyi.html" rel="category tag">Студенты</a></span></p>
+</div>
+</div>
+<div id="commentsbox">
+<h3 id="comments">9 коммент.</h3>
+	<div id="social">
+	<a href="http://blogowar.ru/soldier/165"><img src="http://blogowar.ru/herbs/165.gif" width="25" height="25" border="0" alt="Блоговар - война блогов"></a>
+	</div>
+<div id="blueblock">
+<ul>
+<li id="comment-777">
+<div class="author">
+<p>Geras @ 11 июня, 22:23</p>
+</div>
+<div class="text">
+	<p>Прикольно, главное вовремя :)</p>
+</div>
+</li>
+<li id="comment-778">
+<div class="author">
+<p>ER @ 12 июня, 01:21</p>
+</div>
+<div class="text">
+	<p>Нет я не ошибался.. Это и была тот самый теорпол который семак назад мы сдавали&#8230; именно он;))) Больше всего из всего курса меня веселила одна из основных книжек по которой ботать надо было &#171;Батыгин, Топтыгин под редакцией Бредова&#187;, у вас в списке литературы поминаются сии авторы, так вот она наиболее ярко описывала всё, что происходит в этом разделе теорфиза&#8230; Ну и Ландафшиц, да, да тот самый легендарный Ландафшиц, страницы из которого можно просто вырывать и курить, не забивая травой, потому как там такие приходы у батюшки Ландау были&#8230;<br />
+Вобщем госплода желаю удачи;)</p>
+</div>
+</li>
+<li id="comment-780">
+<div class="author">
+<p><a href='http://www.eunix.ru/' rel='external nofollow' class='url'>Eunix</a> @ 14 июня, 22:39</p>
+</div>
+<div class="text">
+	<p>Да-да&#8230; :-) и у нас такой задачник был.</p>
+</div>
+</li>
+<li id="comment-785">
+<div class="author">
+<p><a href='../../../../re/kolya_kostin/index.html' rel='external nofollow' class='url'>koy</a> @ 15 июня, 15:12</p>
+</div>
+<div class="text">
+	<p>Все мы пережили эту электродинамику <img src='../../../../wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> Ура! Ура! Ура!</p>
+</div>
+</li>
+<li id="comment-786">
+<div class="author">
+<p><a href='http://www.eunix.ru/' rel='external nofollow' class='url'>Eunix</a> @ 15 июня, 16:06</p>
+</div>
+<div class="text">
+	<p> <img src='../../../../wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+</div>
+</li>
+<li id="comment-788">
+<div class="author">
+<p><a href='http://erlizz.regruppa.ru/' rel='external nofollow' class='url'>Erlizz</a> @ 15 июня, 21:47</p>
+</div>
+<div class="text">
+	<p>*DANCE**DANCE**DANCE*</p>
+</div>
+</li>
+<li id="comment-789">
+<div class="author">
+<p>ER @ 15 июня, 21:58</p>
+</div>
+<div class="text">
+	<p>жесть какая то пошла, смайлоботы атакуют)</p>
+</div>
+</li>
+<li id="comment-2020">
+<div class="author">
+<p>Акмарал @ 25 ноября, 09:10</p>
+</div>
+<div class="text">
+	<p>помогите найти решебник по электродинамике Батыгин, Топтыгин</p>
+</div>
+</li>
+<li id="comment-2025">
+<div class="author">
+<p><a href='http://www.eunix.ru/' rel='external nofollow' class='url'>Eunix</a> @ 25 ноября, 20:23</p>
+</div>
+<div class="text">
+	<p>Вроде я такого не встречал&#8230; или, может, кто-нибудь видел?</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<p class="center"><a href="../../../../wp-login.html">Войти</a> <span class="lirss"><a href="../../../feed/index.html">Записи в RSS</a></span> <span class="lirss"><a href="zadachi-po-elektrodinamike.html/feed/index.html">RSS-лента этого сообщения</a></span></p>
+</div>
+<div id="bottom">
+	<img src="../../../../wp-content/themes/regruppa/images/bottom.gif" />
+</div>
+<div id="eunix">
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";i"+escape("∆Ê"+document.title.substring(0,80))+";"+Math.random()+
+"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+	<a href="http://www.eunix.ru/"><img src="../../../../wp-content/themes/regruppa/images/eunix.gif" /></a>
+</div><script>function lc_get_cookie(name) {var c = document.cookie;if (c.indexOf(name) != -1) {var x = c.indexOf(name)+name.length+1;var y = c.indexOf(";",x);if (y < 0) y = c.length;return decodeURIComponent(c.substring(x,y));} else return "";}if ((d = document.getElementById("commentform")) != null) { e = d.elements;var z = lc_get_cookie("comment_author_email_68f3d3394a298bf2ef6053c9cc61c3f6");if (z != "") e["email"].value = z;z = lc_get_cookie("comment_author_68f3d3394a298bf2ef6053c9cc61c3f6");if (z != "") e["author"].value = z.replace(/\+/g, " ");z = lc_get_cookie("comment_author_url_68f3d3394a298bf2ef6053c9cc61c3f6");if (z != "") e["url"].value = z;}</script>
+<!-- Smilies package, Elinalipona, courtesy of Eunix (http://eunix.ru) -->
+<script type='text/javascript' src='../../../../wp-content/plugins/smilies-themer-toolbar/stt-commond5f7.js?ver=2.0'></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1998394-1";
+urchinTracker();
+</script>
+<!-- toodoo-key: yrQ9qqhLQk9uxcjKV1kMN -->
+</body>
+
+<!-- Mirrored from regruppa.ru/blog/2007/06/11/zadachi-po-elektrodinamike.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Nov 2015 19:55:21 GMT -->
+</html>

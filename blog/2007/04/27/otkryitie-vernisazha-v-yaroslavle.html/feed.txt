@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Открытие Вернисажа в Ярославле</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-1257</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2007 18:17:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-1257</guid>
+		<description><![CDATA[встречный вопрос(дабы проще объяснить кто такой Бенедиктов Дима)
+А ты кто?]]></description>
+		<content:encoded><![CDATA[<p>встречный вопрос(дабы проще объяснить кто такой Бенедиктов Дима)<br />
+А ты кто?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Света</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-1252</link>
+		<dc:creator><![CDATA[Света]]></dc:creator>
+		<pubDate>Fri, 07 Sep 2007 08:59:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-1252</guid>
+		<description><![CDATA[А кто такой Дима Бенедиктов???*PARDON*]]></description>
+		<content:encoded><![CDATA[<p>А кто такой Дима Бенедиктов???*PARDON*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-330</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 01 May 2007 09:12:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-330</guid>
+		<description><![CDATA[ну извините у меня столько времени нет, потому как метро на дмитровке это минут 10 езды, мосмарт на лианозово, это минут 10 езды совсем в другую сторону, а ашан вообще на мкаде между дмитровкой и алтуфьевским шоссе это минут 20 езды в третью сторону и бегать мне ну сооовсем не хочется... потому чаще всего закупаюсь всёж в мосмарте, ибо там поштучно продают всё что хочу, цены конечно чуть выше, но меня устраивают, + у меня там карта скидок, а если какие нить празденства грандиозные устраиваем то едем всё равно в метро, хотябы потому что алкоголь там всё равно дешевле, кто бы что не говорил) Кстати приезжал тут как то Дима Бенедиктов, ему мосмарт вроде понравился)]]></description>
+		<content:encoded><![CDATA[<p>ну извините у меня столько времени нет, потому как метро на дмитровке это минут 10 езды, мосмарт на лианозово, это минут 10 езды совсем в другую сторону, а ашан вообще на мкаде между дмитровкой и алтуфьевским шоссе это минут 20 езды в третью сторону и бегать мне ну сооовсем не хочется&#8230; потому чаще всего закупаюсь всёж в мосмарте, ибо там поштучно продают всё что хочу, цены конечно чуть выше, но меня устраивают, + у меня там карта скидок, а если какие нить празденства грандиозные устраиваем то едем всё равно в метро, хотябы потому что алкоголь там всё равно дешевле, кто бы что не говорил) Кстати приезжал тут как то Дима Бенедиктов, ему мосмарт вроде понравился)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-324</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 01 May 2007 05:12:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-324</guid>
+		<description><![CDATA[Как же они выделят тебе один товар, если он внесён в базу как два или три? *BOMB* а насчёт свежести товаров в Метро... сомневаюсь, fetisha. Во всех современных магазинах (Перекрёсток, Метро и т.п.) следят за качеством товаров, но везде могут встретиться несвежие товары. В том числе и в Метро.
+А Real -- один в один Метро. По сути -- это его розничный магазин.
+&lt;blockquote&gt;
+ребят, живу в москве, рядом аходятся ашан метро и мосмарт, открою секрет в метро самые низкие цены, поверьте метро есть куда их спускать,
+&lt;/blockquote&gt;
+В Метро самые низкие цены? *ROFL* возможно, но не в Ярославле. Это миф, в который, к сожалению, многие верят. У них замечательные маркетологи -- делают по-настоящему дешёвыми процентов пять товаров, а остальные -- по средней ярославской цене. Люди же увидев, что кое-что и правда дешёво, думают, что и всё остальное тоже недорого. Не хранят же они у голове все цены всех магазинов.
+Мы сравнивали каталоги ярославского и московского Метро. Дешевле в Москве :-(
+P.S. Если есть время, то лучше ходить во все магазины и покупать эти 5% дешёвых товаров (в смысле не плохих, а хороших товаров, но стоящих дешевле, чем в других магазинах) :) например, рядом со мной есть Копейка-Супер и Перекрёсток. Кое-что можно купить в Копейке, а другое -- в Перекрёстке. И везде товары качественные.]]></description>
+		<content:encoded><![CDATA[<p>Как же они выделят тебе один товар, если он внесён в базу как два или три? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> а насчёт свежести товаров в Метро&#8230; сомневаюсь, fetisha. Во всех современных магазинах (Перекрёсток, Метро и т.п.) следят за качеством товаров, но везде могут встретиться несвежие товары. В том числе и в Метро.<br />
+А Real &#8212; один в один Метро. По сути &#8212; это его розничный магазин.</p>
+<blockquote><p>
+ребят, живу в москве, рядом аходятся ашан метро и мосмарт, открою секрет в метро самые низкие цены, поверьте метро есть куда их спускать,
+</p></blockquote>
+<p>В Метро самые низкие цены? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /> возможно, но не в Ярославле. Это миф, в который, к сожалению, многие верят. У них замечательные маркетологи &#8212; делают по-настоящему дешёвыми процентов пять товаров, а остальные &#8212; по средней ярославской цене. Люди же увидев, что кое-что и правда дешёво, думают, что и всё остальное тоже недорого. Не хранят же они у голове все цены всех магазинов.<br />
+Мы сравнивали каталоги ярославского и московского Метро. Дешевле в Москве :-(<br />
+P.S. Если есть время, то лучше ходить во все магазины и покупать эти 5% дешёвых товаров (в смысле не плохих, а хороших товаров, но стоящих дешевле, чем в других магазинах) :) например, рядом со мной есть Копейка-Супер и Перекрёсток. Кое-что можно купить в Копейке, а другое &#8212; в Перекрёстке. И везде товары качественные.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-323</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 20:34:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-323</guid>
+		<description><![CDATA[да упаси бог куда-то что-то убирать! пусть себе стоит]]></description>
+		<content:encoded><![CDATA[<p>да упаси бог куда-то что-то убирать! пусть себе стоит</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-322</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 20:13:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-322</guid>
+		<description><![CDATA[Правда только в Перекрёстке не повезло, причём и не только мне...Думаю, Метро никуда убирать не нужно,и товар там совершенно необязательно брать по несколько штук. Нужно просто персонал попросить и выделят экземпляр в единственном колличестве]]></description>
+		<content:encoded><![CDATA[<p>Правда только в Перекрёстке не повезло, причём и не только мне&#8230;Думаю, Метро никуда убирать не нужно,и товар там совершенно необязательно брать по несколько штук. Нужно просто персонал попросить и выделят экземпляр в единственном колличестве</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-321</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 20:06:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-321</guid>
+		<description><![CDATA[бывал я в Ашанах, действительно хорошие магазины.., и цены там &lt;= наших.. и ассортимент больше (по-крайней мере журнал фотодело продается). но вот если пересчитать московские цены в отношении к средней московской зарплате (да и к медианной тоже) то получится величина  меньше, чем для ярика..по-этому московские потребители отличаются от ярославских..
+а с кефиром может не повезти в любом магазине]]></description>
+		<content:encoded><![CDATA[<p>бывал я в Ашанах, действительно хорошие магазины.., и цены там <= наших.. и ассортимент больше (по-крайней мере журнал фотодело продается). но вот если пересчитать московские цены в отношении к средней московской зарплате (да и к медианной тоже) то получится величина  меньше, чем для ярика..по-этому московские потребители отличаются от ярославских..
+а с кефиром может не повезти в любом магазине
+</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-319</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 19:47:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-319</guid>
+		<description><![CDATA[2 ER Ашаны в Москве- просто класс, дешево, качественно и недорого*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>2 ER Ашаны в Москве- просто класс, дешево, качественно и недорого*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-318</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 19:45:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-318</guid>
+		<description><![CDATA[Что-то я из Перекрестка принесла испорченный кефир, хотя по сроку годности он ещё был готов к употреблению...*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Что-то я из Перекрестка принесла испорченный кефир, хотя по сроку годности он ещё был готов к употреблению&#8230;*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html/comment-page-1#comment-314</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 19:15:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/27/otkryitie-vernisazha-v-yaroslavle.html#comment-314</guid>
+		<description><![CDATA[я не ехать туда собрался... меня туда походу жить отправят... база есть такое понятие) вот у вас лаба у меня база...]]></description>
+		<content:encoded><![CDATA[<p>я не ехать туда собрался&#8230; меня туда походу жить отправят&#8230; база есть такое понятие) вот у вас лаба у меня база&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

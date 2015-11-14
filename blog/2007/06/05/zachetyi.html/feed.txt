@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Зачеты</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/05/zachetyi.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-773</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 08 Jun 2007 09:34:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-773</guid>
+		<description><![CDATA[Уже поставили :) сегодня.]]></description>
+		<content:encoded><![CDATA[<p>Уже поставили :) сегодня.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-772</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Fri, 08 Jun 2007 09:14:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-772</guid>
+		<description><![CDATA[Зачета все-таки 2: &quot;Технический перевод&quot; (54 часа) и &quot;Референты-переводчики&quot; (54 часа).]]></description>
+		<content:encoded><![CDATA[<p>Зачета все-таки 2: &#171;Технический перевод&#187; (54 часа) и &#171;Референты-переводчики&#187; (54 часа).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-762</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2007 15:39:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-762</guid>
+		<description><![CDATA[как всегда в одном доме (кафедра ин.язя и деканат) и ничего соглосовать не могут..]]></description>
+		<content:encoded><![CDATA[<p>как всегда в одном доме (кафедра ин.язя и деканат) и ничего соглосовать не могут..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-760</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2007 15:07:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-760</guid>
+		<description><![CDATA[Зачёт по английскому? Сегодня заходили к ней, а она сказала, что всего один зачёт надо под названием &#171;Технический перевод&#187;.]]></description>
+		<content:encoded><![CDATA[<p>Зачёт по английскому? Сегодня заходили к ней, а она сказала, что всего один зачёт надо под названием &laquo;Технический перевод&raquo;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-759</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2007 14:12:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-759</guid>
+		<description><![CDATA[Зачет можно уже точно получить завтра (8 июня) с 10 до 12. Проблема с ведомостями разрешена.]]></description>
+		<content:encoded><![CDATA[<p>Зачет можно уже точно получить завтра (8 июня) с 10 до 12. Проблема с ведомостями разрешена.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-740</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 19:10:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-740</guid>
+		<description><![CDATA[Надо бы. Может завтра и зайду *THUMBS_UP*]]></description>
+		<content:encoded><![CDATA[<p>Надо бы. Может завтра и зайду <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-738</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 19:07:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-738</guid>
+		<description><![CDATA[сегодня был в деканате. Оля сказала что надо подойти к Туркиной и поставить еще зачет. за референтов переводчиков. обязательно]]></description>
+		<content:encoded><![CDATA[<p>сегодня был в деканате. Оля сказала что надо подойти к Туркиной и поставить еще зачет. за референтов переводчиков. обязательно</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-719</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 07:03:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-719</guid>
+		<description><![CDATA[эх.. а я уже зачётную сессию сдал:) даж уже половину сессии сдал(без перезды), один экзамен остался, ну и гос по физике, но он то с экзаменационной сессией ничего общего не имеет...
+вааще у нас очень похожи зачётные предметы, тока по физлабам у нас зачёты не ставили(там общая оценка с теоркурсом), курсовика у нас нет(у нас их вообще нету), всяких вот этих вот сокращений я тоже не знаю, но думаю что у нас нечто похожее было на вычматах с урматами(это так догатки), гумкурс(у меня в этом году была психология личности, дядя Фрейд, блин)... Плюсом ко всему у нас были тт лабы, у вас я так понимаю их не было(забавный предмет)....]]></description>
+		<content:encoded><![CDATA[<p>эх.. а я уже зачётную сессию сдал:) даж уже половину сессии сдал(без перезды), один экзамен остался, ну и гос по физике, но он то с экзаменационной сессией ничего общего не имеет&#8230;</p>
+<p>вааще у нас очень похожи зачётные предметы, тока по физлабам у нас зачёты не ставили(там общая оценка с теоркурсом), курсовика у нас нет(у нас их вообще нету), всяких вот этих вот сокращений я тоже не знаю, но думаю что у нас нечто похожее было на вычматах с урматами(это так догатки), гумкурс(у меня в этом году была психология личности, дядя Фрейд, блин)&#8230; Плюсом ко всему у нас были тт лабы, у вас я так понимаю их не было(забавный предмет)&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/zachetyi.html/comment-page-1#comment-717</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 03:38:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/zachetyi.html#comment-717</guid>
+		<description><![CDATA[Спасибо! И правда везде путаница. И почему по английскому опять нужно заявление? Надо будет сходить в деканат *CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>Спасибо! И правда везде путаница. И почему по английскому опять нужно заявление? Надо будет сходить в деканат <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

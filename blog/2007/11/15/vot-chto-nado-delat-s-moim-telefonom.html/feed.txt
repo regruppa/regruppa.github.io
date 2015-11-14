@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Вот, что надо делать с моим телефоном</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/comment-page-1#comment-1937</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2007 17:08:54 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html#comment-1937</guid>
+		<description><![CDATA[:-) надо будет как-нибудь это попробовать.]]></description>
+		<content:encoded><![CDATA[<p>:-) надо будет как-нибудь это попробовать.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Yura</title>
+		<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/comment-page-1#comment-1929</link>
+		<dc:creator><![CDATA[Yura]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2007 02:51:40 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html#comment-1929</guid>
+		<description><![CDATA[%-)]]></description>
+		<content:encoded><![CDATA[<p>%-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/comment-page-1#comment-1926</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 19:25:51 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html#comment-1926</guid>
+		<description><![CDATA[Забыл написать... ведь у &lt;a href=&quot;http://regruppa.ru/re/yura/&quot; rel=&quot;nofollow&quot;&gt;Юрки&lt;/a&gt; тоже смартфон на базе Windows Mobile! То есть он тожэе может вступить в этот странный клуб WiMo =) и сделать что-нибудь со своим телефоном.]]></description>
+		<content:encoded><![CDATA[<p>Забыл написать&#8230; ведь у <a href="http://regruppa.ru/re/yura/" rel="nofollow" class="liinternal">Юрки</a> тоже смартфон на базе Windows Mobile! То есть он тожэе может вступить в этот странный клуб WiMo =) и сделать что-нибудь со своим телефоном.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/comment-page-1#comment-1925</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 19:24:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html#comment-1925</guid>
+		<description><![CDATA[Этот пост сделан в &lt;a href=&quot;http://regruppa.ru/blog/2007/11/15/shredder.html&quot; rel=&quot;nofollow&quot;&gt;качестве примера для конкурса&lt;/a&gt; =)]]></description>
+		<content:encoded><![CDATA[<p>Этот пост сделан в <a href="http://regruppa.ru/blog/2007/11/15/shredder.html" rel="nofollow" class="liinternal">качестве примера для конкурса</a> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile2.gif' alt='=)' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Первый конкурс на регруппе! Шреддер! &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html/comment-page-1#comment-1924</link>
+		<dc:creator><![CDATA[Первый конкурс на регруппе! Шреддер! &#124; Regruppa]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 19:09:41 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/15/vot-chto-nado-delat-s-moim-telefonom.html#comment-1924</guid>
+		<description><![CDATA[[...] Ваша фантазия ничем не ограничена! Это могут быть и просто фотографии, могут быть комиксы, а может быть просто иллюстрированный рассказ. В нашем блоге уже есть пост в качестве примера для этого конкурса. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Ваша фантазия ничем не ограничена! Это могут быть и просто фотографии, могут быть комиксы, а может быть просто иллюстрированный рассказ. В нашем блоге уже есть пост в качестве примера для этого конкурса. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Работа с патентной литературой</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html/comment-page-1#comment-1393</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2007 14:42:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html#comment-1393</guid>
+		<description><![CDATA[Тебе надо ещё сочинение написать :-)]]></description>
+		<content:encoded><![CDATA[<p>Тебе надо ещё сочинение написать :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Agatha</title>
+		<link>http://regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html/comment-page-1#comment-1390</link>
+		<dc:creator><![CDATA[Agatha]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2007 09:45:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html#comment-1390</guid>
+		<description><![CDATA[И вот, кстати, сайтик http://www.freepatentsonline.com там полно всяких патентов]]></description>
+		<content:encoded><![CDATA[<p>И вот, кстати, сайтик <a href="http://www.freepatentsonline.com" rel="nofollow" class="liexternal">http://www.freepatentsonline.com</a> там полно всяких патентов</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Agatha</title>
+		<link>http://regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html/comment-page-1#comment-1389</link>
+		<dc:creator><![CDATA[Agatha]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2007 09:43:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/10/01/rabota-s-patentnoy-literaturoy.html#comment-1389</guid>
+		<description><![CDATA[Спасибо, огромное, а то бы без книги так и не стала ничего по английскому делать)))]]></description>
+		<content:encoded><![CDATA[<p>Спасибо, огромное, а то бы без книги так и не стала ничего по английскому делать)))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

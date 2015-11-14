@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Открытие роллер сезона</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/09/230.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/09/230.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-460</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 16:20:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-460</guid>
+		<description><![CDATA[**$hibzik** что значит для начинающих? ты наверно не так понял то что я написал в последнем предлажении... Я имел ввиду уже не паркур а скалолазание... там извини меня без страховки никак... вообще никак... либо как, но не долго;)) Я просто увлёкся этим, и если честно пока больше никакого спорта мне не надо... затянуло... Вощем будете у нас на Колыме, заезжайте сходим на скалодром)]]></description>
+		<content:encoded><![CDATA[<p>**$hibzik** что значит для начинающих? ты наверно не так понял то что я написал в последнем предлажении&#8230; Я имел ввиду уже не паркур а скалолазание&#8230; там извини меня без страховки никак&#8230; вообще никак&#8230; либо как, но не долго;)) Я просто увлёкся этим, и если честно пока больше никакого спорта мне не надо&#8230; затянуло&#8230; Вощем будете у нас на Колыме, заезжайте сходим на скалодром)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-453</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 15:05:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-453</guid>
+		<description><![CDATA[Паркура у нас и правда много. Я надеюсь, что Герас расскажет про своих ярославских друзей паркурщиков :-)]]></description>
+		<content:encoded><![CDATA[<p>Паркура у нас и правда много. Я надеюсь, что Герас расскажет про своих ярославских друзей паркурщиков :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-441</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 13:58:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-441</guid>
+		<description><![CDATA[2ER паркура и у нас в сети полным полно.., смотрел много! на счет социального неодобрения--не знаю, всегда будет много народу, кому это чем-то помешает.. и катающиеся на скейте у магазина и скачущие по домам и просто разъежающие на велах по дорогам.
+а паркур все больше распространяется у нас. есть даже секции по паркуру (одноклассник бывший ходит) да и у нас во дворе часто вижу парней пока что /путающихся/ изображать паркур.
+любой екстримальный спорт интересен и зрелищен, только хорошо,когда он организован..а еще лучше, когда Хорошо организован]]></description>
+		<content:encoded><![CDATA[<p>2ER паркура и у нас в сети полным полно.., смотрел много! на счет социального неодобрения&#8212;не знаю, всегда будет много народу, кому это чем-то помешает.. и катающиеся на скейте у магазина и скачущие по домам и просто разъежающие на велах по дорогам.</p>
+<p>а паркур все больше распространяется у нас. есть даже секции по паркуру (одноклассник бывший ходит) да и у нас во дворе часто вижу парней пока что /путающихся/ изображать паркур.</p>
+<p>любой екстримальный спорт интересен и зрелищен, только хорошо,когда он организован..а еще лучше, когда Хорошо организован</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: **$hibzik**</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-438</link>
+		<dc:creator><![CDATA[**$hibzik**]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 10:05:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-438</guid>
+		<description><![CDATA[Я если честно думал, что паркур не распространнен вообще... Тем более учитывая то, что, по мнению большинства, паркурщиков вообще следует отстреливать как антисоциальный элемент, то ему не видать расцвета.
+Лично сам я нормально отношусь, хотя не разу и не пробовал *SMILE*... Лишь бы по балкону ко мне не лазали.
+Что же касается страховки, так это только для начинающих, иначе смысл???
+Тем более, чем больше скорость и экшн, тем приятнее]]></description>
+		<content:encoded><![CDATA[<p>Я если честно думал, что паркур не распространнен вообще&#8230; Тем более учитывая то, что, по мнению большинства, паркурщиков вообще следует отстреливать как антисоциальный элемент, то ему не видать расцвета.<br />
+Лично сам я нормально отношусь, хотя не разу и не пробовал *SMILE*&#8230; Лишь бы по балкону ко мне не лазали. </p>
+<p>Что же касается страховки, так это только для начинающих, иначе смысл???<br />
+Тем более, чем больше скорость и экшн, тем приятнее</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-428</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 11:47:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-428</guid>
+		<description><![CDATA[К сожалению, не получилось посмотреть это мероприятие *SAD* но кое-кто обещал о нём рассказать. Может и фотографии есть?*JOKINGLY*]]></description>
+		<content:encoded><![CDATA[<p>К сожалению, не получилось посмотреть это мероприятие <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_sad.gif' alt='*SAD*' class='wp-smiley' /> но кое-кто обещал о нём рассказать. Может и фотографии есть?*JOKINGLY*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-421</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 10 May 2007 17:27:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-421</guid>
+		<description><![CDATA[у тя трафик анлимный? я те щас навыкладываю про паркурщиков)
+Паркурщики редко доживают до 30 кстати))
+Между прочим в ярике есть несколько ребят которые эту тему толкают, так что если хочешь можешь вливаться)))
+А вот лазать гораздо безопаснее, если с умом, страховку проверять тока не забывай и всё тип топ) адреналина море, но фишка имхо не в адреналине, а в технике...]]></description>
+		<content:encoded><![CDATA[<p>у тя трафик анлимный? я те щас навыкладываю про паркурщиков)<br />
+Паркурщики редко доживают до 30 кстати))<br />
+Между прочим в ярике есть несколько ребят которые эту тему толкают, так что если хочешь можешь вливаться)))</p>
+<p>А вот лазать гораздо безопаснее, если с умом, страховку проверять тока не забывай и всё тип топ) адреналина море, но фишка имхо не в адреналине, а в технике&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-420</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 10 May 2007 16:57:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-420</guid>
+		<description><![CDATA[А может паркур?]]></description>
+		<content:encoded><![CDATA[<p>А может паркур?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-419</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 10 May 2007 16:43:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-419</guid>
+		<description><![CDATA[А я на роликах ниразу не стоял)))
+Да и вел у меня старый советский раздолбаный и то за 300 км тот меня)
+Мож это... как его... лучше по стенкам полазаем, аля скалолазание и иже с ним? Мне это как то ближе)]]></description>
+		<content:encoded><![CDATA[<p>А я на роликах ниразу не стоял)))<br />
+Да и вел у меня старый советский раздолбаный и то за 300 км тот меня)<br />
+Мож это&#8230; как его&#8230; лучше по стенкам полазаем, аля скалолазание и иже с ним? Мне это как то ближе)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-418</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 10 May 2007 11:55:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-418</guid>
+		<description><![CDATA[да, я бы не против в агрессиве поучавствовать... тока вот катался на роликах всего 1 раз...*BLUSH*.... я просто посмотреть хочу.. пофоткать интересные моменты.., да и веллеров там ожидается не мало...*DANCE*]]></description>
+		<content:encoded><![CDATA[<p>да, я бы не против в агрессиве поучавствовать&#8230; тока вот катался на роликах всего 1 раз&#8230;*BLUSH*&#8230;. я просто посмотреть хочу.. пофоткать интересные моменты.., да и веллеров там ожидается не мало&#8230;*DANCE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/09/230.html/comment-page-1#comment-417</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 10 May 2007 04:32:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/09/230.html#comment-417</guid>
+		<description><![CDATA[Примешь участие в «aggressive катание» *CRAZY* Я тоже схожу 12 мая посмотреть, что там будет происходить. А катающихся и на роликах, и на вело в нашей группе вроде много *DANCE*]]></description>
+		<content:encoded><![CDATA[<p>Примешь участие в «aggressive катание» <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> Я тоже схожу 12 мая посмотреть, что там будет происходить. А катающихся и на роликах, и на вело в нашей группе вроде много <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

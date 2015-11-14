@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Гришковец в Ярославле в октябре</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1359</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 17:22:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1359</guid>
+		<description><![CDATA[Здорово! :-) может и увидим вас ;-)]]></description>
+		<content:encoded><![CDATA[<p>Здорово! :-) может и увидим вас ;-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ksantippa</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1352</link>
+		<dc:creator><![CDATA[Ksantippa]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 08:12:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1352</guid>
+		<description><![CDATA[Спасибо. Обязательно приедем. Уже билеты купили.*DANCE*]]></description>
+		<content:encoded><![CDATA[<p>Спасибо. Обязательно приедем. Уже билеты купили.*DANCE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1295</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 16:06:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1295</guid>
+		<description><![CDATA[Приезжайте... :-) вроде в Кострому он не заезжает в этот раз.]]></description>
+		<content:encoded><![CDATA[<p>Приезжайте&#8230; :-) вроде в Кострому он не заезжает в этот раз.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ksantippa</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1294</link>
+		<dc:creator><![CDATA[Ksantippa]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 11:04:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1294</guid>
+		<description><![CDATA[Огромное спасибо*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Огромное спасибо*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1293</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 09:21:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1293</guid>
+		<description><![CDATA[(4852) 73-27-02 :-) работает с 10 до 18.]]></description>
+		<content:encoded><![CDATA[<p>(4852) 73-27-02 :-) работает с 10 до 18.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ksantippa</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1290</link>
+		<dc:creator><![CDATA[Ksantippa]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 06:45:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1290</guid>
+		<description><![CDATA[Подскажите пожалуйста телефон ДК Добрынина - хочу из Костромы приехать.]]></description>
+		<content:encoded><![CDATA[<p>Подскажите пожалуйста телефон ДК Добрынина &#8212; хочу из Костромы приехать.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1289</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 17 Sep 2007 10:30:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1289</guid>
+		<description><![CDATA[В ДК Добрынина :-)]]></description>
+		<content:encoded><![CDATA[<p>В ДК Добрынина :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ирина</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1288</link>
+		<dc:creator><![CDATA[Ирина]]></dc:creator>
+		<pubDate>Mon, 17 Sep 2007 08:26:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1288</guid>
+		<description><![CDATA[Подскажите, где будет спектакль?]]></description>
+		<content:encoded><![CDATA[<p>Подскажите, где будет спектакль?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1284</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 16:39:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1284</guid>
+		<description><![CDATA[Вот не знаю :-)]]></description>
+		<content:encoded><![CDATA[<p>Вот не знаю :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html/comment-page-1#comment-1283</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 14:15:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/grishkovets-v-yaroslavle-v-oktyabre.html#comment-1283</guid>
+		<description><![CDATA[за сколько будем?? умеренно, или как фанаты??=)]]></description>
+		<content:encoded><![CDATA[<p>за сколько будем?? умеренно, или как фанаты??=)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

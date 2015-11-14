@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Баш лежит, а все работают и учатся</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html/comment-page-1#comment-1709</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 17:18:26 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html#comment-1709</guid>
+		<description><![CDATA[ну я и не расстроюсь совершенно =)]]></description>
+		<content:encoded><![CDATA[<p>ну я и не расстроюсь совершенно =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html/comment-page-1#comment-1705</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 11:28:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html#comment-1705</guid>
+		<description><![CDATA[Erlizz, ты всего неделю bash.org читаешь, он тоже когда нибудь кончится :)]]></description>
+		<content:encoded><![CDATA[<p>Erlizz, ты всего неделю bash.org читаешь, он тоже когда нибудь кончится :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html/comment-page-1#comment-1700</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2007 05:23:57 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html#comment-1700</guid>
+		<description><![CDATA[Читают даже совсем далёкие от IT, а тем более от мира nix люди. Соответственно стали появляться сообщения, больше похожие на анекдоты, чем на цитаты.]]></description>
+		<content:encoded><![CDATA[<p>Читают даже совсем далёкие от IT, а тем более от мира nix люди. Соответственно стали появляться сообщения, больше похожие на анекдоты, чем на цитаты.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html/comment-page-1#comment-1691</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 19:48:33 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/30/bash-lezhit-a-vse-rabotayut-i-uchatsya.html#comment-1691</guid>
+		<description><![CDATA[наш баш опопсел окончательно.. я нынче если и читаю то только Омериканский bash.org]]></description>
+		<content:encoded><![CDATA[<p>наш баш опопсел окончательно.. я нынче если и читаю то только Омериканский bash.org</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

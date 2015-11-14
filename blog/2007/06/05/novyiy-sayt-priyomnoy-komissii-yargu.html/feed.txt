@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Новый сайт приёмной комиссии ЯрГУ</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Korfetnotyy</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-28963</link>
+		<dc:creator><![CDATA[Korfetnotyy]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2010 10:27:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-28963</guid>
+		<description><![CDATA[Олололкин Хай хэй! Приходите на &lt;a href=&quot;http://googlerzzs.com&quot; rel=&quot;nofollow&quot;&gt;Отличный сайт&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Олололкин Хай хэй! Приходите на <a href="http://googlerzzs.com" rel="nofollow" class="liexternal">Отличный сайт</a>.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: toksawa</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-15374</link>
+		<dc:creator><![CDATA[toksawa]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2009 17:03:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-15374</guid>
+		<description><![CDATA[Спасибо автору за тему и отдельное спс людям, которые принимают участвие в диалоге. Я новенький на Вашем сайте, но надеюсь стать старожилом :)]]></description>
+		<content:encoded><![CDATA[<p>Спасибо автору за тему и отдельное спс людям, которые принимают участвие в диалоге. Я новенький на Вашем сайте, но надеюсь стать старожилом :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Начались вступительные экзамены &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-1056</link>
+		<dc:creator><![CDATA[Начались вступительные экзамены &#124; Regruppa]]></dc:creator>
+		<pubDate>Tue, 17 Jul 2007 05:22:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-1056</guid>
+		<description><![CDATA[[...] Из облаков:&#160;вступительные экзамены, поступление, приёмная комиссия ЯрГУ, статистика приёмаНа сайте приёмной комиссии пропала девочка, так как, во-первых, появилась окончательная статистика приёма и, во-вторых, появилось расписание экзаменов. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;вступительные экзамены, поступление, приёмная комиссия ЯрГУ, статистика приёмаНа сайте приёмной комиссии пропала девочка, так как, во-первых, появилась окончательная статистика приёма и, во-вторых, появилось расписание экзаменов. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-1007</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 17:57:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-1007</guid>
+		<description><![CDATA[Я думаю, что наоборот хорошо, что тяжело :) потом всё легче будет казаться.]]></description>
+		<content:encoded><![CDATA[<p>Я думаю, что наоборот хорошо, что тяжело :) потом всё легче будет казаться.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-1006</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 16:35:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-1006</guid>
+		<description><![CDATA[41 из 50!!! =0 =0 а когда мы поступали конкурс был больше 1..    хотя, прием еще не окончен..
+а ну в принципе ты ему правильно сказал.. у нас сложно.., но интересно, блин!! коллектив, ткскзть, оч хороший!=)]]></description>
+		<content:encoded><![CDATA[<p>41 из 50!!! =0 =0 а когда мы поступали конкурс был больше 1..    хотя, прием еще не окончен..<br />
+а ну в принципе ты ему правильно сказал.. у нас сложно.., но интересно, блин!! коллектив, ткскзть, оч хороший!=)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-1003</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 16:09:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-1003</guid>
+		<description><![CDATA[Как всегда наша специальность в списке самых непопулярных... я тут в понедельник, пока был во II корпусе, увидел парня, который кому-то втирал, что он крут, так как подал документы на радиофизику, и что точно поступит, так как всего 41 заявление из 50. И у нас возник примерно такой разговор:
+&lt;blockquote&gt;
+Я: Может ты передумаешь?
+Чувак: Не-а! Давай-ка лучше ты!
+Я: Да я уже учусь на 3 курсе. Может всё-таки передумаешь -- сложно у нас.
+Чувак: Нет! Я точно решил! Хотя мои друзья и говорят, что здесь матан по 6 раз сдают.
+Я: Если бы только матан... ну ладно, успехов тебе =)
+&lt;/blockquote&gt;
+Не удалось отговорить *FOOL*]]></description>
+		<content:encoded><![CDATA[<p>Как всегда наша специальность в списке самых непопулярных&#8230; я тут в понедельник, пока был во II корпусе, увидел парня, который кому-то втирал, что он крут, так как подал документы на радиофизику, и что точно поступит, так как всего 41 заявление из 50. И у нас возник примерно такой разговор:</p>
+<blockquote><p>
+Я: Может ты передумаешь?<br />
+Чувак: Не-а! Давай-ка лучше ты!<br />
+Я: Да я уже учусь на 3 курсе. Может всё-таки передумаешь &#8212; сложно у нас.<br />
+Чувак: Нет! Я точно решил! Хотя мои друзья и говорят, что здесь матан по 6 раз сдают.<br />
+Я: Если бы только матан&#8230; ну ладно, успехов тебе =)
+</p></blockquote>
+<p>Не удалось отговорить <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_fool.gif' alt='*FOOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-1001</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 03 Jul 2007 15:44:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-1001</guid>
+		<description><![CDATA[На сайте &lt;a href=&quot;http://priem.uniyar.ac.ru/&quot; rel=&quot;nofollow&quot;&gt;Приемной комиссии ЯрГУ&lt;/a&gt; опубликовали документ &lt;a href=&quot;http://priem.uniyar.ac.ru/docs/stat.070703.pdf&quot; rel=&quot;nofollow&quot;&gt;Статистика приема (03.07.07 16:00)&lt;/a&gt; - статистика подачи заявлений абитуриентами на очное отделение всех факультетов. Уже можно проследить популярные специальности и не очень. В статистике приведены следующие дынные: количество мест, количество поданных заявлений, конкурс заявлений/людей, количество медалистов, человек вне конкурса, интересные данные по соотношению мужчин/женщин и др.
+На сегодняшний день в университет всего подано заявлений на бюджет - 1989, контракт - 116.
+Самые популярные специальности: Юриспруденция (Юридический), Математическое обеспечение и администрирование информационных систем (ИВТ), Прикладная информатика в экономике (ИВТ), Психология (Психфак), Бухгалтерский учет, анализ и аудит (Экономический).
+Самые непопулярные: Физика бакалавр (Физический), Радиотехника (Физический), Экология и природопользование, бакалавр (Биологии и экологии), Математика бакалавр (Математический).
+Больше всего заявлений от мужчин на специальность Прикладная математика и информатика (Математический), от женщин на Юриспруденция (Юридический)
+via &lt;a href=&quot;http://demid.org/index.php?showtopic=3495&amp;st=120&quot; rel=&quot;nofollow&quot;&gt;demid.org&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>На сайте <a href="http://priem.uniyar.ac.ru/" rel="nofollow" class="liexternal">Приемной комиссии ЯрГУ</a> опубликовали документ <a href="http://priem.uniyar.ac.ru/docs/stat.070703.pdf" rel="nofollow" class="lipdf">Статистика приема (03.07.07 16:00)</a> &#8212; статистика подачи заявлений абитуриентами на очное отделение всех факультетов. Уже можно проследить популярные специальности и не очень. В статистике приведены следующие дынные: количество мест, количество поданных заявлений, конкурс заявлений/людей, количество медалистов, человек вне конкурса, интересные данные по соотношению мужчин/женщин и др.<br />
+На сегодняшний день в университет всего подано заявлений на бюджет &#8212; 1989, контракт &#8212; 116.<br />
+Самые популярные специальности: Юриспруденция (Юридический), Математическое обеспечение и администрирование информационных систем (ИВТ), Прикладная информатика в экономике (ИВТ), Психология (Психфак), Бухгалтерский учет, анализ и аудит (Экономический).<br />
+Самые непопулярные: Физика бакалавр (Физический), Радиотехника (Физический), Экология и природопользование, бакалавр (Биологии и экологии), Математика бакалавр (Математический).<br />
+Больше всего заявлений от мужчин на специальность Прикладная математика и информатика (Математический), от женщин на Юриспруденция (Юридический)</p>
+<p>via <a href="http://demid.org/index.php?showtopic=3495&#038;st=120" rel="nofollow" class="liexternal">demid.org</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-980</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 30 Jun 2007 18:53:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-980</guid>
+		<description><![CDATA[Да, так есть много глупостей *BO* и главная гупость в том, что они его &lt;strong&gt;совсем&lt;/strong&gt; не обновляют, а я думал, что всё будет более-менее.]]></description>
+		<content:encoded><![CDATA[<p>Да, так есть много глупостей <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bo.gif' alt='*BO*' class='wp-smiley' /> и главная гупость в том, что они его <strong>совсем</strong> не обновляют, а я думал, что всё будет более-менее.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Варвара</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-976</link>
+		<dc:creator><![CDATA[Варвара]]></dc:creator>
+		<pubDate>Sat, 30 Jun 2007 15:08:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-976</guid>
+		<description><![CDATA[дизайн в целом норм. вот только уголки &quot;типа отгнутые&quot; косячно сделаны, тень неправильно лежит. да и на мой взгляд слишком много этих уголков]]></description>
+		<content:encoded><![CDATA[<p>дизайн в целом норм. вот только уголки &#171;типа отгнутые&#187; косячно сделаны, тень неправильно лежит. да и на мой взгляд слишком много этих уголков</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Вузы Ярославля &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html/comment-page-1#comment-783</link>
+		<dc:creator><![CDATA[Вузы Ярославля &#124; Regruppa]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2007 18:47:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/05/novyiy-sayt-priyomnoy-komissii-yargu.html#comment-783</guid>
+		<description><![CDATA[[...] Из облаков:&#160;демид, куда поступать, вузы Ярославля, политех, педПродолжаю начатую в посте про сайт приёмной комиссии ЯрГУ тему о вузах Ярославля: я думаю, что надо дать ссылки на сайты. Во-первых, скоро поступление, а во-вторых, многих это точно интересует [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;демид, куда поступать, вузы Ярославля, политех, педПродолжаю начатую в посте про сайт приёмной комиссии ЯрГУ тему о вузах Ярославля: я думаю, что надо дать ссылки на сайты. Во-первых, скоро поступление, а во-вторых, многих это точно интересует [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

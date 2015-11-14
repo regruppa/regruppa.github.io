@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Консультации по ОТК</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ОТК и башорг &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-909</link>
+		<dc:creator><![CDATA[ОТК и башорг &#124; Regruppa]]></dc:creator>
+		<pubDate>Sun, 24 Jun 2007 16:29:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-909</guid>
+		<description><![CDATA[[...] Из облаков:&#160;криветко, преведко, ОТК, башорг, экзаменНа экзамене по ОТК сидел на парте, где было что-то с башорга: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;криветко, преведко, ОТК, башорг, экзаменНа экзамене по ОТК сидел на парте, где было что-то с башорга: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-822</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 17:52:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-822</guid>
+		<description><![CDATA[Я уже офигеваю постепенно!!! Какое же это тяжёлое слово ОТК*FOOL**FOOL**FOOL**FOOL**FOOL*%-)%-)%-)]]></description>
+		<content:encoded><![CDATA[<p>Я уже офигеваю постепенно!!! Какое же это тяжёлое слово ОТК*FOOL**FOOL**FOOL**FOOL**FOOL*%-)%-)%-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-819</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 08:27:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-819</guid>
+		<description><![CDATA[Так у них, наверное, две контрольные нормально написаны...]]></description>
+		<content:encoded><![CDATA[<p>Так у них, наверное, две контрольные нормально написаны&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-815</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 08:20:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-815</guid>
+		<description><![CDATA[У Алёнки и Светы пятёрочки автоматом!!!!!!!!]]></description>
+		<content:encoded><![CDATA[<p>У Алёнки и Светы пятёрочки автоматом!!!!!!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-814</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 08:05:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-814</guid>
+		<description><![CDATA[А у меня гос 24ого... будет обидно получить 4((]]></description>
+		<content:encoded><![CDATA[<p>А у меня гос 24ого&#8230; будет обидно получить 4((</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-813</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 18 Jun 2007 08:03:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-813</guid>
+		<description><![CDATA[Эт точно *BOMB* и *BO*]]></description>
+		<content:encoded><![CDATA[<p>Эт точно <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> и <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bo.gif' alt='*BO*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html/comment-page-1#comment-808</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Sun, 17 Jun 2007 21:49:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/14/konsultatsii-po-otk.html#comment-808</guid>
+		<description><![CDATA[Ребятки, материала по ОТК учить пипец сколько!!!!!!!!!!!!!!!!*CRAZY**CRAZY**CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>Ребятки, материала по ОТК учить пипец сколько!!!!!!!!!!!!!!!!*CRAZY**CRAZY**CRAZY*</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

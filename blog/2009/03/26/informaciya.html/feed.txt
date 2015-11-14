@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Информация</title>
+	<atom:link href="http://regruppa.ru/blog/2009/03/26/informaciya.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2009/03/26/informaciya.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-14609</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Wed, 13 May 2009 19:23:50 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-14609</guid>
+		<description><![CDATA[круто Вам. Выпускной, все дела...
+а у мя сборы в действующей части:)]]></description>
+		<content:encoded><![CDATA[<p>круто Вам. Выпускной, все дела&#8230;<br />
+а у мя сборы в действующей части:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-14607</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Wed, 13 May 2009 17:40:47 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-14607</guid>
+		<description><![CDATA[Окончательная стоимость выпускного (без учета подарков преподам, колец и пр.) 3000 руб. Всем необходимо сдать эту сумму ДО 28 МАЯ! Те, кто не успеет, не попадут на выпускной.
+Меню и список преподавателей будут утверждаться во вторник и среду. Подробности появятся здесь по мере поступления информации.]]></description>
+		<content:encoded><![CDATA[<p>Окончательная стоимость выпускного (без учета подарков преподам, колец и пр.) 3000 руб. Всем необходимо сдать эту сумму ДО 28 МАЯ! Те, кто не успеет, не попадут на выпускной.</p>
+<p>Меню и список преподавателей будут утверждаться во вторник и среду. Подробности появятся здесь по мере поступления информации.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-14475</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Sun, 10 May 2009 15:29:33 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-14475</guid>
+		<description><![CDATA[Собрание переносится на среду! Время и место те же.]]></description>
+		<content:encoded><![CDATA[<p>Собрание переносится на среду! Время и место те же.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-14409</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 19:17:08 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-14409</guid>
+		<description><![CDATA[12 мая в 18-00 во втором корпусе состоится очередная встреча по поводу выпускного.]]></description>
+		<content:encoded><![CDATA[<p>12 мая в 18-00 во втором корпусе состоится очередная встреча по поводу выпускного.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-13062</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Sun, 29 Mar 2009 19:30:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-13062</guid>
+		<description><![CDATA[А ещё выяснилось, что 31 марта (вторник) в 19-00 во втором корпусе состоится собрание по поводу выпускного.]]></description>
+		<content:encoded><![CDATA[<p>А ещё выяснилось, что 31 марта (вторник) в 19-00 во втором корпусе состоится собрание по поводу выпускного.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-12985</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 09:27:27 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-12985</guid>
+		<description><![CDATA[вот прочитал это объвление и как-то задумался, что в чуть-чуть осталось беззаботной жизни *SAD*]]></description>
+		<content:encoded><![CDATA[<p>вот прочитал это объвление и как-то задумался, что в чуть-чуть осталось беззаботной жизни <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_sad.gif' alt='*SAD*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2009/03/26/informaciya.html/comment-page-1#comment-12984</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 09:26:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=850#comment-12984</guid>
+		<description><![CDATA[спасибо, все сделаем *SMILE*]]></description>
+		<content:encoded><![CDATA[<p>спасибо, все сделаем <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

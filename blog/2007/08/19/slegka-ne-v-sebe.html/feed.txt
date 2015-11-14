@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: *слегка не в себе*</title>
+	<atom:link href="http://regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: SmilePack для QIP &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html/comment-page-1#comment-1432</link>
+		<dc:creator><![CDATA[SmilePack для QIP &#124; Regruppa]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2007 07:21:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html#comment-1432</guid>
+		<description><![CDATA[[...] Как он выглядит, можно увидеть как минимум в двух темах (первая и вторая): [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Как он выглядит, можно увидеть как минимум в двух темах (первая и вторая): [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html/comment-page-1#comment-1164</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2007 21:02:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/19/slegka-ne-v-sebe.html#comment-1164</guid>
+		<description><![CDATA[и правда, с чего бы это вдруг??*BLUSH*...=)
+p/s/ с 21.08 уежаю в Европу..=) по-этому в аське буду появляться редко и быстро...=)
+по прибытию (30-31) сварганю большой Потс--впечатление =)]]></description>
+		<content:encoded><![CDATA[<p>и правда, с чего бы это вдруг??*BLUSH*&#8230;=)<br />
+p/s/ с 21.08 уежаю в Европу..=) по-этому в аське буду появляться редко и быстро&#8230;=)<br />
+по прибытию (30-31) сварганю большой Потс&#8212;впечатление =)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

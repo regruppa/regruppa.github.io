@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: MIP? Есть много Джиммов!</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: fos4</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-12475</link>
+		<dc:creator><![CDATA[fos4]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2009 07:19:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-12475</guid>
+		<description><![CDATA[A&#039;]]></description>
+		<content:encoded><![CDATA[<p>A&#8217;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fos4</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-12474</link>
+		<dc:creator><![CDATA[fos4]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2009 07:10:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-12474</guid>
+		<description><![CDATA[У меня на данный момент нокиа с разрешением 240на320 а до этого у меня был с.э с разрешением 128на160 там у меня аськи были большие и красивые а на нокиа они маленькие. Есть ли аськи где смайлики и статусы не 24на24 а 48на48.если есть подскажите пожалуйста где я могу собрать такую аську.]]></description>
+		<content:encoded><![CDATA[<p>У меня на данный момент нокиа с разрешением 240на320 а до этого у меня был с.э с разрешением 128на160 там у меня аськи были большие и красивые а на нокиа они маленькие. Есть ли аськи где смайлики и статусы не 24на24 а 48на48.если есть подскажите пожалуйста где я могу собрать такую аську.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-3265</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 23 May 2008 13:43:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-3265</guid>
+		<description><![CDATA[угу... вроде как ужо...]]></description>
+		<content:encoded><![CDATA[<p>угу&#8230; вроде как ужо&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: D@rkNeo</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-3264</link>
+		<dc:creator><![CDATA[D@rkNeo]]></dc:creator>
+		<pubDate>Fri, 23 May 2008 12:46:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-3264</guid>
+		<description><![CDATA[на днях новый смэйпер будет, ждите.]]></description>
+		<content:encoded><![CDATA[<p>на днях новый смэйпер будет, ждите.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: х%#</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-3263</link>
+		<dc:creator><![CDATA[х%#]]></dc:creator>
+		<pubDate>Fri, 23 May 2008 10:26:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-3263</guid>
+		<description><![CDATA[*EVIL* за%$али]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> за%$али</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Аська в 306й или ICQ в браузере &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-1506</link>
+		<dc:creator><![CDATA[Аська в 306й или ICQ в браузере &#124; Regruppa]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 18:13:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-1506</guid>
+		<description><![CDATA[[...] Из облаков:&#160;icq, ICQ в браузере, Jabber, meebo.com, аська, аська в браузере, запрет пользования ICQМногие и многие у нас пользуются аськой: если дома, то запускают QIP, а если в университете на лекции или практике, то какую-нибудь мобильную аську. Но, если ты в университете и при этом сидишь за компьютером, подключённым к интернету (например, в 306й), то хочется запустить нормальную аську, а не набирать длинные сообщения на сотовом. Поэтому, конечно же, мы и запускали там QIP, который уже по-умолчанию стоял на всех компьютерах. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;icq, ICQ в браузере, Jabber, meebo.com, аська, аська в браузере, запрет пользования ICQМногие и многие у нас пользуются аськой: если дома, то запускают QIP, а если в университете на лекции или практике, то какую-нибудь мобильную аську. Но, если ты в университете и при этом сидишь за компьютером, подключённым к интернету (например, в 306й), то хочется запустить нормальную аську, а не набирать длинные сообщения на сотовом. Поэтому, конечно же, мы и запускали там QIP, который уже по-умолчанию стоял на всех компьютерах. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-1415</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2007 05:07:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-1415</guid>
+		<description><![CDATA[Что-то обладает большим набором функций, а что-то меньшим :-) что-то стабильнее, а что-то нет. Будем ждать новую версию MIP -- интересно! =)]]></description>
+		<content:encoded><![CDATA[<p>Что-то обладает большим набором функций, а что-то меньшим :-) что-то стабильнее, а что-то нет. Будем ждать новую версию MIP &#8212; интересно! =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-1413</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 19:08:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-1413</guid>
+		<description><![CDATA[....Гламур приходит в нашу жизнь....]]></description>
+		<content:encoded><![CDATA[<p>&#8230;.Гламур приходит в нашу жизнь&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-1412</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 18:33:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-1412</guid>
+		<description><![CDATA[кому-то--да , кому-то--нет =)]]></description>
+		<content:encoded><![CDATA[<p>кому-то&#8212;да , кому-то&#8212;нет =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html/comment-page-1#comment-1411</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 17:11:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/29/mip-est-mnogo-dzhimmov.html#comment-1411</guid>
+		<description><![CDATA[А не всё ли равно, MIP, QIP,Jimm....]]></description>
+		<content:encoded><![CDATA[<p>А не всё ли равно, MIP, QIP,Jimm&#8230;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

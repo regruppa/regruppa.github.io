@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Кинобум В Родине</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html/comment-page-1#comment-215</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2007 14:03:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/20/kinobum-v-rodine.html#comment-215</guid>
+		<description><![CDATA[Ну...кто что смотрит... Разные фильмы можно посмотреть и дома, а вот мировые премьеры в &quot;Родине&quot;!*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Ну&#8230;кто что смотрит&#8230; Разные фильмы можно посмотреть и дома, а вот мировые премьеры в &#171;Родине&#187;!*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html/comment-page-1#comment-199</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 21 Apr 2007 05:30:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/20/kinobum-v-rodine.html#comment-199</guid>
+		<description><![CDATA[Был раньше кинотеатр «Ретро»... *BOMB* а вообще жаль, что у нас в Ярославле совсем нет кинотеатров (да даже кинозалов), где можно посмотреть &lt;i&gt;разные&lt;/i&gt; фильмы.]]></description>
+		<content:encoded><![CDATA[<p>Был раньше кинотеатр «Ретро»&#8230; <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> а вообще жаль, что у нас в Ярославле совсем нет кинотеатров (да даже кинозалов), где можно посмотреть <i>разные</i> фильмы.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Reisei</title>
+		<link>http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html/comment-page-1#comment-195</link>
+		<dc:creator><![CDATA[Reisei]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2007 11:54:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/20/kinobum-v-rodine.html#comment-195</guid>
+		<description><![CDATA[Нет... все это конечно здорово... =)
+Но настоящий КиноБум был бы если б там показали Тэцуо Железный Человек... а потом - 451 Градус По Фаренгейту... а потом - ...
+А еще у меня есть мечта: Кинотеатр &quot;Мир&quot; сейчас сдается в аренду... надеюсь, что туда переместится проект &quot;LIFT&quot; =))]]></description>
+		<content:encoded><![CDATA[<p>Нет&#8230; все это конечно здорово&#8230; =)<br />
+Но настоящий КиноБум был бы если б там показали Тэцуо Железный Человек&#8230; а потом &#8212; 451 Градус По Фаренгейту&#8230; а потом &#8212; &#8230; </p>
+<p>А еще у меня есть мечта: Кинотеатр &#171;Мир&#187; сейчас сдается в аренду&#8230; надеюсь, что туда переместится проект &#171;LIFT&#187; =))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/20/kinobum-v-rodine.html/comment-page-1#comment-194</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2007 09:53:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/20/kinobum-v-rodine.html#comment-194</guid>
+		<description><![CDATA[С удовольствие схожу ещё в воскресение на &quot;Жатву&quot;*EVIL* Давно не смотрела триллеры...]]></description>
+		<content:encoded><![CDATA[<p>С удовольствие схожу ещё в воскресение на &#171;Жатву&#187;*EVIL* Давно не смотрела триллеры&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

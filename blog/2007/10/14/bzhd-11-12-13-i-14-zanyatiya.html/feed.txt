@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: БЖД: 11, 12, 13 и 14 занятия</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: inOggepaiggip</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-15394</link>
+		<dc:creator><![CDATA[inOggepaiggip]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2009 12:35:45 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-15394</guid>
+		<description><![CDATA[Очень интересно. Но чего-то не хватает. Может быть, стоит добавить каких-нибудь картинок или фото?]]></description>
+		<content:encoded><![CDATA[<p>Очень интересно. Но чего-то не хватает. Может быть, стоит добавить каких-нибудь картинок или фото?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1605</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2007 08:04:00 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1605</guid>
+		<description><![CDATA[Интересно, есть ли остальные методички в электронном виде?]]></description>
+		<content:encoded><![CDATA[<p>Интересно, есть ли остальные методички в электронном виде?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1547</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 13:25:52 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1547</guid>
+		<description><![CDATA[не....еще чтото было вроде коллоквиума по ОТК...]]></description>
+		<content:encoded><![CDATA[<p>не&#8230;.еще чтото было вроде коллоквиума по ОТК&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1546</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 12:25:58 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1546</guid>
+		<description><![CDATA[Нет, это, наверное, первый коллоквиум после единственного по матану в первом семестре :-)]]></description>
+		<content:encoded><![CDATA[<p>Нет, это, наверное, первый коллоквиум после единственного по матану в первом семестре :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1545</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 11:50:28 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1545</guid>
+		<description><![CDATA[кстати вопрос: а чо у вас колоквиумы на каждом курсе чтоль? у нас так тока по матану был в 1ом семестре первого курса, и то носил больше устрашающий характер, чтоб ботать начали. Никада не забуду как пришел к нам Агаханов Н.Х.(осведомленные люди поймут, что за человек) и пофакал полгруппы... из группы ушло с 2ками процентов 70. Зато как говорится правило семи сработало потом:)]]></description>
+		<content:encoded><![CDATA[<p>кстати вопрос: а чо у вас колоквиумы на каждом курсе чтоль? у нас так тока по матану был в 1ом семестре первого курса, и то носил больше устрашающий характер, чтоб ботать начали. Никада не забуду как пришел к нам Агаханов Н.Х.(осведомленные люди поймут, что за человек) и пофакал полгруппы&#8230; из группы ушло с 2ками процентов 70. Зато как говорится правило семи сработало потом:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1540</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 08:14:59 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1540</guid>
+		<description><![CDATA[это наверно даже заслуживает отдельного поста... такой цирк, который был на коллоквиуме.... =))]]></description>
+		<content:encoded><![CDATA[<p>это наверно даже заслуживает отдельного поста&#8230; такой цирк, который был на коллоквиуме&#8230;. =))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1539</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 07:04:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1539</guid>
+		<description><![CDATA[А мы уже написали коллоквиум по этим темам *DANCE*]]></description>
+		<content:encoded><![CDATA[<p>А мы уже написали коллоквиум по этим темам <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1520</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 15 Oct 2007 12:09:46 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1520</guid>
+		<description><![CDATA[полистал методы.. прикольно.. у на такая штука вроде на последних курсах тож будет... а пока тока война, да и та по желанию... зато на войне интересно, помимо оружия огнестрельного учим еще и ракеты:)]]></description>
+		<content:encoded><![CDATA[<p>полистал методы.. прикольно.. у на такая штука вроде на последних курсах тож будет&#8230; а пока тока война, да и та по желанию&#8230; зато на войне интересно, помимо оружия огнестрельного учим еще и ракеты:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html/comment-page-1#comment-1517</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 15 Oct 2007 12:05:12 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/14/bzhd-11-12-13-i-14-zanyatiya.html#comment-1517</guid>
+		<description><![CDATA[Опачки, а ветра то я знаю:) забавная девочка:)]]></description>
+		<content:encoded><![CDATA[<p>Опачки, а ветра то я знаю:) забавная девочка:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

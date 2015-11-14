@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Он в контакте</title>
+	<atom:link href="http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Теперь и он &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html/comment-page-1#comment-2430</link>
+		<dc:creator><![CDATA[Теперь и он &#124; Regruppa]]></dc:creator>
+		<pubDate>Tue, 22 Jan 2008 07:23:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html#comment-2430</guid>
+		<description><![CDATA[[...] Из облаков:&#160;Александр Кузнецов, Вконтакте, Декан, ФизФак ЯрГУУже был один, а теперь, возможно, продолжение: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;Александр Кузнецов, Вконтакте, Декан, ФизФак ЯрГУУже был один, а теперь, возможно, продолжение: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html/comment-page-1#comment-2274</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2007 13:51:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html#comment-2274</guid>
+		<description><![CDATA[Ага... только по- моему это не Чурилов, это господин Тузик прикалывается))))]]></description>
+		<content:encoded><![CDATA[<p>Ага&#8230; только по- моему это не Чурилов, это господин Тузик прикалывается))))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html/comment-page-1#comment-2273</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2007 12:31:30 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/13/on-v-kontakte.html#comment-2273</guid>
+		<description><![CDATA[Прикол *ROFL* Я ему даже на стене написал *SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Прикол <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /> Я ему даже на стене написал <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

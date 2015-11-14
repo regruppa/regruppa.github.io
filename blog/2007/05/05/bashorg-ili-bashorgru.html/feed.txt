@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: БашОрг. или Bash.org.ru</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: vonsho</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-9373</link>
+		<dc:creator><![CDATA[vonsho]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 08:21:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-9373</guid>
+		<description><![CDATA[Я люблю Баш]]></description>
+		<content:encoded><![CDATA[<p>Я люблю Баш</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Дея creep Америкова</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-6673</link>
+		<dc:creator><![CDATA[Дея creep Америкова]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 09:47:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-6673</guid>
+		<description><![CDATA[Ничего Ничего. Вот поездите в электричках поболее. Кисловодск-Минводы. Еду с подругой. Заходит бабулька с контрабасом. сзади нее сидит дед с огромной корзиной яиц. Через пару станций вваливается контролер. Дед тихо линяет на его метсо присаживается парень. Контроле(К) бабке(Б): женщина, инструмент большой, нужно билет покупать. Б показывает себе за спину(как ушел дед она не замечает): пусть он сначала за свои яйца заплатит. ВАгон в истерике. Парень медленно оборачивается и произносит: Вот когда мои яйца будут размером сее контрабас, тогда я за них платить буду!]]></description>
+		<content:encoded><![CDATA[<p>Ничего Ничего. Вот поездите в электричках поболее. Кисловодск-Минводы. Еду с подругой. Заходит бабулька с контрабасом. сзади нее сидит дед с огромной корзиной яиц. Через пару станций вваливается контролер. Дед тихо линяет на его метсо присаживается парень. Контроле(К) бабке(Б): женщина, инструмент большой, нужно билет покупать. Б показывает себе за спину(как ушел дед она не замечает): пусть он сначала за свои яйца заплатит. ВАгон в истерике. Парень медленно оборачивается и произносит: Вот когда мои яйца будут размером сее контрабас, тогда я за них платить буду!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Баш лежит, а все работают и учатся &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-1690</link>
+		<dc:creator><![CDATA[Баш лежит, а все работают и учатся &#124; Regruppa]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 19:00:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-1690</guid>
+		<description><![CDATA[[...] Из облаков:&#160;DDoS, одмины, ЖЖ, башоргМногие из нас заметили, что башорг как-то совсем не открывается. А оказывается, что на него действует сильная-сильная DDoS-атака. Об этом сообщили даже админы одмины башорга: С сожалением вынуждены сообщить, что с 3:45 утра 29 октября по настоящий момент сервер находится под серьёзной распредёленной атакой. Мы проводим все необходимые действия для нейтрализации данной атаки и предотвращения её повторения в будущем. В этом нам помогают сотрудники компании .masterhost. Потерь данных нет, но мусорным трафиком забит весь канал — успехи в борьбе с ним переменные. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;DDoS, одмины, ЖЖ, башоргМногие из нас заметили, что башорг как-то совсем не открывается. А оказывается, что на него действует сильная-сильная DDoS-атака. Об этом сообщили даже админы одмины башорга: С сожалением вынуждены сообщить, что с 3:45 утра 29 октября по настоящий момент сервер находится под серьёзной распредёленной атакой. Мы проводим все необходимые действия для нейтрализации данной атаки и предотвращения её повторения в будущем. В этом нам помогают сотрудники компании .masterhost. Потерь данных нет, но мусорным трафиком забит весь канал — успехи в борьбе с ним переменные. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ОТК и башорг &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-1061</link>
+		<dc:creator><![CDATA[ОТК и башорг &#124; Regruppa]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2007 04:57:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-1061</guid>
+		<description><![CDATA[[...] Из облаков:&#160;криветко, преведко, ОТК, башорг, экзаменНа экзамене по ОТК сидел на парте, где было что-то с башорга: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;криветко, преведко, ОТК, башорг, экзаменНа экзамене по ОТК сидел на парте, где было что-то с башорга: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-612</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 11:38:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-612</guid>
+		<description><![CDATA[Э-э-э =-O, наш сайт даже умнее ботов. Мы придумали искуственный моск, который нас поработитъ. Бойтесь.*EVIL*]]></description>
+		<content:encoded><![CDATA[<p>Э-э-э =-O, наш сайт даже умнее ботов. Мы придумали искуственный моск, который нас поработитъ. Бойтесь.*EVIL*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-514</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 17:42:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-514</guid>
+		<description><![CDATA[Очень умный :-)]]></description>
+		<content:encoded><![CDATA[<p>Очень умный :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Пропатчить KDE под FreeBSD &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-507</link>
+		<dc:creator><![CDATA[Пропатчить KDE под FreeBSD &#124; Regruppa]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 17:05:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-507</guid>
+		<description><![CDATA[[...] Из облаков:&#160;FreeBSD, FTP, unix, пропатчить KDE под FreeBSD, тлогОпять собираюсь сделать какую-то тлог-запись (о тлогах напишу как-нибудь обширный пост)&#8230;  просто сейчас зашёл на FTP от ЦТ]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;FreeBSD, FTP, unix, пропатчить KDE под FreeBSD, тлогОпять собираюсь сделать какую-то тлог-запись (о тлогах напишу как-нибудь обширный пост)&#8230;  просто сейчас зашёл на FTP от ЦТ</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Йа криветко?</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-434</link>
+		<dc:creator><![CDATA[Йа криветко?]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 04:03:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-434</guid>
+		<description><![CDATA[[...] Причём, как пишут в расследовании на эту тему, всё началось с цитаты 104726 на башорге: DreamMaker: Да..конечно лекция по физике у нашего препода довольно увлекательное и серьезное мероприятие…..Но когда перед тобой на парте красуется надпись : «ЙА КРИВЕТКО!»…… [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Причём, как пишут в расследовании на эту тему, всё началось с цитаты 104726 на башорге: DreamMaker: Да..конечно лекция по физике у нашего препода довольно увлекательное и серьезное мероприятие…..Но когда перед тобой на парте красуется надпись : «ЙА КРИВЕТКО!»…… [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-405</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 08 May 2007 13:38:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-405</guid>
+		<description><![CDATA[какой умный у нас сайт, правда?!:-D]]></description>
+		<content:encoded><![CDATA[<p>какой умный у нас сайт, правда?!:-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/05/05/bashorg-ili-bashorgru.html/comment-page-1#comment-404</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Tue, 08 May 2007 12:44:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/05/bashorg-ili-bashorgru.html#comment-404</guid>
+		<description><![CDATA[=-O У нас чаго, сайт сам коменты делает. Я худею *CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>=-O У нас чаго, сайт сам коменты делает. Я худею <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

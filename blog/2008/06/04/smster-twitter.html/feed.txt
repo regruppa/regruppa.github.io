@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: SMSter: twiттер?</title>
+	<atom:link href="http://regruppa.ru/blog/2008/06/04/smster-twitter.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3423</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2008 15:07:48 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3423</guid>
+		<description><![CDATA[а потом тебе в ответ все &quot;нормально, а у тебя&quot;  *ROFL*
+и нафига мне столько закорючек на телефоне :)]]></description>
+		<content:encoded><![CDATA[<p>а потом тебе в ответ все &#171;нормально, а у тебя&#187;  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /><br />
+и нафига мне столько закорючек на телефоне :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3408</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Sat, 07 Jun 2008 07:50:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3408</guid>
+		<description><![CDATA[ну почему прикольно же, када весь твой контакт лист получает одни и теже сообщения))
+типа &quot;привет! как дела?)&quot;
+:)))))))]]></description>
+		<content:encoded><![CDATA[<p>ну почему прикольно же, када весь твой контакт лист получает одни и теже сообщения))<br />
+типа &#171;привет! как дела?)&#187;<br />
+:)))))))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Карл</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3407</link>
+		<dc:creator><![CDATA[Карл]]></dc:creator>
+		<pubDate>Sat, 07 Jun 2008 07:28:57 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3407</guid>
+		<description><![CDATA[Лучше не надо, зачем - ведь Ты же не будешь писать всем друзьям одни и те же слова???]]></description>
+		<content:encoded><![CDATA[<p>Лучше не надо, зачем &#8212; ведь Ты же не будешь писать всем друзьям одни и те же слова???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3405</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2008 21:25:10 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3405</guid>
+		<description><![CDATA[спасибо я уже пообедал)]]></description>
+		<content:encoded><![CDATA[<p>спасибо я уже пообедал)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: SvT</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3404</link>
+		<dc:creator><![CDATA[SvT]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2008 20:34:45 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3404</guid>
+		<description><![CDATA[ещё  *THUMBS_UP*
+380068542136
+226298158018
+650984265704
+926011548211
+668743458730
+592896606402
+421139331464]]></description>
+		<content:encoded><![CDATA[<p>ещё  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /><br />
+380068542136<br />
+226298158018<br />
+650984265704<br />
+926011548211<br />
+668743458730<br />
+592896606402<br />
+421139331464</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3394</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2008 03:36:41 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3394</guid>
+		<description><![CDATA[Тупой проект, согласен :) но хуч... гыыыы  *CRAZY* по-моему, они бросили попытки рекламироваться у нас на сайте.]]></description>
+		<content:encoded><![CDATA[<p>Тупой проект, согласен :) но хуч&#8230; гыыыы  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> по-моему, они бросили попытки рекламироваться у нас на сайте.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3391</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 20:19:52 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3391</guid>
+		<description><![CDATA[жень ты так агитируешь всех)) мне это напоминает ситуацию с хучем)))
+честно пока ничего интересного в проекте не вижу(]]></description>
+		<content:encoded><![CDATA[<p>жень ты так агитируешь всех)) мне это напоминает ситуацию с хучем))) </p>
+<p>честно пока ничего интересного в проекте не вижу(</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3390</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 18:51:32 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3390</guid>
+		<description><![CDATA[А что стрёмного, Коля? :) попробуй наоборот сейчас, пока там никого нет.]]></description>
+		<content:encoded><![CDATA[<p>А что стрёмного, Коля? :) попробуй наоборот сейчас, пока там никого нет.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3389</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 18:36:15 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3389</guid>
+		<description><![CDATA[че-то стремно уже  *SECRET*
+думаю пока не буду подключаться]]></description>
+		<content:encoded><![CDATA[<p>че-то стремно уже  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /><br />
+думаю пока не буду подключаться</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/06/04/smster-twitter.html/comment-page-1#comment-3387</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 16:59:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=759#comment-3387</guid>
+		<description><![CDATA[:))) так ты окончательное решение прими и... удались. Убери всех их друзей, отключи оповещения и всё.]]></description>
+		<content:encoded><![CDATA[<p>:))) так ты окончательное решение прими и&#8230; удались. Убери всех их друзей, отключи оповещения и всё.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

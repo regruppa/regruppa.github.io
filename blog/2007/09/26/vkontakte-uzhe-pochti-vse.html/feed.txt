@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: ВКонтакте уже почти все!</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: nowyidom.ru</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-9261</link>
+		<dc:creator><![CDATA[nowyidom.ru]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2008 17:33:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-9261</guid>
+		<description><![CDATA[Уютная квартира в элитном районе, да еще и в новостройке - о чем можно еще мечтать. Об особенностях приобретения недвижимости в новостройках читайте на сайте nowyidom.ru. У нас можно получить подробные сведения о  необходимых документах для покупки квартиры в новостройке, видах квартир, договоре ренты, ипотечных брокерах и многом другом.]]></description>
+		<content:encoded><![CDATA[<p>Уютная квартира в элитном районе, да еще и в новостройке &#8212; о чем можно еще мечтать. Об особенностях приобретения недвижимости в новостройках читайте на сайте nowyidom.ru. У нас можно получить подробные сведения о  необходимых документах для покупки квартиры в новостройке, видах квартир, договоре ренты, ипотечных брокерах и многом другом.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ordercards.ru</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-6947</link>
+		<dc:creator><![CDATA[ordercards.ru]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2008 22:35:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-6947</guid>
+		<description><![CDATA[Наш сайт создан для тех, кто не хочет провести существенную часть своей жизни, выстаивая длинные очереди за билетами. У нас бы можете забронировать необходимый билет по телефону или по Интернету. Вы можете заказать билеты на регулярные или чартерные рейсы, билеты на поезд, заказать номер в гостинице и узнать о  правилах бронирования. В случае, если Вы потеряли свой билет или хотите внести изменения в заказ, мы поможем Вам в этом. Путешествуйте комфортно сообща с нами.]]></description>
+		<content:encoded><![CDATA[<p>Наш сайт создан для тех, кто не хочет провести существенную часть своей жизни, выстаивая длинные очереди за билетами. У нас бы можете забронировать необходимый билет по телефону или по Интернету. Вы можете заказать билеты на регулярные или чартерные рейсы, билеты на поезд, заказать номер в гостинице и узнать о  правилах бронирования. В случае, если Вы потеряли свой билет или хотите внести изменения в заказ, мы поможем Вам в этом. Путешествуйте комфортно сообща с нами.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: dovupravs.ru</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-6847</link>
+		<dc:creator><![CDATA[dovupravs.ru]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2008 09:42:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-6847</guid>
+		<description><![CDATA[У вас есть деньги? Пусть они работают, а мы поможем определиться с надежной компанией, которая приумножит Ваш капитал. Доверительное управление стремительно вошло в нашу жизнь. В наше время многие уже оценили плюсы передачи денежных средств в управление профессионалам. Доверитель не передает свое имущество, а просто дает возможность другим приумножить капитал, отдавая лишь небольшой процент от заработка. Ознакомиться с системой доверительного управления можно на dovupravs.ru]]></description>
+		<content:encoded><![CDATA[<p>У вас есть деньги? Пусть они работают, а мы поможем определиться с надежной компанией, которая приумножит Ваш капитал. Доверительное управление стремительно вошло в нашу жизнь. В наше время многие уже оценили плюсы передачи денежных средств в управление профессионалам. Доверитель не передает свое имущество, а просто дает возможность другим приумножить капитал, отдавая лишь небольшой процент от заработка. Ознакомиться с системой доверительного управления можно на dovupravs.ru</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: dilingcent.ru</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-6734</link>
+		<dc:creator><![CDATA[dilingcent.ru]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 17:58:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-6734</guid>
+		<description><![CDATA[Если Вы выбрали профессию трейдера, тогда дилинговый зал для Вас просто незаменимый помощник. И хотя на сегодняшний день многие трейдеры предпочитают совершать сделки через Интернет, реальная связь со службой поддержки значительно облегчает их труд. Совершение операций при содействии программного обеспечения, делают работу трейдера проще, ведь значительную часть берет на себя программа. Что такое дилинговый зал (dealing room), кто такие трейдеры, брокеры и инвесторы можно знать на ресурсе dilingcent.ru]]></description>
+		<content:encoded><![CDATA[<p>Если Вы выбрали профессию трейдера, тогда дилинговый зал для Вас просто незаменимый помощник. И хотя на сегодняшний день многие трейдеры предпочитают совершать сделки через Интернет, реальная связь со службой поддержки значительно облегчает их труд. Совершение операций при содействии программного обеспечения, делают работу трейдера проще, ведь значительную часть берет на себя программа. Что такое дилинговый зал (dealing room), кто такие трейдеры, брокеры и инвесторы можно знать на ресурсе dilingcent.ru</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: buyshar.ru</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-6674</link>
+		<dc:creator><![CDATA[buyshar.ru]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 09:48:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-6674</guid>
+		<description><![CDATA[Интересная и познавательная информация об акциях, их стоимости, акционерных обществах и оценке стоимости ценных бумаг находится на ресурсе buyshar.ru. Исключительно у нас Вы узнаете о способах получения денег от акций, управлении денежными средствами, краткосрочных сделках, факторах, которые влияют на оценочную стоимость ценной бумаги и многом другом.]]></description>
+		<content:encoded><![CDATA[<p>Интересная и познавательная информация об акциях, их стоимости, акционерных обществах и оценке стоимости ценных бумаг находится на ресурсе buyshar.ru. Исключительно у нас Вы узнаете о способах получения денег от акций, управлении денежными средствами, краткосрочных сделках, факторах, которые влияют на оценочную стоимость ценной бумаги и многом другом.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Vector</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-3129</link>
+		<dc:creator><![CDATA[Vector]]></dc:creator>
+		<pubDate>Wed, 14 May 2008 11:14:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-3129</guid>
+		<description><![CDATA[Обожаю контакт. Нашел столько людей знакомых. Постоянно общаемся. На работе иногда бывает нечего делать так мы с друзьями общаемся через прогу Агент Вконтакте http://agentvkontakte.ru/]]></description>
+		<content:encoded><![CDATA[<p>Обожаю контакт. Нашел столько людей знакомых. Постоянно общаемся. На работе иногда бывает нечего делать так мы с друзьями общаемся через прогу Агент Вконтакте <a href="http://agentvkontakte.ru/" rel="nofollow" class="livkontakte">http://agentvkontakte.ru/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-1369</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 29 Sep 2007 13:11:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-1369</guid>
+		<description><![CDATA[Кстати, есть хорошие ЖЖ. А те блогеры, что пишут только о том, как они пожрали, обычно естественно отсеиваются, так как их в итоге никто не читает. Сейчас, конечно, тяжело выбиться в лидеры, даже с качественными текстами...]]></description>
+		<content:encoded><![CDATA[<p>Кстати, есть хорошие ЖЖ. А те блогеры, что пишут только о том, как они пожрали, обычно естественно отсеиваются, так как их в итоге никто не читает. Сейчас, конечно, тяжело выбиться в лидеры, даже с качественными текстами&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-1368</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 29 Sep 2007 13:09:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-1368</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+А вот я зарегистрировалась потому, что мне знакомая из Москвы (с которой отдыхали ) накидала прикольных фоток
+&lt;/blockquote&gt;
+Вот и я зарегистрировался сначала потому, что стало интересно, а потом, так как там все из Питера :-)]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+А вот я зарегистрировалась потому, что мне знакомая из Москвы (с которой отдыхали ) накидала прикольных фоток
+</p></blockquote>
+<p>Вот и я зарегистрировался сначала потому, что стало интересно, а потом, так как там все из Питера :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-1337</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2007 22:06:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-1337</guid>
+		<description><![CDATA[&lt;strike&gt;Все&lt;/strike&gt; Многое, что выходит в Массы и создаеться по большей части теми же массами (веб 2.0) со временем &quot;попсеет&quot;. как и БашОрг, как ЖЖ, как ННМ, как Photosight. хотя еще многое зависит от того сколько сам уделяешь внимания ресурсам, чем больше внимания-- тем быстрее надоедает.
+Интересно, что сайт практически полностью копирует американский соц-сайт facebook.com...
+p/s/ много думали над словом facebook (перевода нет даже в Лингве) решили. что это что-то типа нашего школьного выпускного альбома -- книга лиц..]]></description>
+		<content:encoded><![CDATA[<p><strike>Все</strike> Многое, что выходит в Массы и создаеться по большей части теми же массами (веб 2.0) со временем &#171;попсеет&#187;. как и БашОрг, как ЖЖ, как ННМ, как Photosight. хотя еще многое зависит от того сколько сам уделяешь внимания ресурсам, чем больше внимания&#8212; тем быстрее надоедает.<br />
+Интересно, что сайт практически полностью копирует американский соц-сайт facebook.com&#8230;<br />
+p/s/ много думали над словом facebook (перевода нет даже в Лингве) решили. что это что-то типа нашего школьного выпускного альбома &#8212; книга лиц..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html/comment-page-1#comment-1335</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2007 21:06:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/26/vkontakte-uzhe-pochti-vse.html#comment-1335</guid>
+		<description><![CDATA[ErliZz
+Так скажем большинство моих знакомых именно так на шару и регалось.. Типа у всех есть ну пусть и у меня будет а потом фигак начали добовлять один второй ну и понеслось... Нет сервис конечно ничо так достаточно грамотно реализован... Но мое мнение это просто новое веяние моды, которое со временем утихнет... Это как года 3 назад вдруг резко стало модно делать жж  че то там писать и читать чо творится у друзей.. потом жжов развелось столько что мне лично надоело читать сначала одних а потом и всех вообще ибо в основном несуразицу несут, ака я седня клево пожрал;) (у самого никада жж не было) Ну вобщем посмотрим что станет с сервисом)]]></description>
+		<content:encoded><![CDATA[<p>ErliZz<br />
+Так скажем большинство моих знакомых именно так на шару и регалось.. Типа у всех есть ну пусть и у меня будет а потом фигак начали добовлять один второй ну и понеслось&#8230; Нет сервис конечно ничо так достаточно грамотно реализован&#8230; Но мое мнение это просто новое веяние моды, которое со временем утихнет&#8230; Это как года 3 назад вдруг резко стало модно делать жж  че то там писать и читать чо творится у друзей.. потом жжов развелось столько что мне лично надоело читать сначала одних а потом и всех вообще ибо в основном несуразицу несут, ака я седня клево пожрал;) (у самого никада жж не было) Ну вобщем посмотрим что станет с сервисом)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

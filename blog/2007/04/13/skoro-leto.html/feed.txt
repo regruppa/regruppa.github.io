@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Скоро лето!</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/13/skoro-leto.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Paul_Scholes</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-256</link>
+		<dc:creator><![CDATA[Paul_Scholes]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 08:46:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-256</guid>
+		<description><![CDATA[Народ лучший отдых, это в Турции :-D, правда Турки-гады приставучии *EVIL*]]></description>
+		<content:encoded><![CDATA[<p>Народ лучший отдых, это в Турции :-D, правда Турки-гады приставучии <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-216</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2007 14:08:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-216</guid>
+		<description><![CDATA[2 Elina: и как там Куба? Игуаны по берегу ползают?*WINK*]]></description>
+		<content:encoded><![CDATA[<p>2 Elina: и как там Куба? Игуаны по берегу ползают?*WINK*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Elina</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-209</link>
+		<dc:creator><![CDATA[Elina]]></dc:creator>
+		<pubDate>Sat, 21 Apr 2007 15:01:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-209</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Очень бы хотелось посетить Кубу, но,думаю, не этим летом.
+&lt;/blockquote&gt;
+*BOMB*
+Я там была *COOL*]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Очень бы хотелось посетить Кубу, но,думаю, не этим летом.
+</p></blockquote>
+<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /><br />
+Я там была <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_cool.gif' alt='*COOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-192</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2007 09:31:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-192</guid>
+		<description><![CDATA[А лично я поеду в Турцию или Египет где-нибудь на 2 недели. И вам советую*SMILE* Очень бы хотелось посетить Кубу, но,думаю, не этим летом.]]></description>
+		<content:encoded><![CDATA[<p>А лично я поеду в Турцию или Египет где-нибудь на 2 недели. И вам советую*SMILE* Очень бы хотелось посетить Кубу, но,думаю, не этим летом.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-150</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Tue, 17 Apr 2007 16:03:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-150</guid>
+		<description><![CDATA[To geras: я имел ввиду уйти на каникулы и прихватиь с собой стипендию :-D]]></description>
+		<content:encoded><![CDATA[<p>To geras: я имел ввиду уйти на каникулы и прихватиь с собой стипендию :-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-97</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 10:18:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-97</guid>
+		<description><![CDATA[Я хочу сходить на байдарках по Карелии *SMILE* или хотя бы по уральским рекам. Если не получится так далеко, то хотя бы по области.]]></description>
+		<content:encoded><![CDATA[<p>Я хочу сходить на байдарках по Карелии <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> или хотя бы по уральским рекам. Если не получится так далеко, то хотя бы по области.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-96</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 10:11:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-96</guid>
+		<description><![CDATA[&lt;blockquote&gt;Но сначала надо на эти каникулы уйти не с пустыми руками &lt;/blockquote&gt;
+Пара хвостов тебя устроит *ROFL*]]></description>
+		<content:encoded><![CDATA[<blockquote><p>Но сначала надо на эти каникулы уйти не с пустыми руками </p></blockquote>
+<p>Пара хвостов тебя устроит <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-94</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 05:55:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-94</guid>
+		<description><![CDATA[А я ещё не знаю *UNKNOWN* существует множество вариантов: можно поехать куда-нибудь далеко, можно поехать в &lt;a href=&quot;http://blog.piclab.ru/2007/04/04/summerschool-v-nizhnem-novgorode.html&quot; rel=&quot;nofollow&quot;&gt;какой-нибудь лагерь&lt;/a&gt; (я после первого курса ездил в областной студенческий лагерь актива -- было весело *WINK*), можно всё это совместить, да ещё и в городе интересно провести время. То есть пока ещё ничего не известно.
+А вот Байкал -- это здорово!]]></description>
+		<content:encoded><![CDATA[<p>А я ещё не знаю <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> существует множество вариантов: можно поехать куда-нибудь далеко, можно поехать в <a href="http://blog.piclab.ru/2007/04/04/summerschool-v-nizhnem-novgorode.html" rel="nofollow" class="liexternal">какой-нибудь лагерь</a> (я после первого курса ездил в областной студенческий лагерь актива &#8212; было весело *WINK*), можно всё это совместить, да ещё и в городе интересно провести время. То есть пока ещё ничего не известно.<br />
+А вот Байкал &#8212; это здорово!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-84</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Fri, 13 Apr 2007 17:43:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-84</guid>
+		<description><![CDATA[Я обязательно буду работать%-),а по вечерам буду на пляже зависать*DANCE* Но сначала надо на эти каникулы уйти не с пустыми руками*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Я обязательно буду работать%-),а по вечерам буду на пляже зависать*DANCE* Но сначала надо на эти каникулы уйти не с пустыми руками*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/13/skoro-leto.html/comment-page-1#comment-81</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Fri, 13 Apr 2007 15:48:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/13/skoro-leto.html#comment-81</guid>
+		<description><![CDATA[не забываем ставить Тэги =))
+лично я этим летом планирую ну просто &lt;b&gt;ОБЯЗАТЕЛЬНО&lt;/b&gt; куда нибудь поехать, елси не будет хватать денег, то на Байкал (который настоящий) или в Питер, а если заработаю летом -- то жочу в какую нибудь ближнеевропейскую столицу..типа Праги......ех....]]></description>
+		<content:encoded><![CDATA[<p>не забываем ставить Тэги =))<br />
+лично я этим летом планирую ну просто <b>ОБЯЗАТЕЛЬНО</b> куда нибудь поехать, елси не будет хватать денег, то на Байкал (который настоящий) или в Питер, а если заработаю летом &#8212; то жочу в какую нибудь ближнеевропейскую столицу..типа Праги&#8230;&#8230;ех&#8230;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

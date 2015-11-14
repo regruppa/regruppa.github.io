@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: И все-таки он там есть :)</title>
+	<atom:link href="http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: toksawa</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-15373</link>
+		<dc:creator><![CDATA[toksawa]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2009 16:06:50 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-15373</guid>
+		<description><![CDATA[Спасибо автору за тему и отдельное спс людям, которые принимают участвие в диалоге. Я новенький на Вашем сайте, но надеюсь стать старожилом :)]]></description>
+		<content:encoded><![CDATA[<p>Спасибо автору за тему и отдельное спс людям, которые принимают участвие в диалоге. Я новенький на Вашем сайте, но надеюсь стать старожилом :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3766</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2008 07:20:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3766</guid>
+		<description><![CDATA[вот тут  жирный ++++
+особо интересно в яндексе искать себя... и смотреть, что мол такой то полный теска, директор крупного чего то там, заключил такой то договор:))) во всяком случае меня это радовало на первом курсе... а потом, что то я начал часто уж как то по поиску находиться:((((]]></description>
+		<content:encoded><![CDATA[<p>вот тут  жирный ++++</p>
+<p>особо интересно в яндексе искать себя&#8230; и смотреть, что мол такой то полный теска, директор крупного чего то там, заключил такой то договор:))) во всяком случае меня это радовало на первом курсе&#8230; а потом, что то я начал часто уж как то по поиску находиться:((((</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: duty</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3760</link>
+		<dc:creator><![CDATA[duty]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2008 23:28:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3760</guid>
+		<description><![CDATA[Поиск в аське, яндексе и других весчах вообще часто помогает найти что-нибудь нужное или кого-нибудь нужного.]]></description>
+		<content:encoded><![CDATA[<p>Поиск в аське, яндексе и других весчах вообще часто помогает найти что-нибудь нужное или кого-нибудь нужного.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3756</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2008 22:24:01 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3756</guid>
+		<description><![CDATA[а ко мне немцы лет 5 назад любили стучаться%)]]></description>
+		<content:encoded><![CDATA[<p>а ко мне немцы лет 5 назад любили стучаться%)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Shady Lady</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3746</link>
+		<dc:creator><![CDATA[Shady Lady]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2008 14:09:04 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3746</guid>
+		<description><![CDATA[Про меня написано в аське, что я вообще на Багамах живу, ко мне теперь тьма народа сучится))))]]></description>
+		<content:encoded><![CDATA[<p>Про меня написано в аське, что я вообще на Багамах живу, ко мне теперь тьма народа сучится))))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3730</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2008 17:43:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3730</guid>
+		<description><![CDATA[я вам больше скажу, я не уверен, что все они действительно из ЮАР  *BLUM*
+но ведь суть не в этом :)]]></description>
+		<content:encoded><![CDATA[<p>я вам больше скажу, я не уверен, что все они действительно из ЮАР  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blum.gif' alt='*BLUM*' class='wp-smiley' /><br />
+но ведь суть не в этом :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3715</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 19:53:44 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3715</guid>
+		<description><![CDATA[да вобщем то ничего я не хочу... мне какбе изначально пох.. вот и флужу:)
+будь проще Жень:)]]></description>
+		<content:encoded><![CDATA[<p>да вобщем то ничего я не хочу&#8230; мне какбе изначально пох.. вот и флужу:)</p>
+<p>будь проще Жень:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3714</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 18:43:25 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3714</guid>
+		<description><![CDATA[*SECRET*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3713</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 18:22:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3713</guid>
+		<description><![CDATA[Паша, ты как всегда хочешь выкрутиться из глупого положения  *FOOL* мы ж тут про аську пишем, и скрин вроде от QIP. Естественно, что я могу и на заборе что угодно написать  =)  а вот в том же GTalk ты этого не сможешь. Напиши, где сможешь.]]></description>
+		<content:encoded><![CDATA[<p>Паша, ты как всегда хочешь выкрутиться из глупого положения  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_fool.gif' alt='*FOOL*' class='wp-smiley' /> мы ж тут про аську пишем, и скрин вроде от QIP. Естественно, что я могу и на заборе что угодно написать <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile2.gif' alt='=)' class='wp-smiley' />  а вот в том же GTalk ты этого не сможешь. Напиши, где сможешь.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/07/03/i-vse-taki-on-tam-est.html/comment-page-1#comment-3711</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 17:13:02 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=774#comment-3711</guid>
+		<description><![CDATA[Женя, Женя ты как всегда наивен:) аська же не единственный сервис где мона это написать:)]]></description>
+		<content:encoded><![CDATA[<p>Женя, Женя ты как всегда наивен:) аська же не единственный сервис где мона это написать:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

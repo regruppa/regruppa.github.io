@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Regruppa.ru где-то выиграла!</title>
+	<atom:link href="http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Chooze</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-9351</link>
+		<dc:creator><![CDATA[Chooze]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2008 23:33:26 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-9351</guid>
+		<description><![CDATA[Ты уж извини, но я смех сдержать не смог. Считай прочитал сам про себя:)]]></description>
+		<content:encoded><![CDATA[<p>Ты уж извини, но я смех сдержать не смог. Считай прочитал сам про себя:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-9219</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2008 05:17:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-9219</guid>
+		<description><![CDATA[А какая тема? :)]]></description>
+		<content:encoded><![CDATA[<p>А какая тема? :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Китайский Пчеловод</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-9178</link>
+		<dc:creator><![CDATA[Китайский Пчеловод]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2008 12:57:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-9178</guid>
+		<description><![CDATA[Господа, мне кажется, что Вы немного отвлеклись от темы.]]></description>
+		<content:encoded><![CDATA[<p>Господа, мне кажется, что Вы немного отвлеклись от темы.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-3392</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 20:20:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-3392</guid>
+		<description><![CDATA[мде вот он дуализм в нащей жизни)))]]></description>
+		<content:encoded><![CDATA[<p>мде вот он дуализм в нащей жизни)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-3388</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 18:34:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-3388</guid>
+		<description><![CDATA[а они вроде оба на Женю оформлены, вот они и перепутали :)]]></description>
+		<content:encoded><![CDATA[<p>а они вроде оба на Женю оформлены, вот они и перепутали :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-3385</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 16:52:18 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-3385</guid>
+		<description><![CDATA[to Eunix а просто регруппа - это личный сайт, а твой блог скорее образовательный...что тут непонятного  *PARDON*]]></description>
+		<content:encoded><![CDATA[<p>to Eunix а просто регруппа &#8212; это личный сайт, а твой блог скорее образовательный&#8230;что тут непонятного  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_pardon.gif' alt='*PARDON*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-3384</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 16:46:41 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-3384</guid>
+		<description><![CDATA[Тогда меня пугает то, что находится через строчку ниже  =-O]]></description>
+		<content:encoded><![CDATA[<p>Тогда меня пугает то, что находится через строчку ниже <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_chok.gif' alt='=-O' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2008/06/05/regrupparu-gde-to-vyigrala.html/comment-page-1#comment-3383</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 16:45:44 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=761#comment-3383</guid>
+		<description><![CDATA[вот вот...&quot;слегка&quot; так напутали *BLUM* ...хотя как знать..может это и не ошибка  *WINK*]]></description>
+		<content:encoded><![CDATA[<p>вот вот&#8230;&#187;слегка&#187; так напутали <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blum.gif' alt='*BLUM*' class='wp-smiley' /> &#8230;хотя как знать..может это и не ошибка  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_wink.gif' alt='*WINK*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

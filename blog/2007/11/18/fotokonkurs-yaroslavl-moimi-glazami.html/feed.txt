@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Фотоконкурс: Ярославль моими глазами</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html/comment-page-1#comment-1997</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 22 Nov 2007 06:33:26 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html#comment-1997</guid>
+		<description><![CDATA[Видели плакаты, на которых написан адрес сайта http://msyar.ru -- но там у них какие-то глюки *CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>Видели плакаты, на которых написан адрес сайта <a href="http://msyar.ru" rel="nofollow" class="liexternal">http://msyar.ru</a> &#8212; но там у них какие-то глюки <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html/comment-page-1#comment-1960</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 19:28:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/18/fotokonkurs-yaroslavl-moimi-glazami.html#comment-1960</guid>
+		<description><![CDATA[Обязательно поучаствую!]]></description>
+		<content:encoded><![CDATA[<p>Обязательно поучаствую!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

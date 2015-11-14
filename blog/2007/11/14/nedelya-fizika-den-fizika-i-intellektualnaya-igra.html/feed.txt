@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Неделя физика, День физика и интеллектуальная игра</title>
+	<atom:link href="http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-2018</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Sat, 24 Nov 2007 16:05:10 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-2018</guid>
+		<description><![CDATA[мдя...вообще такое ощущение что руководство вообще не следит за тем что на стендах вывешивает...во втором доме листок прошлогодний &quot;к юбилею&quot; :)
+а вот в какой-нибудь активной игрушке поучаствовать бы хотелось :)
+команду хочу :) и правила заранее *COOL*]]></description>
+		<content:encoded><![CDATA[<p>мдя&#8230;вообще такое ощущение что руководство вообще не следит за тем что на стендах вывешивает&#8230;во втором доме листок прошлогодний &#171;к юбилею&#187; :)<br />
+а вот в какой-нибудь активной игрушке поучаствовать бы хотелось :)<br />
+команду хочу :) и правила заранее <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_cool.gif' alt='*COOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1971</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 15:58:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1971</guid>
+		<description><![CDATA[Да... что-то на час вперёд %)]]></description>
+		<content:encoded><![CDATA[<p>Да&#8230; что-то на час вперёд %)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1970</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 15:58:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1970</guid>
+		<description><![CDATA[Что... не то?]]></description>
+		<content:encoded><![CDATA[<p>Что&#8230; не то?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Redrick Shuhart</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1965</link>
+		<dc:creator><![CDATA[Redrick Shuhart]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 23:25:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1965</guid>
+		<description><![CDATA[Чего-то со временем на постах не то]]></description>
+		<content:encoded><![CDATA[<p>Чего-то со временем на постах не то</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Redrick Shuhart</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1964</link>
+		<dc:creator><![CDATA[Redrick Shuhart]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 23:19:49 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1964</guid>
+		<description><![CDATA[Да, на интелект-игру нужно собрться.]]></description>
+		<content:encoded><![CDATA[<p>Да, на интелект-игру нужно собрться.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1923</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 18:12:18 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1923</guid>
+		<description><![CDATA[У меня что-то там в голове перепуталось -- я думал, что это было два года назад :)]]></description>
+		<content:encoded><![CDATA[<p>У меня что-то там в голове перепуталось &#8212; я думал, что это было два года назад :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1922</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 18:07:30 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1922</guid>
+		<description><![CDATA[Был! Так даже ты в нём участвовал!*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Был! Так даже ты в нём участвовал!*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1919</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 17:16:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1919</guid>
+		<description><![CDATA[А Форд Физфак был в прошлом году?]]></description>
+		<content:encoded><![CDATA[<p>А Форд Физфак был в прошлом году?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html/comment-page-1#comment-1918</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 16:23:05 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/11/14/nedelya-fizika-den-fizika-i-intellektualnaya-igra.html#comment-1918</guid>
+		<description><![CDATA[Вот бы провели какое-нибудь мероприятие типа Форд Физфак, как в том году... Супер было *THUMBS_UP*!!!]]></description>
+		<content:encoded><![CDATA[<p>Вот бы провели какое-нибудь мероприятие типа Форд Физфак, как в том году&#8230; Супер было *THUMBS_UP*!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

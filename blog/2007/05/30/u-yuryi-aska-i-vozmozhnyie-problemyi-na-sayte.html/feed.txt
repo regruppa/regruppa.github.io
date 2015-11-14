@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: У Юры аська и возможные проблемы на сайте</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-728</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 05 Jun 2007 16:38:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-728</guid>
+		<description><![CDATA[Эх... да... надо искать какую-нибудь замену. А то сайт может превратиться в обычный!!! *BO*]]></description>
+		<content:encoded><![CDATA[<p>Эх&#8230; да&#8230; надо искать какую-нибудь замену. А то сайт может превратиться в обычный!!! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bo.gif' alt='*BO*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-672</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 18:27:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-672</guid>
+		<description><![CDATA[*SAD**SAD**SAD* *почтим память мудрого и забавного ИИ сайта регруппа.ру*. снимем шляпы, господа *SAD**SAD**SAD*]]></description>
+		<content:encoded><![CDATA[<p>*SAD**SAD**SAD* *почтим память мудрого и забавного ИИ сайта регруппа.ру*. снимем шляпы, господа *SAD**SAD**SAD*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-668</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 18:19:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-668</guid>
+		<description><![CDATA[Его не стало. Сегодня проверил.]]></description>
+		<content:encoded><![CDATA[<p>Его не стало. Сегодня проверил.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-666</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 18:16:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-666</guid>
+		<description><![CDATA[надо посмотреть, что стало с ИИ...]]></description>
+		<content:encoded><![CDATA[<p>надо посмотреть, что стало с ИИ&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-664</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2007 17:06:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-664</guid>
+		<description><![CDATA[Решил пока не переходить на Wordpress 2.2, так как дома, когда я его поставил, он у меня сильно глючил, в том числе и с кодировками. В принципе, всё и так работает :-) даже поиск. Так что пока нет особого смысла переходить на что-то новое.]]></description>
+		<content:encoded><![CDATA[<p>Решил пока не переходить на WordPress 2.2, так как дома, когда я его поставил, он у меня сильно глючил, в том числе и с кодировками. В принципе, всё и так работает :-) даже поиск. Так что пока нет особого смысла переходить на что-то новое.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-656</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 12:17:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-656</guid>
+		<description><![CDATA[Да :-) контакт-листы у нас наверняка разные.]]></description>
+		<content:encoded><![CDATA[<p>Да :-) контакт-листы у нас наверняка разные.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-655</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 12:17:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-655</guid>
+		<description><![CDATA[Перенесли сегодня данный и БД на новый сервер. Теперь есть и &lt;strong&gt;MySQL 5&lt;/strong&gt;, и &lt;strong&gt;PHP 5&lt;/strong&gt;, если это кому-нибудь что-нибудь говорит.
+Вроде даже без особых проблем переход произошёл: сайт максимум 12 часов не работал.]]></description>
+		<content:encoded><![CDATA[<p>Перенесли сегодня данный и БД на новый сервер. Теперь есть и <strong>MySQL 5</strong>, и <strong>PHP 5</strong>, если это кому-нибудь что-нибудь говорит.<br />
+Вроде даже без особых проблем переход произошёл: сайт максимум 12 часов не работал.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-646</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 15:58:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-646</guid>
+		<description><![CDATA[О! Нас сегодня ночью переводят на новый сервер *CRAZY* Жаль, что может уйти ИИ -- с ним было неплохо.]]></description>
+		<content:encoded><![CDATA[<p>О! Нас сегодня ночью переводят на новый сервер <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> Жаль, что может уйти ИИ &#8212; с ним было неплохо.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-635</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 21:56:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-635</guid>
+		<description><![CDATA[и правильно, что только соком! =)
+много кнешна по жпрсу не насидиш в интеренте.., хотя по скорости он врядли медленнее моего &quot;анлима*NO*&quot;..но на аську вполне хватит
+С апгшрейдом движка может быть и И.И. сайта поумнеет.. и не будет вставлять /теги ни к селу ни к городу/, как например в этом посте. при чем хдесь рок!?=)]]></description>
+		<content:encoded><![CDATA[<p>и правильно, что только соком! =)<br />
+много кнешна по жпрсу не насидиш в интеренте.., хотя по скорости он врядли медленнее моего &#171;анлима*NO*&#187;..но на аську вполне хватит</p>
+<p>С апгшрейдом движка может быть и И.И. сайта поумнеет.. и не будет вставлять /теги ни к селу ни к городу/, как например в этом посте. при чем хдесь рок!?=)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html/comment-page-1#comment-630</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 18:44:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/30/u-yuryi-aska-i-vozmozhnyie-problemyi-na-sayte.html#comment-630</guid>
+		<description><![CDATA[Посидел, посмотрел на контакт лист и понял, что общих у нас тока 3 человека, их них 2 я, и ты, Жень;)]]></description>
+		<content:encoded><![CDATA[<p>Посидел, посмотрел на контакт лист и понял, что общих у нас тока 3 человека, их них 2 я, и ты, Жень;)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

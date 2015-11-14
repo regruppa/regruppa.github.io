@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: I открытый конкурс короткометражных фильмов и видеороликов (ЯрГУ)</title>
+	<atom:link href="http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Mary</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-28047</link>
+		<dc:creator><![CDATA[Mary]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 18:35:11 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-28047</guid>
+		<description><![CDATA[до какого числа действует этот конкурс??]]></description>
+		<content:encoded><![CDATA[<p>до какого числа действует этот конкурс??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Наш первый короткометражный фильм &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2914</link>
+		<dc:creator><![CDATA[Наш первый короткометражный фильм &#124; Regruppa]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2008 17:40:52 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2914</guid>
+		<description><![CDATA[[...] конце февраля мы вам рассказывали о начавшемся конкурсе короткометражных фильмов: мы тогда сильно загорелись что-нибудь сделать, [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] конце февраля мы вам рассказывали о начавшемся конкурсе короткометражных фильмов: мы тогда сильно загорелись что-нибудь сделать, [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2594</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 11:08:30 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2594</guid>
+		<description><![CDATA[если нужна помощь, то обращатесь*COOL*]]></description>
+		<content:encoded><![CDATA[<p>если нужна помощь, то обращатесь*COOL*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2589</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2008 19:40:20 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2589</guid>
+		<description><![CDATA[Эх... не творец я, не творец... все это как то мимо меня прошло, фотографии, фильмы, рисунки, музыка... отчасти обидно, с другой стороны, если душа не лежит к этому знач не моё:)]]></description>
+		<content:encoded><![CDATA[<p>Эх&#8230; не творец я, не творец&#8230; все это как то мимо меня прошло, фотографии, фильмы, рисунки, музыка&#8230; отчасти обидно, с другой стороны, если душа не лежит к этому знач не моё:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2586</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2008 19:01:13 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2586</guid>
+		<description><![CDATA[Есть идея в пятницу вечером... всё равно там ДР Приорова =)]]></description>
+		<content:encoded><![CDATA[<p>Есть идея в пятницу вечером&#8230; всё равно там ДР Приорова =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2585</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2008 18:52:37 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2585</guid>
+		<description><![CDATA[Этот &quot;GLOW*SECRET*&quot; надо в конце конуов собраться и сделать! а то уже столько времени об ентом говорим!]]></description>
+		<content:encoded><![CDATA[<p>Этот &#171;GLOW*SECRET*&#187; надо в конце конуов собраться и сделать! а то уже столько времени об ентом говорим!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html/comment-page-1#comment-2582</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2008 15:01:58 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/02/27/i-otkryityiy-konkurs-korotkometrazhnyih-filmov-i-videorolikov-yargu.html#comment-2582</guid>
+		<description><![CDATA[Я думаю, что Регруппа может участвовать. У нас даже есть кое-какие идеи с Glow *SECRET* и даже две камеры.
+Попробуем?]]></description>
+		<content:encoded><![CDATA[<p>Я думаю, что Регруппа может участвовать. У нас даже есть кое-какие идеи с Glow <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /> и даже две камеры.</p>
+<p>Попробуем?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

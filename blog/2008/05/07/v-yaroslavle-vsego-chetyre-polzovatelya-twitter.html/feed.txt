@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: В Ярославле всего четыре пользователя twitter</title>
+	<atom:link href="http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: SMSter: twiттер? &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3370</link>
+		<dc:creator><![CDATA[SMSter: twiттер? &#124; Regruppa]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 15:26:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3370</guid>
+		<description><![CDATA[[...] сервисе как SMSter. Это чистой воды твиттер, о котором я как-то обмолвился. А что позволяет делать [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] сервисе как SMSter. Это чистой воды твиттер, о котором я как-то обмолвился. А что позволяет делать [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3159</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 17:01:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3159</guid>
+		<description><![CDATA[кругом) открой глаза взгляни на мир трезво) с экранов телевизора, в газетах, по радио(ни то ни то ни то тыщю лет не пользовал:(( )]]></description>
+		<content:encoded><![CDATA[<p>кругом) открой глаза взгляни на мир трезво) с экранов телевизора, в газетах, по радио(ни то ни то ни то тыщю лет не пользовал:(( )</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3150</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 10:59:50 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3150</guid>
+		<description><![CDATA[Чё, где клевета  *UNKNOWN*]]></description>
+		<content:encoded><![CDATA[<p>Чё, где клевета  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3145</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 07:18:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3145</guid>
+		<description><![CDATA[ты кому то завидуешь? Не греши... ведь клевета тоже...]]></description>
+		<content:encoded><![CDATA[<p>ты кому то завидуешь? Не греши&#8230; ведь клевета тоже&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3143</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 05:15:43 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3143</guid>
+		<description><![CDATA[ER, зависть это грех :)]]></description>
+		<content:encoded><![CDATA[<p>ER, зависть это грех :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3106</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 13 May 2008 04:03:44 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3106</guid>
+		<description><![CDATA[*CRAZY* вот это и обсуждалось.]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> вот это и обсуждалось.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3101</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 22:09:05 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3101</guid>
+		<description><![CDATA[А помоему в статье вобще ничо не обсуждалось)))
+Тупо сказано было &quot;продвинутые пользователи интернета&quot; и тут же крупной картинкой Eunix и Reisei
+Выводы однозначны)))]]></description>
+		<content:encoded><![CDATA[<p>А помоему в статье вобще ничо не обсуждалось)))<br />
+Тупо сказано было &#171;продвинутые пользователи интернета&#187; и тут же крупной картинкой Eunix и Reisei<br />
+Выводы однозначны)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3091</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 15:09:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3091</guid>
+		<description><![CDATA[Но в этой статье обсуждалось совсем другое :)]]></description>
+		<content:encoded><![CDATA[<p>Но в этой статье обсуждалось совсем другое :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3090</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 15:09:31 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3090</guid>
+		<description><![CDATA[Возможно и так :)]]></description>
+		<content:encoded><![CDATA[<p>Возможно и так :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Yaroslav</title>
+		<link>http://regruppa.ru/blog/2008/05/07/v-yaroslavle-vsego-chetyre-polzovatelya-twitter.html/comment-page-1#comment-3083</link>
+		<dc:creator><![CDATA[Yaroslav]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 04:45:00 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=747#comment-3083</guid>
+		<description><![CDATA[Чем же он так современен этот твиттер, допускаете, что многие кто о нем знаю - не пользуются ним, нет нужды, а?]]></description>
+		<content:encoded><![CDATA[<p>Чем же он так современен этот твиттер, допускаете, что многие кто о нем знаю &#8212; не пользуются ним, нет нужды, а?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

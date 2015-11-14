@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Термодинамика</title>
+	<atom:link href="http://regruppa.ru/blog/2008/06/09/termodinamika.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ppbiblog</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-14575</link>
+		<dc:creator><![CDATA[ppbiblog]]></dc:creator>
+		<pubDate>Tue, 12 May 2009 20:02:52 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-14575</guid>
+		<description><![CDATA[у сайта  есть прибыль на продвижение дополнительных проектов ?]]></description>
+		<content:encoded><![CDATA[<p>у сайта  есть прибыль на продвижение дополнительных проектов ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3462</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 16:45:26 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3462</guid>
+		<description><![CDATA[Из группы рэ-41 в итоге сдали четверо....]]></description>
+		<content:encoded><![CDATA[<p>Из группы рэ-41 в итоге сдали четверо&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: panda</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3460</link>
+		<dc:creator><![CDATA[panda]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 12:17:00 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3460</guid>
+		<description><![CDATA[Ну что, знаете как 41 сдали, а никак. Вот завтра посмотрим как мы будем.
+Цитирую Андрея: да Кузнецов лучше Проказникова. Ага и у него тоже 2.
+Ну *б и кто прав оказался?]]></description>
+		<content:encoded><![CDATA[<p>Ну что, знаете как 41 сдали, а никак. Вот завтра посмотрим как мы будем.<br />
+Цитирую Андрея: да Кузнецов лучше Проказникова. Ага и у него тоже 2.<br />
+Ну *б и кто прав оказался?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Kul</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3459</link>
+		<dc:creator><![CDATA[Kul]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2008 10:10:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3459</guid>
+		<description><![CDATA[*ROFL*
+сука]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /><br />
+сука</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Redrick</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3441</link>
+		<dc:creator><![CDATA[Redrick]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2008 06:18:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3441</guid>
+		<description><![CDATA[Спасибо!]]></description>
+		<content:encoded><![CDATA[<p>Спасибо!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3431</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2008 10:55:46 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3431</guid>
+		<description><![CDATA[вот так всегда....
+наш курс этого семака начался с 38 вопроса.....
+правда не кончился 53им)
+ну да ничо уже отстрелялся)
+еще 1 экзамен и диплом) и усе я с ВО))))
+Но на этом жизнь не кончится будет еще магистратура)]]></description>
+		<content:encoded><![CDATA[<p>вот так всегда&#8230;.</p>
+<p>наш курс этого семака начался с 38 вопроса&#8230;.. </p>
+<p>правда не кончился 53им) </p>
+<p>ну да ничо уже отстрелялся)</p>
+<p>еще 1 экзамен и диплом) и усе я с ВО))))<br />
+Но на этом жизнь не кончится будет еще магистратура)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3427</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2008 07:26:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3427</guid>
+		<description><![CDATA[1. все постулаты т/д
+2. три начала т/д
+3. условие т/д равновесия, через т/д потенциалы
+4. электрохимический потенциал, уровень Ферми
+5. постулаты стат. физики (эргодическая теория, микроканонический ансамбль)
+6. ф-ии распределения Ферми-Дирака, Бозе-Эйнштейна (графики)
+7. АКФ, спектральная характеристика
+вроде ничего не забыл]]></description>
+		<content:encoded><![CDATA[<p>1. все постулаты т/д<br />
+2. три начала т/д<br />
+3. условие т/д равновесия, через т/д потенциалы<br />
+4. электрохимический потенциал, уровень Ферми<br />
+5. постулаты стат. физики (эргодическая теория, микроканонический ансамбль)<br />
+6. ф-ии распределения Ферми-Дирака, Бозе-Эйнштейна (графики)<br />
+7. АКФ, спектральная характеристика<br />
+вроде ничего не забыл</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Redrick</title>
+		<link>http://regruppa.ru/blog/2008/06/09/termodinamika.html/comment-page-1#comment-3424</link>
+		<dc:creator><![CDATA[Redrick]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2008 19:41:40 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=763#comment-3424</guid>
+		<description><![CDATA[А можно еще список вопросов, которые входят в программу минимум?]]></description>
+		<content:encoded><![CDATA[<p>А можно еще список вопросов, которые входят в программу минимум?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

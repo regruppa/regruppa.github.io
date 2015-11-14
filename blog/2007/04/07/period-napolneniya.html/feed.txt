@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Раздел Файлы</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-50</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 18:53:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-50</guid>
+		<description><![CDATA[Сделал *DANCE* 54 Mb на данный момент. Но это только файлов, ещё неизвестно, сколько получится вместе с фотографиями, да с самим сайтом.
+&lt;blockquote&gt;
+а еще хорошо бы было, чтоб прогрессбары сами обновлялись
+&lt;/blockquote&gt;
+Они же субъективные =) надо, чтобы мысли наши читали...]]></description>
+		<content:encoded><![CDATA[<p>Сделал <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> 54 Mb на данный момент. Но это только файлов, ещё неизвестно, сколько получится вместе с фотографиями, да с самим сайтом.</p>
+<blockquote><p>
+а еще хорошо бы было, чтоб прогрессбары сами обновлялись
+</p></blockquote>
+<p>Они же субъективные =) надо, чтобы мысли наши читали&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-49</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 17:01:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-49</guid>
+		<description><![CDATA[во это действительно полезно!, а еще хорошо бы было, чтоб прогрессбары сами обновлялись =)]]></description>
+		<content:encoded><![CDATA[<p>во это действительно полезно!, а еще хорошо бы было, чтоб прогрессбары сами обновлялись =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-47</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 16:06:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-47</guid>
+		<description><![CDATA[Сегодня попытаюсь написать программу подсчёта количества информации на сайте в мегабайтах *BLUM* посмотрим, сколько у нас накопилось уже.]]></description>
+		<content:encoded><![CDATA[<p>Сегодня попытаюсь написать программу подсчёта количества информации на сайте в мегабайтах <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blum.gif' alt='*BLUM*' class='wp-smiley' /> посмотрим, сколько у нас накопилось уже.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-33</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2007 18:51:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-33</guid>
+		<description><![CDATA[з.ы., конечно есть еще общее для группы-- это фотографии, но для этиого есть раздел Медиа =)]]></description>
+		<content:encoded><![CDATA[<p>з.ы., конечно есть еще общее для группы&#8212; это фотографии, но для этиого есть раздел Медиа =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-32</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2007 18:49:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-32</guid>
+		<description><![CDATA[&lt;b&gt;to fetisha&lt;/b&gt; просто файлы с учебой -- енто то, что Общее для что нужно каждому (т.е. общее для группы), а если кто-то захочет выложить что-то другое, то ведь всеравно _выкладывателю_придется написать/описать то, что он выкладывет-- по-ентому welcome на блог!, см. следующий пост!*WINK*]]></description>
+		<content:encoded><![CDATA[<p><b>to fetisha</b> просто файлы с учебой &#8212; енто то, что Общее для что нужно каждому (т.е. общее для группы), а если кто-то захочет выложить что-то другое, то ведь всеравно _выкладывателю_придется написать/описать то, что он выкладывет&#8212; по-ентому welcome на блог!, см. следующий пост!*WINK*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-29</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2007 18:05:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-29</guid>
+		<description><![CDATA[А что там ещё можно разместить? Конечно, всегда можно сделать ещё какой-нибудь раздел, только надо учитывать, что места на хостинге не так уж и много *SMILE*
+&lt;b&gt;2 koy&lt;/b&gt;, после этапа наполнения приноси нам свои тетрадки *COOL*]]></description>
+		<content:encoded><![CDATA[<p>А что там ещё можно разместить? Конечно, всегда можно сделать ещё какой-нибудь раздел, только надо учитывать, что места на хостинге не так уж и много <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /><br />
+<b>2 koy</b>, после этапа наполнения приноси нам свои тетрадки <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_cool.gif' alt='*COOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-27</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2007 13:59:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-27</guid>
+		<description><![CDATA[А в разделе файлы будет только учеба?]]></description>
+		<content:encoded><![CDATA[<p>А в разделе файлы будет только учеба?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-26</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2007 20:18:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-26</guid>
+		<description><![CDATA[У меня есть почти все начиная с 1 курса, могу дать*WINK*]]></description>
+		<content:encoded><![CDATA[<p>У меня есть почти все начиная с 1 курса, могу дать*WINK*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-25</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2007 18:05:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-25</guid>
+		<description><![CDATA[Можно и сфотографировать :) я думаю, что после окончания наполнения и тестирования начнём новую операцию: «Найти все тетрадки!» *COOL*]]></description>
+		<content:encoded><![CDATA[<p>Можно и сфотографировать :) я думаю, что после окончания наполнения и тестирования начнём новую операцию: «Найти все тетрадки!» <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_cool.gif' alt='*COOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/07/period-napolneniya.html/comment-page-1#comment-24</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2007 17:13:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/07/period-napolneniya.html#comment-24</guid>
+		<description><![CDATA[вот вот... надо искать и фотографировать =) или сканить]]></description>
+		<content:encoded><![CDATA[<p>вот вот&#8230; надо искать и фотографировать =) или сканить</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

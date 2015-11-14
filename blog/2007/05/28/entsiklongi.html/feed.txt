@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Энциклонги</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/28/entsiklongi.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: NastyaSochi</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-14302</link>
+		<dc:creator><![CDATA[NastyaSochi]]></dc:creator>
+		<pubDate>Sat, 02 May 2009 04:23:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-14302</guid>
+		<description><![CDATA[&lt;a href=&quot;http://topsochi.biz/&quot; rel=&quot;nofollow&quot;&gt;скачать бесплатно фильм возвращение мушкетеров&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p><a href="http://topsochi.biz/" rel="nofollow" class="liexternal">скачать бесплатно фильм возвращение мушкетеров</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Эльджах</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-1099</link>
+		<dc:creator><![CDATA[Эльджах]]></dc:creator>
+		<pubDate>Sat, 28 Jul 2007 11:03:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-1099</guid>
+		<description><![CDATA[а ещё есть энциклонг металл
+http://enci.ru/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%B0]]></description>
+		<content:encoded><![CDATA[<p>а ещё есть энциклонг металл</p>
+<p><a href="http://enci.ru/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%B0" rel="nofollow" class="liexternal">http://enci.ru/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%B0</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Вузы Ярославля &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-1063</link>
+		<dc:creator><![CDATA[Вузы Ярославля &#124; Regruppa]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2007 05:10:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-1063</guid>
+		<description><![CDATA[[...] Сайт Ярославского государственного университета изменился совсем недавно (он стал вики, как я уже писал в посте про энциклонгов): [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Сайт Ярославского государственного университета изменился совсем недавно (он стал вики, как я уже писал в посте про энциклонгов): [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-584</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 03:51:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-584</guid>
+		<description><![CDATA[Материалы Википедии распространяются по лицензии &lt;a href=&quot;http://www.gnu.org/copyleft/fdl.html&quot; rel=&quot;nofollow&quot;&gt;GNU Free Documentation License&lt;/a&gt;. Я не знаю, можно ли копировать статьи... возможно можно, как и в случае с лицензией &lt;a href=&quot;http://creativecommons.org/&quot; rel=&quot;nofollow&quot;&gt;Creative Commons&lt;/a&gt;.
+А скрипт сделали, чтобы типа посетители не поняли, что это материалы Википедии *JOKINGLY*]]></description>
+		<content:encoded><![CDATA[<p>Материалы Википедии распространяются по лицензии <a href="http://www.gnu.org/copyleft/fdl.html" rel="nofollow" class="liexternal">GNU Free Documentation License</a>. Я не знаю, можно ли копировать статьи&#8230; возможно можно, как и в случае с лицензией <a href="http://creativecommons.org/" rel="nofollow" class="liexternal">Creative Commons</a>.<br />
+А скрипт сделали, чтобы типа посетители не поняли, что это материалы Википедии <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_mocking.gif' alt='*JOKINGLY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-566</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 12:51:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-566</guid>
+		<description><![CDATA[мне понравилось слово с первоисточника: МЕДИАВИРУС.. точное]]></description>
+		<content:encoded><![CDATA[<p>мне понравилось слово с первоисточника: МЕДИАВИРУС.. точное</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/28/entsiklongi.html/comment-page-1#comment-542</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 11:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/28/entsiklongi.html#comment-542</guid>
+		<description><![CDATA[забавный факт)
+интересно а вики не могли разве придумать, что нить более мудрое для борьбы с плагиатом? А то и действительно косяк какойто один сплошной получается)
+кстати вопрос.. а материалы википедии разве не открытые? зачем вообще им нужен был этот скрипт?]]></description>
+		<content:encoded><![CDATA[<p>забавный факт)<br />
+интересно а вики не могли разве придумать, что нить более мудрое для борьбы с плагиатом? А то и действительно косяк какойто один сплошной получается)</p>
+<p>кстати вопрос.. а материалы википедии разве не открытые? зачем вообще им нужен был этот скрипт?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

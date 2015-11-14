@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: У Яндекса появилась подробная карта Ярославля</title>
+	<atom:link href="http://regruppa.ru/blog/2009/04/20/u-yandeksa-poyavilas-podrobnaya-karta-yaroslavlya.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2009/04/20/u-yandeksa-poyavilas-podrobnaya-karta-yaroslavlya.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2009/04/20/u-yandeksa-poyavilas-podrobnaya-karta-yaroslavlya.html/comment-page-1#comment-14085</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2009 19:38:40 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=854#comment-14085</guid>
+		<description><![CDATA[внезапносте!!! панико панико!
+А вот на викимапии давненько ужо:) правда там не схема, зато информативнее:)]]></description>
+		<content:encoded><![CDATA[<p>внезапносте!!! панико панико!<br />
+А вот на викимапии давненько ужо:) правда там не схема, зато информативнее:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

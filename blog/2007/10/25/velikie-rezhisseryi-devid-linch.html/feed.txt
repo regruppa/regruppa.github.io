@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Великие режиссеры: Дэвид Линч</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/comment-page-1#comment-1815</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 23:26:37 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html#comment-1815</guid>
+		<description><![CDATA[а как насчет &quot;Дюны&quot; Линча?!! разве никто не смотрел???!!!! не верю *COOL*]]></description>
+		<content:encoded><![CDATA[<p>а как насчет &#171;Дюны&#187; Линча?!! разве никто не смотрел???!!!! не верю <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_cool.gif' alt='*COOL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/comment-page-1#comment-1663</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2007 18:27:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html#comment-1663</guid>
+		<description><![CDATA[Приносите болваночки (1 или 2 DVD) - запишу. У меня есть все фильмы кроме &quot;Простой истории&quot;, я её по тв смотрел. Очень понравилась, кстати.
+Это действительно очень трогательный и светлый фильм, Elina права. Почему он так отличается от остальных фильмов Линча? Обратите внимание на сценаристов: Джон Роач, Мэри Суини (жена Линча)
+Из остальных мне лично больше всего понравился &quot;Малхолланд Драйв&quot;. Сильнее всех поразил последний фильм - &quot;Внутренняя империя&quot; (даже модное слово &quot;жесть&quot;    не может передать всех впечатлений от просмотра)]]></description>
+		<content:encoded><![CDATA[<p>Приносите болваночки (1 или 2 DVD) &#8212; запишу. У меня есть все фильмы кроме &#171;Простой истории&#187;, я её по тв смотрел. Очень понравилась, кстати.</p>
+<p>Это действительно очень трогательный и светлый фильм, Elina права. Почему он так отличается от остальных фильмов Линча? Обратите внимание на сценаристов: Джон Роач, Мэри Суини (жена Линча)</p>
+<p>Из остальных мне лично больше всего понравился &#171;Малхолланд Драйв&#187;. Сильнее всех поразил последний фильм &#8212; &#171;Внутренняя империя&#187; (даже модное слово &#171;жесть&#187;    не может передать всех впечатлений от просмотра)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/comment-page-1#comment-1655</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 21:12:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html#comment-1655</guid>
+		<description><![CDATA[Притащили бы чтоль на болваночке посмотреть))]]></description>
+		<content:encoded><![CDATA[<p>Притащили бы чтоль на болваночке посмотреть))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Elina</title>
+		<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/comment-page-1#comment-1652</link>
+		<dc:creator><![CDATA[Elina]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 19:19:31 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html#comment-1652</guid>
+		<description><![CDATA[Я так же соглашусь с Eunix, т.к. тоже смотрела эти два фильма. &quot;Простая история&quot;  -- это очень светлый и трогательный фильм, затронул за живое!!! *CRAY* Наблюдая за  главным героем , вместе с ним переживаешь его душевную травму и трагедию....
+Фильмы Линча , с одной стороны, кому-то могут показаться странными и непонятными , а порой и жестокими и тяжелыми... Но всё же это очень талантливый режиссер со своим &quot;видением&quot;, который создает необычный и интересные фильмы!]]></description>
+		<content:encoded><![CDATA[<p>Я так же соглашусь с Eunix, т.к. тоже смотрела эти два фильма. &#171;Простая история&#187;  &#8212; это очень светлый и трогательный фильм, затронул за живое!!! *CRAY* Наблюдая за  главным героем , вместе с ним переживаешь его душевную травму и трагедию&#8230;.<br />
+Фильмы Линча , с одной стороны, кому-то могут показаться странными и непонятными , а порой и жестокими и тяжелыми&#8230; Но всё же это очень талантливый режиссер со своим &#171;видением&#187;, который создает необычный и интересные фильмы!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html/comment-page-1#comment-1635</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 05:09:26 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/velikie-rezhisseryi-devid-linch.html#comment-1635</guid>
+		<description><![CDATA[Спасибо за статью! Продолжай этот цикл статей!
+Я из Дэвида Линча смотрел только два фильма -- &lt;a href=&quot;http://www.imdb.com/title/tt0166896/&quot; rel=&quot;nofollow&quot;&gt;«Простая история»&lt;/a&gt; и &lt;a href=&quot;http://www.imdb.com/title/tt0116922/&quot; rel=&quot;nofollow&quot;&gt;«Шоссе в никуда»&lt;/a&gt;. И правда, его фильмы по началу кажутся нелогичными странными -- чего стоят только &lt;a href=&quot;http://regruppa.ru/blog/2007/07/19/interesnyie-mneniya-o-strannom-filme.html&quot; rel=&quot;nofollow&quot;&gt;впечатления людей, посмотревших его работы&lt;/a&gt;. «Шоссе в никуда» мне вообще показался каким-то набором несвязанных мыслей больного человека, но присмотревшись внимательнее, я понял, что это одна и та же история, рассказанная с разных точек зрения.
+А музыка у него и правда специально делает соответствующее настроение. В «Шоссе в никуда» вроде впервые, как появилась группа Rammstein -- её звуки придали особый колорит ;-)
+&lt;blockquote&gt;
+Любовные сцены всегда отличались у Линча особой пронзительностью и достоверностью, но всегда, за исключение «Малхолланд Драйв», ассоциировались с чем-то тёмным, дьявольским, инфернальным.
+&lt;/blockquote&gt;
+Да... в «Шоссе в никуда» много этих сцен и они какие-то совсем тёмные...]]></description>
+		<content:encoded><![CDATA[<p>Спасибо за статью! Продолжай этот цикл статей!<br />
+Я из Дэвида Линча смотрел только два фильма &#8212; <a href="http://www.imdb.com/title/tt0166896/" rel="nofollow" class="liimdb">«Простая история»</a> и <a href="http://www.imdb.com/title/tt0116922/" rel="nofollow" class="liimdb">«Шоссе в никуда»</a>. И правда, его фильмы по началу кажутся нелогичными странными &#8212; чего стоят только <a href="http://regruppa.ru/blog/2007/07/19/interesnyie-mneniya-o-strannom-filme.html" rel="nofollow" class="liinternal">впечатления людей, посмотревших его работы</a>. «Шоссе в никуда» мне вообще показался каким-то набором несвязанных мыслей больного человека, но присмотревшись внимательнее, я понял, что это одна и та же история, рассказанная с разных точек зрения.<br />
+А музыка у него и правда специально делает соответствующее настроение. В «Шоссе в никуда» вроде впервые, как появилась группа Rammstein &#8212; её звуки придали особый колорит ;-)</p>
+<blockquote><p>
+Любовные сцены всегда отличались у Линча особой пронзительностью и достоверностью, но всегда, за исключение «Малхолланд Драйв», ассоциировались с чем-то тёмным, дьявольским, инфернальным.
+</p></blockquote>
+<p>Да&#8230; в «Шоссе в никуда» много этих сцен и они какие-то совсем тёмные&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

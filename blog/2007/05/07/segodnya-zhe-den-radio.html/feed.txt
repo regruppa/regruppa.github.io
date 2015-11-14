@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Сегодня же День радио</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html/comment-page-1#comment-415</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 08 May 2007 18:20:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/07/segodnya-zhe-den-radio.html#comment-415</guid>
+		<description><![CDATA[Так ты попробуй тоже самое сделать из кнопок *BOMB*]]></description>
+		<content:encoded><![CDATA[<p>Так ты попробуй тоже самое сделать из кнопок <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html/comment-page-1#comment-408</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Tue, 08 May 2007 15:57:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/07/segodnya-zhe-den-radio.html#comment-408</guid>
+		<description><![CDATA[2 ErliZz: Ну конечно, транзисторы и светодиоды не особо привлекательные *ROFL*
+А вообще как говаривал Артемов К.С. &quot;кнопачники вы&quot;, поэтому нас и должны  привлекать другие вещи *JOKINGLY*]]></description>
+		<content:encoded><![CDATA[<p>2 ErliZz: Ну конечно, транзисторы и светодиоды не особо привлекательные <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_rofl.gif' alt='*ROFL*' class='wp-smiley' /> А вообще как говаривал Артемов К.С. &#171;кнопачники вы&#187;, поэтому нас и должны  привлекать другие вещи <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_mocking.gif' alt='*JOKINGLY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html/comment-page-1#comment-399</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 07 May 2007 18:45:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/07/segodnya-zhe-den-radio.html#comment-399</guid>
+		<description><![CDATA[ага!=)) я когда то сам таких паял ... тока страшненькие больно получились!=)]]></description>
+		<content:encoded><![CDATA[<p>ага!=)) я когда то сам таких паял &#8230; тока страшненькие больно получились!=)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/07/segodnya-zhe-den-radio.html/comment-page-1#comment-395</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 07 May 2007 18:12:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/05/07/segodnya-zhe-den-radio.html#comment-395</guid>
+		<description><![CDATA[&lt;p&gt;Всё на самом деле не так&lt;/p&gt;
+&lt;a href=&quot;http://www.2ka.mipt.ru/~er/test/bild01.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.regruppa.ru/content/blog/2007/05/bild01.jpg&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;С праздничком нас, господа)&lt;/p&gt;]]></description>
+		<content:encoded><![CDATA[<p>Всё на самом деле не так</p>
+<p><a href="http://www.2ka.mipt.ru/~er/test/bild01.jpg" rel="nofollow" class="liimagelink"><img src="http://www.regruppa.ru/content/blog/2007/05/bild01.jpg" /></a></p>
+<p>С праздничком нас, господа)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

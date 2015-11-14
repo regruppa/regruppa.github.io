@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Весенний семестр</title>
+	<atom:link href="http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2480</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Mon, 11 Feb 2008 21:28:29 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2480</guid>
+		<description><![CDATA[Внимание! В расписании произошли изменения! Все файлы обновлены.]]></description>
+		<content:encoded><![CDATA[<p>Внимание! В расписании произошли изменения! Все файлы обновлены.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2451</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2008 16:35:03 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2451</guid>
+		<description><![CDATA[Кстати награжден государственной премией в 2003 году:)
+Но мне кажется, что это не главное его достижение, ибо это человек с мировой фамилией и ооочень высоким индексом цитирования...]]></description>
+		<content:encoded><![CDATA[<p>Кстати награжден государственной премией в 2003 году:)<br />
+Но мне кажется, что это не главное его достижение, ибо это человек с мировой фамилией и ооочень высоким индексом цитирования&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2450</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2008 16:32:14 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2450</guid>
+		<description><![CDATA[Аустоэлектроника, фолновая электроника твердого тела, и т.д. по твердому телу и волнам...
+Он вобще мужик знатный(и вобщем то достаточно халявный, во всяком случае халявнее первых 2х, но на нашу лабу обозлился в этом году, потому для нас конкретно не халява:)) ). Зам. директора ИРЭ(Институт Радио Электроники) РАН, это моя база:) Так что пересекаемся с ним достаточно часто:)]]></description>
+		<content:encoded><![CDATA[<p>Аустоэлектроника, фолновая электроника твердого тела, и т.д. по твердому телу и волнам&#8230;<br />
+Он вобще мужик знатный(и вобщем то достаточно халявный, во всяком случае халявнее первых 2х, но на нашу лабу обозлился в этом году, потому для нас конкретно не халява:)) ). Зам. директора ИРЭ(Институт Радио Электроники) РАН, это моя база:) Так что пересекаемся с ним достаточно часто:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2448</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2008 14:20:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2448</guid>
+		<description><![CDATA[Мансфельд? А что он ведёт?]]></description>
+		<content:encoded><![CDATA[<p>Мансфельд? А что он ведёт?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2446</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 21:36:33 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2446</guid>
+		<description><![CDATA[гы... а давайте громкими фамилиями кидаться:)) Волков, Артеменко, Мансфельд:)]]></description>
+		<content:encoded><![CDATA[<p>гы&#8230; а давайте громкими фамилиями кидаться:)) Волков, Артеменко, Мансфельд:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2445</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 20:45:29 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2445</guid>
+		<description><![CDATA[Ага...халява..щаззз...посмотрю, как Проказникову будем сдавать курс термодеда, Будет полный улёт)))]]></description>
+		<content:encoded><![CDATA[<p>Ага&#8230;халява..щаззз&#8230;посмотрю, как Проказникову будем сдавать курс термодеда, Будет полный улёт)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2444</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 19:25:11 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2444</guid>
+		<description><![CDATA[а мне семак показался халчвным, но сессия достаточно жестокой....]]></description>
+		<content:encoded><![CDATA[<p>а мне семак показался халчвным, но сессия достаточно жестокой&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2443</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 18:21:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2443</guid>
+		<description><![CDATA[Хотя, может быть, это только кажется :-)]]></description>
+		<content:encoded><![CDATA[<p>Хотя, может быть, это только кажется :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2442</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 18:21:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2442</guid>
+		<description><![CDATA[Вообще халява какая-то :-)]]></description>
+		<content:encoded><![CDATA[<p>Вообще халява какая-то :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html/comment-page-1#comment-2441</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 10:46:14 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/vesenniy-semestr.html#comment-2441</guid>
+		<description><![CDATA[мы тоже думали что предыдущий семестр будет загружен, смотря на расписание... а оказалось все очень даже ажурно и  не запарно =)]]></description>
+		<content:encoded><![CDATA[<p>мы тоже думали что предыдущий семестр будет загружен, смотря на расписание&#8230; а оказалось все очень даже ажурно и  не запарно =)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: FREE Wi-Fi в Ярославле всё-таки есть</title>
+	<atom:link href="http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1282</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 10:05:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1282</guid>
+		<description><![CDATA[Вам письмо написал :-)]]></description>
+		<content:encoded><![CDATA[<p>Вам письмо написал :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Павел</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1263</link>
+		<dc:creator><![CDATA[Павел]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2007 14:10:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1263</guid>
+		<description><![CDATA[Есть вопросы по поводу Вай-фая в Ярославле) спишемся???! А точнее есть несколько предложений, по поводу организации топика со списком оных) pavel-vorobev@mail.ru :-D]]></description>
+		<content:encoded><![CDATA[<p>Есть вопросы по поводу Вай-фая в Ярославле) спишемся???! А точнее есть несколько предложений, по поводу организации топика со списком оных) <a href="mailto:pavel-vorobev@mail.ru" class="limailto">pavel-vorobev@mail.ru</a> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_biggrin.gif' alt=':-D' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: FREE WI-FI в Ярославле &#8212; и где это? &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1196</link>
+		<dc:creator><![CDATA[FREE WI-FI в Ярославле &#8212; и где это? &#124; Regruppa]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2007 05:22:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1196</guid>
+		<description><![CDATA[[...] Из облаков:&#160;Free Wi Fi в Ярославле, LanckTelecom, VanillaSky, VINIL, Нетис, Ванильное небоПродолжение этой темы: FREE Wi-Fi в Ярославле всё-таки есть. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;Free Wi Fi в Ярославле, LanckTelecom, VanillaSky, VINIL, Нетис, Ванильное небоПродолжение этой темы: FREE Wi-Fi в Ярославле всё-таки есть. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1162</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2007 07:14:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1162</guid>
+		<description><![CDATA[А вот моё мнение о развитии Wi-Fi в Ярославле -- всё будет развиваться также, как и в Москве. То есть всё больше и больше кафе и ресторанов будет предлагать бесплатный Wi-Fi, а потом это же будут делать и в крупных торговых центрах (типа Вернисажа и Альтаира). Именно такое развитие было в Москве.
+Да и вообще в Москве сейчас самое большое количество хотспотов в Европе, а бесплатных точек очень много.]]></description>
+		<content:encoded><![CDATA[<p>А вот моё мнение о развитии Wi-Fi в Ярославле &#8212; всё будет развиваться также, как и в Москве. То есть всё больше и больше кафе и ресторанов будет предлагать бесплатный Wi-Fi, а потом это же будут делать и в крупных торговых центрах (типа Вернисажа и Альтаира). Именно такое развитие было в Москве.<br />
+Да и вообще в Москве сейчас самое большое количество хотспотов в Европе, а бесплатных точек очень много.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1161</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2007 22:52:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1161</guid>
+		<description><![CDATA[Целевая группа? блин да щас у каждого второго покеты с wifi, ноуты или телефоны... вот тебе и целевая группа! вот сам вспомни у скольких твоих знакомых есть реальная возможность воспользоваться wifi, а сколько из них реально пользуется? вокзал имхо это правильно, тока на вокзале никто ставить не будет ибо и так народ катается, и от присутствия данного сервиса у них народу не прибавится, впрочем как и не убавится.
+Терь значит для гераса... Магазин продуктовый это не то место... вот еслиб это был какой нить мега магазин в котором приходилось чего нить часами ждать (слава богу это у нас ещё в начале 90х пережили)тогда да.. а какой нить компьютерный(ну или автосервис, ну или ещё что нить сам придумай...) магазин где собирают машины за 2-3 часа и народ сидит и ждет вполне себе место...
+терь касательно &quot;&quot;я-хороший, а остальное быдло только бы нахаляву...&quot;&quot; уж будь добр, избавь впредь меня от такого не сильно завуалированного и абсолютно ничем не подкрепленного наезда на меня... Вежливее надо, господа, быть, вежливее...
+Да, привыкнет народ, да перестанет за халявой гнаться, но всеж имхо не с кафешек начинать.. Хотя знаете что я подумал... не нам с вами решать где быть вайфаю где нет... есть предложение, всилу избежания всяких конфликтных ситуаций, посмотреть как это дальше будет развиваться... Мое мнение примерно такое: будет в кафешке много всяких товарищей зависать которым цель будет сеть, а те люди которые туда ходят по прямому назначению &quot;в кафешку&quot;, в определенный момент станут ходить туда реже, из-за контенгента, быть может отключат тогда услугу, но не факт, что это вернет посетителей которые приносили бы основной доход... Это только мое мнение... Ваши ставки, господа?...]]></description>
+		<content:encoded><![CDATA[<p>Целевая группа? блин да щас у каждого второго покеты с wifi, ноуты или телефоны&#8230; вот тебе и целевая группа! вот сам вспомни у скольких твоих знакомых есть реальная возможность воспользоваться wifi, а сколько из них реально пользуется? вокзал имхо это правильно, тока на вокзале никто ставить не будет ибо и так народ катается, и от присутствия данного сервиса у них народу не прибавится, впрочем как и не убавится.</p>
+<p>Терь значит для гераса&#8230; Магазин продуктовый это не то место&#8230; вот еслиб это был какой нить мега магазин в котором приходилось чего нить часами ждать (слава богу это у нас ещё в начале 90х пережили)тогда да.. а какой нить компьютерный(ну или автосервис, ну или ещё что нить сам придумай&#8230;) магазин где собирают машины за 2-3 часа и народ сидит и ждет вполне себе место&#8230; </p>
+<p>терь касательно &#171;&#187;я-хороший, а остальное быдло только бы нахаляву&#8230;&#187;&#187; уж будь добр, избавь впредь меня от такого не сильно завуалированного и абсолютно ничем не подкрепленного наезда на меня&#8230; Вежливее надо, господа, быть, вежливее&#8230; </p>
+<p>Да, привыкнет народ, да перестанет за халявой гнаться, но всеж имхо не с кафешек начинать.. Хотя знаете что я подумал&#8230; не нам с вами решать где быть вайфаю где нет&#8230; есть предложение, всилу избежания всяких конфликтных ситуаций, посмотреть как это дальше будет развиваться&#8230; Мое мнение примерно такое: будет в кафешке много всяких товарищей зависать которым цель будет сеть, а те люди которые туда ходят по прямому назначению &#171;в кафешку&#187;, в определенный момент станут ходить туда реже, из-за контенгента, быть может отключат тогда услугу, но не факт, что это вернет посетителей которые приносили бы основной доход&#8230; Это только мое мнение&#8230; Ваши ставки, господа?&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1153</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 05:14:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1153</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Ну как я и рассказывал народ приходит в кафешку для халявы, а не для того чтоб поесть…
+&lt;/blockquote&gt;
+Ладно хоть эти приходят... а то днём в кафе вообще никого нет. Да и покупают немного -- например, чай хотя бы.
+Я всё-таки думаю, что Wi-Fi должен быть во многих кафе. Также, как и фоновая музыка. А вот на вокзале делать... а где там целевая группа или что-то в этом роде? =)]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Ну как я и рассказывал народ приходит в кафешку для халявы, а не для того чтоб поесть…
+</p></blockquote>
+<p>Ладно хоть эти приходят&#8230; а то днём в кафе вообще никого нет. Да и покупают немного &#8212; например, чай хотя бы.<br />
+Я всё-таки думаю, что Wi-Fi должен быть во многих кафе. Также, как и фоновая музыка. А вот на вокзале делать&#8230; а где там целевая группа или что-то в этом роде? =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1152</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Thu, 16 Aug 2007 19:17:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1152</guid>
+		<description><![CDATA[&lt;blockquote&gt; Интернет надо делать в каком нить заведении, где народу много и они чего то ждут ясно что заведение должно быть комерческим, ибо эта фишка на привлечение посещаемости расчитана…&lt;/blockquote&gt;
+По-моему продуктовый магазин  подходит, т.к. народу много, а в очереди иногда по пять минут стоишь - самое время почить новости или проверить почту. Или лучше всего вокзал - там народ бывает по несколько часов ждет, за это время можно даже в он-лайн рпг поиграть :) так что ты тут со своим &quot;я - хороший, а остальное быдло только бы на халяву...&quot; ну не к месту, я бы тоже с удовольствием воспользовался такой услугой и не только в деловых целях (wi-if устройств только пока нет :( ). И вобще это касается всего нового: народ привыкнет - перестанет искать где бы на халяву, ведь хочется верить, что движемся мы всеже к цивилизованному обществу.]]></description>
+		<content:encoded><![CDATA[<blockquote><p> Интернет надо делать в каком нить заведении, где народу много и они чего то ждут ясно что заведение должно быть комерческим, ибо эта фишка на привлечение посещаемости расчитана…</p></blockquote>
+<p>По-моему продуктовый магазин  подходит, т.к. народу много, а в очереди иногда по пять минут стоишь &#8212; самое время почить новости или проверить почту. Или лучше всего вокзал &#8212; там народ бывает по несколько часов ждет, за это время можно даже в он-лайн рпг поиграть :) так что ты тут со своим &#171;я &#8212; хороший, а остальное быдло только бы на халяву&#8230;&#187; ну не к месту, я бы тоже с удовольствием воспользовался такой услугой и не только в деловых целях (wi-if устройств только пока нет :( ). И вобще это касается всего нового: народ привыкнет &#8212; перестанет искать где бы на халяву, ведь хочется верить, что движемся мы всеже к цивилизованному обществу.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1151</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 22:23:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1151</guid>
+		<description><![CDATA[чаво? ты че там покуриваешь? Отсыпь а?]]></description>
+		<content:encoded><![CDATA[<p>чаво? ты че там покуриваешь? Отсыпь а?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1150</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 18:13:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1150</guid>
+		<description><![CDATA[Ойли, не ты ли собирался поставить точки доступа чуть ли не в очереди за картошкой, чтобы бабки могли скачать и посмотреть вчерашнюю серию очередного сериала ;)]]></description>
+		<content:encoded><![CDATA[<p>Ойли, не ты ли собирался поставить точки доступа чуть ли не в очереди за картошкой, чтобы бабки могли скачать и посмотреть вчерашнюю серию очередного сериала ;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html/comment-page-1#comment-1148</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 15:00:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/08/15/free-wi-fi-v-yaroslavle-vsyo-taki-est.html#comment-1148</guid>
+		<description><![CDATA[Ну как я и рассказывал народ приходит в кафешку для халявы, а не для того чтоб поесть... Ну не правильно это, не правильно... Сеть должна быть хорошим дополнением ко всему остальному, а не все остальное к сети...]]></description>
+		<content:encoded><![CDATA[<p>Ну как я и рассказывал народ приходит в кафешку для халявы, а не для того чтоб поесть&#8230; Ну не правильно это, не правильно&#8230; Сеть должна быть хорошим дополнением ко всему остальному, а не все остальное к сети&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

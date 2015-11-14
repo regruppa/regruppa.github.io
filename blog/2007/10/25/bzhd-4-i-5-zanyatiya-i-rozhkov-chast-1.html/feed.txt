@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: БЖД: 4 и 5 занятия и Рожков (часть 1)</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html/comment-page-1#comment-1782</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2007 14:22:18 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html#comment-1782</guid>
+		<description><![CDATA[методички это супер!!! *DANCE*]]></description>
+		<content:encoded><![CDATA[<p>методички это супер!!! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html/comment-page-1#comment-1649</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 16:27:12 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html#comment-1649</guid>
+		<description><![CDATA[За методички № 4 и 5 по БЖД отдельное спасибо Серёже Курилову.]]></description>
+		<content:encoded><![CDATA[<p>За методички № 4 и 5 по БЖД отдельное спасибо Серёже Курилову.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html/comment-page-1#comment-1648</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 16:24:54 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html#comment-1648</guid>
+		<description><![CDATA[Лучше просто ко мне подойти и записаться на интересующую тему.]]></description>
+		<content:encoded><![CDATA[<p>Лучше просто ко мне подойти и записаться на интересующую тему.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html/comment-page-1#comment-1639</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2007 09:11:38 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/25/bzhd-4-i-5-zanyatiya-i-rozhkov-chast-1.html#comment-1639</guid>
+		<description><![CDATA[А опубликуйте, пожалуйста, кто какие рефераты взял.Чтобы повторов не было.]]></description>
+		<content:encoded><![CDATA[<p>А опубликуйте, пожалуйста, кто какие рефераты взял.Чтобы повторов не было.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

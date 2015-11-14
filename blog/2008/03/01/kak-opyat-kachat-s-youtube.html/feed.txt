@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Как опять качать с YouTube</title>
+	<atom:link href="http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: антон</title>
+		<link>http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html/comment-page-1#comment-3287</link>
+		<dc:creator><![CDATA[антон]]></dc:creator>
+		<pubDate>Tue, 27 May 2008 10:35:35 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html#comment-3287</guid>
+		<description><![CDATA[есть еще один классный сервис!! качает с вконтакте, лититбита(letitbit.net), youtube.
+работает через адресную строку - достаточно перед адресом добавить sfrom.net/
+видео качает С ЛЮБОЙ сраницы где оно выложенно, да еще и выдает весь СПИСОК ВИДЕО, который был на странице!! *IN_LOVE*  (вот посмотрите на работу. http://sfrom.net/http://youtube.nnm.ru/tetris_poyaponski_youtubevideo)]]></description>
+		<content:encoded><![CDATA[<p>есть еще один классный сервис!! качает с вконтакте, лититбита(letitbit.net), youtube. </p>
+<p>работает через адресную строку &#8212; достаточно перед адресом добавить sfrom.net/<br />
+видео качает С ЛЮБОЙ сраницы где оно выложенно, да еще и выдает весь СПИСОК ВИДЕО, который был на странице!! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_man_in_love.gif' alt='*IN_LOVE*' class='wp-smiley' />  (вот посмотрите на работу. <a href="http://sfrom.net/http://youtube.nnm.ru/tetris_poyaponski_youtubevideo" rel="nofollow" class="liexternal">http://sfrom.net/http://youtube.nnm.ru/tetris_poyaponski_youtubevideo</a>)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html/comment-page-1#comment-2610</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2008 19:47:03 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html#comment-2610</guid>
+		<description><![CDATA[ну как сказать так и называется Web Video Downloader for Firefox]]></description>
+		<content:encoded><![CDATA[<p>ну как сказать так и называется Web Video Downloader for Firefox</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html/comment-page-1#comment-2605</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2008 07:28:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html#comment-2605</guid>
+		<description><![CDATA[У меня что-то не всегда работает этот плагин. Ты каким пользуешься?]]></description>
+		<content:encoded><![CDATA[<p>У меня что-то не всегда работает этот плагин. Ты каким пользуешься?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: †ER†</title>
+		<link>http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html/comment-page-1#comment-2604</link>
+		<dc:creator><![CDATA[†ER†]]></dc:creator>
+		<pubDate>Sat, 01 Mar 2008 20:39:38 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/01/kak-opyat-kachat-s-youtube.html#comment-2604</guid>
+		<description><![CDATA[фаерфоксоплагин меня спасал всегда:)]]></description>
+		<content:encoded><![CDATA[<p>фаерфоксоплагин меня спасал всегда:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

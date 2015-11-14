@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: PaparaZzi vs ХТВТ-45</title>
+	<atom:link href="http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: CaDoBHuK</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2706</link>
+		<dc:creator><![CDATA[CaDoBHuK]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2008 10:27:43 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2706</guid>
+		<description><![CDATA[Здасьте всем. А де это кафе находится?]]></description>
+		<content:encoded><![CDATA[<p>Здасьте всем. А де это кафе находится?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Маруська</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2648</link>
+		<dc:creator><![CDATA[Маруська]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 07:40:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2648</guid>
+		<description><![CDATA[Хех,  *DANCE* я уже знаю куды мы пойдем пить чай во время нашего следующего нашествия))) *DRINK*  Интересно, а почему на календаре не хватает одной девушки...цензура что ли не пропустила :-D]]></description>
+		<content:encoded><![CDATA[<p>Хех,  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> я уже знаю куды мы пойдем пить чай во время нашего следующего нашествия))) <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_drink.gif' alt='*DRINK*' class='wp-smiley' />  Интересно, а почему на календаре не хватает одной девушки&#8230;цензура что ли не пропустила :-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: OSA</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2647</link>
+		<dc:creator><![CDATA[OSA]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 06:14:51 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2647</guid>
+		<description><![CDATA[Классссс! Необычненькое кафе. А по поводу календарика...кто его туда мог поместить, если &quot;тираж&quot; ограничен... =)]]></description>
+		<content:encoded><![CDATA[<p>Классссс! Необычненькое кафе. А по поводу календарика&#8230;кто его туда мог поместить, если &#171;тираж&#187; ограничен&#8230; =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2644</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2008 22:44:20 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2644</guid>
+		<description><![CDATA[А в нашем городе 2 кафе с таким названием! *BLUM* одно в Брагино, другое в Центре. Один раз получилось так, что договорившись встретиться в Папарацци, я ждала человека на Свободе, а он меня совсем в другом районе))Так что, если назначаетет rendez-vous в Папарцци- уточните в каком именно))) Кофе, кстати, там просто обалденный)))]]></description>
+		<content:encoded><![CDATA[<p>А в нашем городе 2 кафе с таким названием! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blum.gif' alt='*BLUM*' class='wp-smiley' /> одно в Брагино, другое в Центре. Один раз получилось так, что договорившись встретиться в Папарацци, я ждала человека на Свободе, а он меня совсем в другом районе))Так что, если назначаетет rendez-vous в Папарцци- уточните в каком именно))) Кофе, кстати, там просто обалденный)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2643</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2008 22:04:32 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2643</guid>
+		<description><![CDATA[Ва!! надо зайти обязательно!!!]]></description>
+		<content:encoded><![CDATA[<p>Ва!! надо зайти обязательно!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html/comment-page-1#comment-2642</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2008 19:37:04 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/03/18/paparazzi-vs-xtvt-45.html#comment-2642</guid>
+		<description><![CDATA[Да, здорово там! :) и фотографии можно посмотреть. Только вот места совсем-совсем мало. От этого, наверное, оно и уютное.]]></description>
+		<content:encoded><![CDATA[<p>Да, здорово там! :) и фотографии можно посмотреть. Только вот места совсем-совсем мало. От этого, наверное, оно и уютное.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Нано-песня</title>
+	<atom:link href="http://regruppa.ru/blog/2009/02/25/nano-song.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2009/02/25/nano-song.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Kispnoish</title>
+		<link>http://regruppa.ru/blog/2009/02/25/nano-song.html/comment-page-1#comment-29959</link>
+		<dc:creator><![CDATA[Kispnoish]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2010 18:28:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=845#comment-29959</guid>
+		<description><![CDATA[Бесспонтово как то
+получаеться ... Подпишусь наверно на
+твою подписку.]]></description>
+		<content:encoded><![CDATA[<p>Бесспонтово как то<br />
+получаеться &#8230; Подпишусь наверно на<br />
+твою подписку.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2009/02/25/nano-song.html/comment-page-1#comment-12175</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2009 13:34:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=845#comment-12175</guid>
+		<description><![CDATA[-Ты кем работаешь?
+-Я инженер-нанотехнолог
+-А я водитель, наноавтобусы вожу...
+Задрала эта эпопея с нанотехнологиями еще еще на 2м курсе..
+Шуму много - дела мало.. Денег тоже мало.. Имхо больше на прачечную...
+ЗЫ Про песню сказать ничо не могу, потому что не слушал...]]></description>
+		<content:encoded><![CDATA[<p>-Ты кем работаешь?<br />
+-Я инженер-нанотехнолог<br />
+-А я водитель, наноавтобусы вожу&#8230;</p>
+<p>Задрала эта эпопея с нанотехнологиями еще еще на 2м курсе..<br />
+Шуму много &#8212; дела мало.. Денег тоже мало.. Имхо больше на прачечную&#8230; </p>
+<p>ЗЫ Про песню сказать ничо не могу, потому что не слушал&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

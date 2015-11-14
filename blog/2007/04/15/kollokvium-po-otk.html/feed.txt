@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Коллоквиум по ОТК?</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/comment-page-1#comment-132</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Mon, 16 Apr 2007 15:24:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/15/kollokvium-po-otk.html#comment-132</guid>
+		<description><![CDATA[&lt;blockquote&gt;...что можно регистрироваться.&lt;/blockquote&gt;
+Не можно, а нужну. Иначе теряется смысл данного проекта.]]></description>
+		<content:encoded><![CDATA[<blockquote><p>&#8230;что можно регистрироваться.</p></blockquote>
+<p>Не можно, а нужну. Иначе теряется смысл данного проекта.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/comment-page-1#comment-128</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 16 Apr 2007 15:07:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/15/kollokvium-po-otk.html#comment-128</guid>
+		<description><![CDATA[Не все и про сайт-то знают :-) я собираюсь сделать пре-релиз для нашей группы: разошлю письмо о том, что можно регистрироваться.]]></description>
+		<content:encoded><![CDATA[<p>Не все и про сайт-то знают :-) я собираюсь сделать пре-релиз для нашей группы: разошлю письмо о том, что можно регистрироваться.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/comment-page-1#comment-127</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Mon, 16 Apr 2007 15:05:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/15/kollokvium-po-otk.html#comment-127</guid>
+		<description><![CDATA[единственное не все уже успеют зарегистрироваться и получить доступ (хотя если поднатужиться и пнуть Eunix&#039;a, то до среды успеть можно)]]></description>
+		<content:encoded><![CDATA[<p>единственное не все уже успеют зарегистрироваться и получить доступ (хотя если поднатужиться и пнуть Eunix&#8217;a, то до среды успеть можно)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ляля</title>
+		<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/comment-page-1#comment-111</link>
+		<dc:creator><![CDATA[ляля]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 20:04:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/15/kollokvium-po-otk.html#comment-111</guid>
+		<description><![CDATA[А как регестрироваться?!?
+А то почти никаких бумажек не поступало...*SAD*]]></description>
+		<content:encoded><![CDATA[<p>А как регестрироваться?!?<br />
+А то почти никаких бумажек не поступало&#8230;*SAD*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: koy</title>
+		<link>http://regruppa.ru/blog/2007/04/15/kollokvium-po-otk.html/comment-page-1#comment-110</link>
+		<dc:creator><![CDATA[koy]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 18:21:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/15/kollokvium-po-otk.html#comment-110</guid>
+		<description><![CDATA[Хорошая методичка*SMILE*Написано также как он рассказывал на лекции,так что учим по ней*BOMB*]]></description>
+		<content:encoded><![CDATA[<p>Хорошая методичка*SMILE*Написано также как он рассказывал на лекции,так что учим по ней*BOMB*</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

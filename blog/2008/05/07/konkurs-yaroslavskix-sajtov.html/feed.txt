@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Конкурс ярославских сайтов</title>
+	<atom:link href="http://regruppa.ru/blog/2008/05/07/konkurs-yaroslavskix-sajtov.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/05/07/konkurs-yaroslavskix-sajtov.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/07/konkurs-yaroslavskix-sajtov.html/comment-page-1#comment-3040</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 07 May 2008 16:32:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=746#comment-3040</guid>
+		<description><![CDATA[Оставил заявку  *BLUSH*]]></description>
+		<content:encoded><![CDATA[<p>Оставил заявку  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_blush.gif' alt='*BLUSH*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

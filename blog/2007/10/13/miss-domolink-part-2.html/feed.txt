@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Miss DOMOлинк. Act II</title>
+	<atom:link href="http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Юлия Михиенкова</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1514</link>
+		<dc:creator><![CDATA[Юлия Михиенкова]]></dc:creator>
+		<pubDate>Mon, 15 Oct 2007 05:48:34 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1514</guid>
+		<description><![CDATA[Претензии по поводу неработающего Интернета принимаю полностью и готова еще раз извиниться за компьютерный сбой, который произошел как раз в день конкурса - пришлось задания на ходу менять. Хотя можно было, конечно, предложить участницам и зрителям подождать до момента запуска полетевшего сервера, который планировался ночью. А вот по поводу интеллектуального этапа))) В Положении, размещенном на сайте ЦентрТелекома, речь идет об очном конкурсе, а не о проверке интеллекта. Вообще-то смотрели в основном на обаяние девушек, на их умение общаться и держаться.
+А в целом наличие группы поддержки с баннерами, думаю, очень помогло Элине выйти в финал. Спасибо вам за участие и ждем вас на наших следующих мероприятиях. И если вы хотите, чтобы они были интереснее и глубже, помогите нам этого добиться - предлагайте свои врианты!))]]></description>
+		<content:encoded><![CDATA[<p>Претензии по поводу неработающего Интернета принимаю полностью и готова еще раз извиниться за компьютерный сбой, который произошел как раз в день конкурса &#8212; пришлось задания на ходу менять. Хотя можно было, конечно, предложить участницам и зрителям подождать до момента запуска полетевшего сервера, который планировался ночью. А вот по поводу интеллектуального этапа))) В Положении, размещенном на сайте ЦентрТелекома, речь идет об очном конкурсе, а не о проверке интеллекта. Вообще-то смотрели в основном на обаяние девушек, на их умение общаться и держаться.<br />
+А в целом наличие группы поддержки с баннерами, думаю, очень помогло Элине выйти в финал. Спасибо вам за участие и ждем вас на наших следующих мероприятиях. И если вы хотите, чтобы они были интереснее и глубже, помогите нам этого добиться &#8212; предлагайте свои врианты!))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: nazarovsky</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1509</link>
+		<dc:creator><![CDATA[nazarovsky]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 22:11:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1509</guid>
+		<description><![CDATA[2 Nihil: операторы были &quot;пришлые&quot; ведь, читай внимательно. Да и потом знал бы прикуп, жил бы в сочи...
+2 Eunix: Даещь Ютуб!]]></description>
+		<content:encoded><![CDATA[<p>2 Nihil: операторы были &#171;пришлые&#187; ведь, читай внимательно. Да и потом знал бы прикуп, жил бы в сочи&#8230;<br />
+2 Eunix: Даещь Ютуб!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1504</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 17:15:23 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1504</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Конкурсы видимо планировались _другие_
+&lt;/blockquote&gt;
+Да... конкурс был бы &lt;strong&gt;совсем&lt;/strong&gt; другим! *SECRET*]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Конкурсы видимо планировались _другие_
+</p></blockquote>
+<p>Да&#8230; конкурс был бы <strong>совсем</strong> другим! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1503</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 17:12:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1503</guid>
+		<description><![CDATA[Выложим ролик YouTube *BOMB*]]></description>
+		<content:encoded><![CDATA[<p>Выложим ролик YouTube <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_bomb.gif' alt='*BOMB*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1502</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 16:15:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1502</guid>
+		<description><![CDATA[господа, надеюсь и нашему сайту перепадет :)]]></description>
+		<content:encoded><![CDATA[<p>господа, надеюсь и нашему сайту перепадет :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Gaidamaka</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1501</link>
+		<dc:creator><![CDATA[Gaidamaka]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 16:05:35 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1501</guid>
+		<description><![CDATA[Телеоператоры уже раскручены!!!]]></description>
+		<content:encoded><![CDATA[<p>Телеоператоры уже раскручены!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Nihil</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1500</link>
+		<dc:creator><![CDATA[Nihil]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 15:38:32 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1500</guid>
+		<description><![CDATA[2 nazarovsky: Александр, &quot;козлика&quot; (а точнее, его отсутствия) я Вам не прощу. Млин, надо раскручивать тех &quot;телеоператоров&quot; на эту запись..)]]></description>
+		<content:encoded><![CDATA[<p>2 nazarovsky: Александр, &#171;козлика&#187; (а точнее, его отсутствия) я Вам не прощу. Млин, надо раскручивать тех &#171;телеоператоров&#187; на эту запись..)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: nazarovsky</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1498</link>
+		<dc:creator><![CDATA[nazarovsky]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 11:22:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1498</guid>
+		<description><![CDATA[Все так и было. Про &quot;неограниченную&quot; скорость ADSL еще сказки были... И жалко что я не записал &quot;козлика&quot; - реальный хит бы получился если смикшировать. Полный вынос мозга.
+По поводу интернета. Конкурсы видимо планировались _другие_. Но у нас в интклубе о них никто ничего не знал. Вообще не знали что будет, как будет и вообще...
+Расскажу про другое. С утра в электросетях отрубали электричество, и поэтому интернета до 13-00 не ожидалось. Как выяснилось позднее, из за отключения электроэнергии вывалился RAID на основном &quot;раздаточном&quot; сервере, и интернета в этот день ВООБЩЕ не было. По-видимому, это и послужило причиной появления &quot;серенького козлика&quot; в программе конкурсов. Но самое страшное - другое. Если бы интернет был - никакого бы дефиле и прочих приблуд нереально было бы организовать, ибо в обычные дни там не пройти - народ работает за компами, бегает туда-сюда. А орги планировали проводить конкурсы БЕЗ остановки работы интклуба, видимо помещений для подобного рода мероприятий у ЦТК нет ВООБЩЕ. Вот это бы реально была жесть и сумасшедший дом, а так считайте что вам повезло.
+З.Ы. Голосовал за Элину =)]]></description>
+		<content:encoded><![CDATA[<p>Все так и было. Про &#171;неограниченную&#187; скорость ADSL еще сказки были&#8230; И жалко что я не записал &#171;козлика&#187; &#8212; реальный хит бы получился если смикшировать. Полный вынос мозга.</p>
+<p>По поводу интернета. Конкурсы видимо планировались _другие_. Но у нас в интклубе о них никто ничего не знал. Вообще не знали что будет, как будет и вообще&#8230;<br />
+Расскажу про другое. С утра в электросетях отрубали электричество, и поэтому интернета до 13-00 не ожидалось. Как выяснилось позднее, из за отключения электроэнергии вывалился RAID на основном &#171;раздаточном&#187; сервере, и интернета в этот день ВООБЩЕ не было. По-видимому, это и послужило причиной появления &#171;серенького козлика&#187; в программе конкурсов. Но самое страшное &#8212; другое. Если бы интернет был &#8212; никакого бы дефиле и прочих приблуд нереально было бы организовать, ибо в обычные дни там не пройти &#8212; народ работает за компами, бегает туда-сюда. А орги планировали проводить конкурсы БЕЗ остановки работы интклуба, видимо помещений для подобного рода мероприятий у ЦТК нет ВООБЩЕ. Вот это бы реально была жесть и сумасшедший дом, а так считайте что вам повезло.<br />
+З.Ы. Голосовал за Элину =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: dem</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1497</link>
+		<dc:creator><![CDATA[dem]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 10:17:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1497</guid>
+		<description><![CDATA[Молодец.
+Рискну предположить, что еще две девушки 2ая и 3яя справа ИМХО.
+Фотки классные]]></description>
+		<content:encoded><![CDATA[<p>Молодец.<br />
+Рискну предположить, что еще две девушки 2ая и 3яя справа ИМХО.<br />
+Фотки классные</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html/comment-page-1#comment-1496</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 10:08:28 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/10/13/miss-domolink-part-2.html#comment-1496</guid>
+		<description><![CDATA[&lt;strong&gt;2raikkonen&lt;/strong&gt;
+Твоя внучко &lt;strong&gt;не явилась&lt;/strong&gt; на второй этап конкурса. Видимо испугалась *JOKINGLY*
+&lt;strong&gt;2МумУ&lt;/strong&gt;
+Трафик безлимитный... это точно! *DANCE*]]></description>
+		<content:encoded><![CDATA[<p><strong>2raikkonen</strong><br />
+Твоя внучко <strong>не явилась</strong> на второй этап конкурса. Видимо испугалась <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_mocking.gif' alt='*JOKINGLY*' class='wp-smiley' /><br />
+<strong>2МумУ</strong><br />
+Трафик безлимитный&#8230; это точно! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

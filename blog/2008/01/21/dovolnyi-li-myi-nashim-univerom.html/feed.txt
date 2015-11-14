@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Довольны ли мы нашим универом?</title>
+	<atom:link href="http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Joren</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2467</link>
+		<dc:creator><![CDATA[Joren]]></dc:creator>
+		<pubDate>Sat, 02 Feb 2008 15:44:43 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2467</guid>
+		<description><![CDATA[это будет не сложно..*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>это будет не сложно..*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2454</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sat, 26 Jan 2008 01:41:58 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2454</guid>
+		<description><![CDATA[1 нет
+1 крепкая  4ка (за исключением общаг)
+1 если не полные туканы то готовы
+1 etc]]></description>
+		<content:encoded><![CDATA[<p>1 нет<br />
+1 крепкая  4ка (за исключением общаг)<br />
+1 если не полные туканы то готовы<br />
+1 etc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2453</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Sat, 26 Jan 2008 00:40:18 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2453</guid>
+		<description><![CDATA[ходили. 7 человек.
+вопросы &lt;strike&gt;не сложные&lt;/strike&gt; предсказуемые и очевидные.. типа
+&lt;ol&gt;
+&lt;li&gt; пользуетесь ли вы библиотекой? &lt;/li&gt;
+&lt;li&gt; на сколько баллов вы оцениваете санитарное состояние помещений?&lt;/li&gt;
+&lt;li&gt; на сколько по-вашему выпускники готовы к большому плаванию после универа? &lt;/li&gt;
+&lt;li&gt; etc. &lt;/li&gt;
+&lt;/ol&gt;
+]]></description>
+		<content:encoded><![CDATA[<p>ходили. 7 человек.<br />
+вопросы <strike>не сложные</strike> предсказуемые и очевидные.. типа </p>
+<ol>
+<li> пользуетесь ли вы библиотекой? </li>
+<li> на сколько баллов вы оцениваете санитарное состояние помещений?</li>
+<li> на сколько по-вашему выпускники готовы к большому плаванию после универа? </li>
+<li> etc. </li>
+</ol>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Толя</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2447</link>
+		<dc:creator><![CDATA[Толя]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2008 09:40:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2447</guid>
+		<description><![CDATA[Кто-то все-таки ходил в Знаменскую башню?
+На какие вопросы отвечали?]]></description>
+		<content:encoded><![CDATA[<p>Кто-то все-таки ходил в Знаменскую башню?<br />
+На какие вопросы отвечали?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2426</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2008 19:48:00 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2426</guid>
+		<description><![CDATA[Охренеть блин:) у нас зачотки как раздали на первом курсе, так с меня их тока на экзамен и спрашивают:) а больше они нафиг не кому не нужны))) не ну их потом на дипломы ее меняют, но это мелочи:)]]></description>
+		<content:encoded><![CDATA[<p>Охренеть блин:) у нас зачотки как раздали на первом курсе, так с меня их тока на экзамен и спрашивают:) а больше они нафиг не кому не нужны))) не ну их потом на дипломы ее меняют, но это мелочи:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2424</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2008 18:53:54 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2424</guid>
+		<description><![CDATA[Уже не рановато*SMILE* Время изменилось на 14 часов. Что будет точно не знаю, но это не больше 40 минут.]]></description>
+		<content:encoded><![CDATA[<p>Уже не рановато*SMILE* Время изменилось на 14 часов. Что будет точно не знаю, но это не больше 40 минут.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2423</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2008 18:42:17 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2423</guid>
+		<description><![CDATA[Как-то рановато -- в 10-30 -- но постараюсь прийти :-) а что там такое будет и на сколько это?]]></description>
+		<content:encoded><![CDATA[<p>Как-то рановато &#8212; в 10-30 &#8212; но постараюсь прийти :-) а что там такое будет и на сколько это?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: armandy</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2422</link>
+		<dc:creator><![CDATA[armandy]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2008 16:22:00 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2422</guid>
+		<description><![CDATA[А вот такие у нас правила *SMILE* Зачетки выдают только на время сессии, потом отбирают. Не доверяют, видимо...]]></description>
+		<content:encoded><![CDATA[<p>А вот такие у нас правила <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> Зачетки выдают только на время сессии, потом отбирают. Не доверяют, видимо&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html/comment-page-1#comment-2421</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2008 15:52:04 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/21/dovolnyi-li-myi-nashim-univerom.html#comment-2421</guid>
+		<description><![CDATA[Мы довольны:)
+Эм... а нафига зачотки в деканат?]]></description>
+		<content:encoded><![CDATA[<p>Мы довольны:) </p>
+<p>Эм&#8230; а нафига зачотки в деканат?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Назарбаев не знает как пропатчить KDE под FreeBSD</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: вуйц</title>
+		<link>http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html/comment-page-1#comment-2277</link>
+		<dc:creator><![CDATA[вуйц]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2007 20:25:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html#comment-2277</guid>
+		<description><![CDATA[дoлб0йoбы]]></description>
+		<content:encoded><![CDATA[<p>дoлб0йoбы</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html/comment-page-1#comment-893</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2007 10:11:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html#comment-893</guid>
+		<description><![CDATA[Ой да в Молдавии у них там вообще одни сплошные проблеммы..]]></description>
+		<content:encoded><![CDATA[<p>Ой да в Молдавии у них там вообще одни сплошные проблеммы..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Budilnick</title>
+		<link>http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html/comment-page-1#comment-892</link>
+		<dc:creator><![CDATA[Budilnick]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2007 07:30:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html#comment-892</guid>
+		<description><![CDATA[*EVIL* согласен! В Молдавии эта проблема сейчас стала особо остро, но президент тоже обходит эти темы стороной]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_evil.gif' alt='*EVIL*' class='wp-smiley' /> согласен! В Молдавии эта проблема сейчас стала особо остро, но президент тоже обходит эти темы стороной</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html/comment-page-1#comment-766</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2007 18:34:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/07/nazarbaev-ne-znaet-kak-propatchit-kde-pod-freebsd.html#comment-766</guid>
+		<description><![CDATA[если КДЕ еще можно назвать баловством., (хотя пиар менеджеры Назарбаева могли бы и удивить народ, если бы прокачали президента в ентом вопросе и он бы ответил), то вот про линукс-- имхо, вопрос мог бы получится реально актуальным и достойным внимания, если бы был пререформулирован корректно.. не про &quot;мою операционную систему&quot;, а, например, &quot;как вы относитесь к переходу учебных заведений на бесплатное П.О.&quot;-- тогда бы он перестал быть шуточным]]></description>
+		<content:encoded><![CDATA[<p>если КДЕ еще можно назвать баловством., (хотя пиар менеджеры Назарбаева могли бы и удивить народ, если бы прокачали президента в ентом вопросе и он бы ответил), то вот про линукс&#8212; имхо, вопрос мог бы получится реально актуальным и достойным внимания, если бы был пререформулирован корректно.. не про &#171;мою операционную систему&#187;, а, например, &#171;как вы относитесь к переходу учебных заведений на бесплатное П.О.&#187;&#8212; тогда бы он перестал быть шуточным</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

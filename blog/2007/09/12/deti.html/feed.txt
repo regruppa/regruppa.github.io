@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Дети %)</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/12/deti.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/12/deti.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ~LD~</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1365</link>
+		<dc:creator><![CDATA[~LD~]]></dc:creator>
+		<pubDate>Sat, 29 Sep 2007 04:59:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1365</guid>
+		<description><![CDATA[Знакомые с детьми рассказывают...А некоторые даже показывают :). Задача про одтчпшсвдд из тетради упражнений. Там таких много :).]]></description>
+		<content:encoded><![CDATA[<p>Знакомые с детьми рассказывают&#8230;А некоторые даже показывают :). Задача про одтчпшсвдд из тетради упражнений. Там таких много :).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1358</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 16:51:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1358</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+Если есть дети, которые из детсада уже выросли,пусть попробуют вот такую
+&lt;/blockquote&gt;
+Надо попробовать :) оказывается, что столько задач есть... LitilDevil, а ты случайно в детсаде не работаешь -- столько задач знаешь *DANCE*]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+Если есть дети, которые из детсада уже выросли,пусть попробуют вот такую
+</p></blockquote>
+<p>Надо попробовать :) оказывается, что столько задач есть&#8230; LitilDevil, а ты случайно в детсаде не работаешь &#8212; столько задач знаешь <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ~LD~</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1357</link>
+		<dc:creator><![CDATA[~LD~]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 16:33:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1357</guid>
+		<description><![CDATA[кстати, для любителей программирования...можно усложнить задачу про число и попросить написать прогу, которая генерит все такие числа. :)]]></description>
+		<content:encoded><![CDATA[<p>кстати, для любителей программирования&#8230;можно усложнить задачу про число и попросить написать прогу, которая генерит все такие числа. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1356</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 14:59:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1356</guid>
+		<description><![CDATA[о! Последнюю нам Eunix загадывал... все кто гадал разделились на 2 части -- на тех, кто вообще не отгадал и тех, кто отгадал за первую минуту...]]></description>
+		<content:encoded><![CDATA[<p>о! Последнюю нам Eunix загадывал&#8230; все кто гадал разделились на 2 части &#8212; на тех, кто вообще не отгадал и тех, кто отгадал за первую минуту&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ~LD~</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1355</link>
+		<dc:creator><![CDATA[~LD~]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 12:56:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1355</guid>
+		<description><![CDATA[и вот ещё. дочка знакомой принесла....задача для проверки усвоения знаний 1ого класса:
+одтчпшсвдд
+допишите следующую букву.
+думал минут 10 :). это долго. :)]]></description>
+		<content:encoded><![CDATA[<p>и вот ещё. дочка знакомой принесла&#8230;.задача для проверки усвоения знаний 1ого класса:</p>
+<p>одтчпшсвдд</p>
+<p>допишите следующую букву.<br />
+думал минут 10 :). это долго. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ~LD~</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1354</link>
+		<dc:creator><![CDATA[~LD~]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2007 12:10:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1354</guid>
+		<description><![CDATA[Если есть дети, которые из детсада уже выросли,пусть попробуют вот такую:
+Некоторое число оканчивается на 2.
+Если его последнюю цифру поставить на первое место, то число удвоится.
+Найдите исходное число.
+слишком умным, а также тем кто в 5ом классе ходил на олимпиады по математике будет легко, наверное...]]></description>
+		<content:encoded><![CDATA[<p>Если есть дети, которые из детсада уже выросли,пусть попробуют вот такую:</p>
+<p>Некоторое число оканчивается на 2.<br />
+Если его последнюю цифру поставить на первое место, то число удвоится.<br />
+Найдите исходное число.</p>
+<p>слишком умным, а также тем кто в 5ом классе ходил на олимпиады по математике будет легко, наверное&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1332</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2007 18:12:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1332</guid>
+		<description><![CDATA[ErliZz, напиши спойлер для задачи LitilDevil. Соотвественно, её добавь как UPD в потс.]]></description>
+		<content:encoded><![CDATA[<p>ErliZz, напиши спойлер для задачи LitilDevil. Соотвественно, её добавь как UPD в потс.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1329</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2007 17:48:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1329</guid>
+		<description><![CDATA[Я думаю, что можно выложить ответы :) прямо в потс... вдруг кому-нибудь понадобится. Как думаете? (Конечно, ответы сделать в виде спойлера.)]]></description>
+		<content:encoded><![CDATA[<p>Я думаю, что можно выложить ответы :) прямо в потс&#8230; вдруг кому-нибудь понадобится. Как думаете? (Конечно, ответы сделать в виде спойлера.)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1320</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2007 05:34:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1320</guid>
+		<description><![CDATA[так вродеж попросили ответ не писать. Потому и молчим сидим) Юрий Викторович в школе любил такие задачи давать, Жень, так что нового вобщем ничего:)]]></description>
+		<content:encoded><![CDATA[<p>так вродеж попросили ответ не писать. Потому и молчим сидим) Юрий Викторович в школе любил такие задачи давать, Жень, так что нового вобщем ничего:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/12/deti.html/comment-page-1#comment-1317</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 23 Sep 2007 17:07:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/12/deti.html#comment-1317</guid>
+		<description><![CDATA[LitilDevil, наверное, ещё :-)]]></description>
+		<content:encoded><![CDATA[<p>LitilDevil, наверное, ещё :-)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

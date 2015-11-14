@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: С Новым годом!!!</title>
+	<atom:link href="http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Студент</title>
+		<link>http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html/comment-page-1#comment-2383</link>
+		<dc:creator><![CDATA[Студент]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 14:50:11 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html#comment-2383</guid>
+		<description><![CDATA[С наступившим. С рождеством, кстати. Подарили книги, вкусности. Подарил мягких игрушек. :)]]></description>
+		<content:encoded><![CDATA[<p>С наступившим. С рождеством, кстати. Подарили книги, вкусности. Подарил мягких игрушек. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html/comment-page-1#comment-2373</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 04 Jan 2008 10:15:29 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html#comment-2373</guid>
+		<description><![CDATA[С наступившим:) Кому что подарили? Кто кому что подарил???]]></description>
+		<content:encoded><![CDATA[<p>С наступившим:) Кому что подарили? Кто кому что подарил???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html/comment-page-1#comment-2370</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 13:06:30 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html#comment-2370</guid>
+		<description><![CDATA[!!! HAPPY NEW YAER TO ALL OF US !!!]]></description>
+		<content:encoded><![CDATA[<p>!!! HAPPY NEW YAER TO ALL OF US !!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html/comment-page-1#comment-2369</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 08:22:03 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2008/01/01/s-novyim-godom.html#comment-2369</guid>
+		<description><![CDATA[ура! ура! ура!]]></description>
+		<content:encoded><![CDATA[<p>ура! ура! ура!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

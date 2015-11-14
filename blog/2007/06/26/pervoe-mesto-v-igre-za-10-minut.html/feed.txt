@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Первое место в игре за 10 минут</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: edelweisse</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-3178</link>
+		<dc:creator><![CDATA[edelweisse]]></dc:creator>
+		<pubDate>Fri, 16 May 2008 05:40:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-3178</guid>
+		<description><![CDATA[*SMILE*  hi, ur good! uhm, i&#039;ve e-mail fred and tod. and i&#039;m really expecting u will reply on my message. the game is great! uhm, from what movie is the picture that anna is wearing blue and has a worried face? anna faris is really great! tnx!]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' />  hi, ur good! uhm, i&#8217;ve e-mail fred and tod. and i&#8217;m really expecting u will reply on my message. the game is great! uhm, from what movie is the picture that anna is wearing blue and has a worried face? anna faris is really great! tnx!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ярославль в Сан Франциско &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-1028</link>
+		<dc:creator><![CDATA[Ярославль в Сан Франциско &#124; Regruppa]]></dc:creator>
+		<pubDate>Sat, 07 Jul 2007 18:10:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-1028</guid>
+		<description><![CDATA[[...] Кстати, совсем недавно этот сервис помог администраторам наконец-то понять, что на их игру посмотрели изнутри: после этого они всё быстренько исправили&#8230; по крайней мере они так думают [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Кстати, совсем недавно этот сервис помог администраторам наконец-то понять, что на их игру посмотрели изнутри: после этого они всё быстренько исправили&#8230; по крайней мере они так думают [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-969</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2007 08:17:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-969</guid>
+		<description><![CDATA[Вот, что &lt;a href=&quot;http://www.krestavilis.com/games/&quot; rel=&quot;nofollow&quot;&gt;у них сейчас написано&lt;/a&gt; =)
+&lt;blockquote&gt;
+Hello to all
+You may have noticed that the first place was held by Azeem for a period of time and now he is nowhere to be found. I have removed him from the board because I found out that he was a cheater. Azeem with the help if his friend Eunix had found a way to &lt;a href=&quot;http://translate.google.com/translate?u=http%3A%2F%2Fwww.regruppa.ru%2Fblog%2F2007%2F06%2F26%2Fpervoe-mesto-v-igre-za-10-minut.html&amp;langpair=ru%7Cen&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools&quot; rel=&quot;nofollow&quot;&gt;hack&lt;/a&gt; into the high score board to put their name on top. The hack had been countered, and now the game is immune to it. Users going by the name of Azeem, Azim, Eunix and Regruppa are now banned from the score board in result of their actions. Keep it clean guys!
+Fred
+&lt;/blockquote&gt;]]></description>
+		<content:encoded><![CDATA[<p>Вот, что <a href="http://www.krestavilis.com/games/" rel="nofollow" class="liexternal">у них сейчас написано</a> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile2.gif' alt='=)' class='wp-smiley' /><br />
+<blockquote>
+Hello to all</p>
+<p>You may have noticed that the first place was held by Azeem for a period of time and now he is nowhere to be found. I have removed him from the board because I found out that he was a cheater. Azeem with the help if his friend Eunix had found a way to <a href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.regruppa.ru%2Fblog%2F2007%2F06%2F26%2Fpervoe-mesto-v-igre-za-10-minut.html&#038;langpair=ru%7Cen&#038;hl=en&#038;ie=UTF-8&#038;oe=UTF-8&#038;prev=%2Flanguage_tools" rel="nofollow" class="liexternal">hack</a> into the high score board to put their name on top. The hack had been countered, and now the game is immune to it. Users going by the name of Azeem, Azim, Eunix and Regruppa are now banned from the score board in result of their actions. Keep it clean guys!</p>
+<p>Fred
+</p></blockquote>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-966</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Thu, 28 Jun 2007 09:30:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-966</guid>
+		<description><![CDATA[Впервой чтоль банют? %)]]></description>
+		<content:encoded><![CDATA[<p>Впервой чтоль банют? %)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-964</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Thu, 28 Jun 2007 08:55:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-964</guid>
+		<description><![CDATA[&quot;регруппе надавали по жопе за пеар&quot; ©]]></description>
+		<content:encoded><![CDATA[<p>&#171;регруппе надавали по жопе за пеар&#187; ©</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-963</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 28 Jun 2007 07:05:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-963</guid>
+		<description><![CDATA[&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;http://www.regruppa.ru/content/blog/2007/06/anna_ban.png&quot; /&gt;
+&lt;/div&gt;]]></description>
+		<content:encoded><![CDATA[<div align="center">
+<img src="http://www.regruppa.ru/content/blog/2007/06/anna_ban.png" />
+</div>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-955</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 27 Jun 2007 12:22:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-955</guid>
+		<description><![CDATA[*ANGEL*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_angel.gif' alt='*ANGEL*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ErliZz</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-954</link>
+		<dc:creator><![CDATA[ErliZz]]></dc:creator>
+		<pubDate>Wed, 27 Jun 2007 12:15:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-954</guid>
+		<description><![CDATA[*SECRET* регруппа приперлась пиариться еще на 1 сайт =))) *SECRET*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /> регруппа приперлась пиариться еще на 1 сайт =))) <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_secret.gif' alt='*SECRET*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html/comment-page-1#comment-953</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 27 Jun 2007 10:54:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/26/pervoe-mesto-v-igre-za-10-minut.html#comment-953</guid>
+		<description><![CDATA[Всё-таки они увидели, чем я занимался :) удалили все мои результаты, так как я в первый раз кучу пустых запросов накидал.
+Можно прочитать их форум: http://annafaris.net/forum2007/viewtopic.php?t=5]]></description>
+		<content:encoded><![CDATA[<p>Всё-таки они увидели, чем я занимался :) удалили все мои результаты, так как я в первый раз кучу пустых запросов накидал.<br />
+Можно прочитать их форум: <a href="http://annafaris.net/forum2007/viewtopic.php?t=5" rel="nofollow" class="liexternal">http://annafaris.net/forum2007/viewtopic.php?t=5</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

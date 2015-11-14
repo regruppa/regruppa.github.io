@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Web Serfing UnLimited</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-461</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 16:34:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-461</guid>
+		<description><![CDATA[Э-э-э... у меня ADSL, 24 Мбит/сек, белый ip. И всё-таки я прав *CRAZY* всего две оптики до Москвы и аренда стоит этой оптики очень дорого.]]></description>
+		<content:encoded><![CDATA[<p>Э-э-э&#8230; у меня ADSL, 24 Мбит/сек, белый ip. И всё-таки я прав <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> всего две оптики до Москвы и аренда стоит этой оптики очень дорого.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-457</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 16:03:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-457</guid>
+		<description><![CDATA[вот тут ты Жень не прав... каналы есть, тока смысл его продавать если конкуренции нет... до недавнего времени анлимом в ярике владел тока один провайдер -  это нетис, он кстати продавал инет другим провайдерам таким, как например тензор...  и в ярике всего у 2х контор был анлим впринципе это нетис и ещё один его клиент) может щас что поменяется...
+А касательно того что мой тариф не назвать дешовым тут вы не правы... скорость то не адсл, и ip реальный;) и ещё раз говорю что всё что нужно лежит в локальной сети, а если вам 200 р в месяц кажется дорого при всех этих плюсах, то ищите дешевле в той же Москве;) уверен, что не найдёте...]]></description>
+		<content:encoded><![CDATA[<p>вот тут ты Жень не прав&#8230; каналы есть, тока смысл его продавать если конкуренции нет&#8230; до недавнего времени анлимом в ярике владел тока один провайдер &#8212;  это нетис, он кстати продавал инет другим провайдерам таким, как например тензор&#8230;  и в ярике всего у 2х контор был анлим впринципе это нетис и ещё один его клиент) может щас что поменяется&#8230;</p>
+<p>А касательно того что мой тариф не назвать дешовым тут вы не правы&#8230; скорость то не адсл, и ip реальный;) и ещё раз говорю что всё что нужно лежит в локальной сети, а если вам 200 р в месяц кажется дорого при всех этих плюсах, то ищите дешевле в той же Москве;) уверен, что не найдёте&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-452</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 15:04:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-452</guid>
+		<description><![CDATA[2.5 метра за 1 рубль... всё равно как-то дорого. Конечно, у меня за 1 метр 1 рубль, но и тарифы МФТИ не назвать дешёвыми.
+На самом деле интернет дорогой не из-за того, что конкуренции нет, а из-за того, что нет дешёвого канала до Москвы :-)]]></description>
+		<content:encoded><![CDATA[<p>2.5 метра за 1 рубль&#8230; всё равно как-то дорого. Конечно, у меня за 1 метр 1 рубль, но и тарифы МФТИ не назвать дешёвыми.<br />
+На самом деле интернет дорогой не из-за того, что конкуренции нет, а из-за того, что нет дешёвого канала до Москвы :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-442</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 15 May 2007 14:07:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-442</guid>
+		<description><![CDATA[у нас вроде только Ланк телеком проводит свои собственные АТС, но всеравно, действительно Яртелекому не конкурент.. население мало.. а даже как у тебя тариф, по 40коп.за метр--тут таких нет..=((]]></description>
+		<content:encoded><![CDATA[<p>у нас вроде только Ланк телеком проводит свои собственные АТС, но всеравно, действительно Яртелекому не конкурент.. население мало.. а даже как у тебя тариф, по 40коп.за метр&#8212;тут таких нет..=((</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-431</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 16:37:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-431</guid>
+		<description><![CDATA[ну как вам сказать в Москве много народу сидит на адсл, в ярике тож это уже давно появилось.. тока в ярике оператор городской сети телефонов один... а в москве их несколько) потому конкуренция бешеная...
+вобщем господа, яртелеком никто как монополиста разбивать не будет(попытки были, кончились ничем) так что довольствоваться придётся тем что есть)
+P.S. у меня тариф тоже халявный, 2,5 метра == 1 р, но всё что надо есть в локали(даже почта и проксик аськи), так что весь трафик идёт на просмотр всяких страничек типа этой... вобщем 200 р в месяц имхо это нормально)]]></description>
+		<content:encoded><![CDATA[<p>ну как вам сказать в Москве много народу сидит на адсл, в ярике тож это уже давно появилось.. тока в ярике оператор городской сети телефонов один&#8230; а в москве их несколько) потому конкуренция бешеная&#8230; </p>
+<p>вобщем господа, яртелеком никто как монополиста разбивать не будет(попытки были, кончились ничем) так что довольствоваться придётся тем что есть)</p>
+<p>P.S. у меня тариф тоже халявный, 2,5 метра == 1 р, но всё что надо есть в локали(даже почта и проксик аськи), так что весь трафик идёт на просмотр всяких страничек типа этой&#8230; вобщем 200 р в месяц имхо это нормально)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-427</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 11:41:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-427</guid>
+		<description><![CDATA[Можно показывать :-) ведь лет пять в Москве не было и такого. А сейчас у них &lt;a href=&quot;http://stream.ru/tariffs/inet/&quot; rel=&quot;nofollow&quot;&gt;всё есть&lt;/a&gt;. Возможно, что скоро и нас будет более-менее.]]></description>
+		<content:encoded><![CDATA[<p>Можно показывать :-) ведь лет пять в Москве не было и такого. А сейчас у них <a href="http://stream.ru/tariffs/inet/" rel="nofollow" class="liexternal">всё есть</a>. Возможно, что скоро и нас будет более-менее.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: geras</title>
+		<link>http://regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html/comment-page-1#comment-425</link>
+		<dc:creator><![CDATA[geras]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 10:23:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/11/web-serfing-unlimited.html#comment-425</guid>
+		<description><![CDATA[посмотрел тарифы - облился слюной. Нельзя нашим людям такое показывать*BOMB*, не привыкли они еще к такому%-)]]></description>
+		<content:encoded><![CDATA[<p>посмотрел тарифы &#8212; облился слюной. Нельзя нашим людям такое показывать*BOMB*, не привыкли они еще к такому%-)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: _mg_4233-01</title>
+	<atom:link href="http://regruppa.ru/blog/2008/04/20/fotoforum-2k8-vpechatleniya.html/_mg_4233-01/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/04/20/fotoforum-2k8-vpechatleniya.html/_mg_4233-01</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+</channel>
+</rss>

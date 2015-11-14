@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Методичка по ЭД СВЧ</title>
+	<atom:link href="http://regruppa.ru/blog/2008/04/09/metodichka-po-ed-svch.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/04/09/metodichka-po-ed-svch.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/04/09/metodichka-po-ed-svch.html/comment-page-1#comment-2881</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2008 16:50:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=692#comment-2881</guid>
+		<description><![CDATA[Извиняюсь за ошибку в настройке: не скачивался файл после обновления. Всё теперь работает.]]></description>
+		<content:encoded><![CDATA[<p>Извиняюсь за ошибку в настройке: не скачивался файл после обновления. Всё теперь работает.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/04/09/metodichka-po-ed-svch.html/comment-page-1#comment-2784</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2008 20:52:56 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=692#comment-2784</guid>
+		<description><![CDATA[а чо намана так... полезненько для общего развития... нагядно и просто все:)
+Эх.. где ж вы были так скажем 1,5 года назад када мне нужно было все это в течении 2х дней осилить, для того чтоб будующему научруку внушить, что я нужен на базе:)
+Впрочем ладно, все хорошо что хорошо кончается:)]]></description>
+		<content:encoded><![CDATA[<p>а чо намана так&#8230; полезненько для общего развития&#8230; нагядно и просто все:)</p>
+<p>Эх.. где ж вы были так скажем 1,5 года назад када мне нужно было все это в течении 2х дней осилить, для того чтоб будующему научруку внушить, что я нужен на базе:)</p>
+<p>Впрочем ладно, все хорошо что хорошо кончается:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

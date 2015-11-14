@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Wall-E Pop! Или полопаем пузырики</title>
+	<atom:link href="http://regruppa.ru/blog/2008/12/24/wall-e-pop-ili-polopaem-puzyriki.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/12/24/wall-e-pop-ili-polopaem-puzyriki.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2008/12/24/wall-e-pop-ili-polopaem-puzyriki.html/comment-page-1#comment-11453</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2009 11:21:42 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=808#comment-11453</guid>
+		<description><![CDATA[недавно домой обрели большую тумбочку под телевизор....теперь у меня 2 м^2 маааааленьких пузыриков.....им радовалась больше чем тумбочке )))]]></description>
+		<content:encoded><![CDATA[<p>недавно домой обрели большую тумбочку под телевизор&#8230;.теперь у меня 2 м^2 маааааленьких пузыриков&#8230;..им радовалась больше чем тумбочке )))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: chegeras</title>
+		<link>http://regruppa.ru/blog/2008/12/24/wall-e-pop-ili-polopaem-puzyriki.html/comment-page-1#comment-11442</link>
+		<dc:creator><![CDATA[chegeras]]></dc:creator>
+		<pubDate>Thu, 25 Dec 2008 19:04:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=808#comment-11442</guid>
+		<description><![CDATA[а вот из моего любимого сериала
+http://www.youtube.com/watch?v=xJ-jOyurMuI]]></description>
+		<content:encoded><![CDATA[<p>а вот из моего любимого сериала<br />
+<a href="http://www.youtube.com/watch?v=xJ-jOyurMuI" rel="nofollow" class="liexternal">http://www.youtube.com/watch?v=xJ-jOyurMuI</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/12/24/wall-e-pop-ili-polopaem-puzyriki.html/comment-page-1#comment-11440</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Thu, 25 Dec 2008 07:01:19 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=808#comment-11440</guid>
+		<description><![CDATA[Как то мне в руки досталась обертка от генератора, там были пузырьки диаметром сантиметра 3, а сама обертка метров 5 квадратных... вот счастья было:)))]]></description>
+		<content:encoded><![CDATA[<p>Как то мне в руки досталась обертка от генератора, там были пузырьки диаметром сантиметра 3, а сама обертка метров 5 квадратных&#8230; вот счастья было:)))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

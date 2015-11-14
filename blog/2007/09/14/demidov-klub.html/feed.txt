@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Демидов-клуб</title>
+	<atom:link href="http://regruppa.ru/blog/2007/09/14/demidov-klub.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/09/14/demidov-klub.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/14/demidov-klub.html/comment-page-1#comment-1371</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sat, 29 Sep 2007 14:01:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/14/demidov-klub.html#comment-1371</guid>
+		<description><![CDATA[Походу дела меня точно не взяли *CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>Походу дела меня точно не взяли <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/14/demidov-klub.html/comment-page-1#comment-1308</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 16:34:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/14/demidov-klub.html#comment-1308</guid>
+		<description><![CDATA[Во вторник послал им резюме, так как в понедельник что-то не совсем и успел, а уже вечером они мне позвонили и сказали, что я прошёл во второй тур. Второй тур -- это деловая игра, которая как раз и проходила сегодня (четверг, 16-00).
+Пришёл я минут за пять в актовый зал первого корпуса: на меня спереди и сзади нацепили номер 7, а в зале почти никого и не было... В итоге пришло 18 человек: 6 парней и 12 девушек, которые и играли.
+Суть в том, что пока мы играем в деловую игру, на нас смотрит жюри и оценивает, на сколько мы пригодны, то есть фактически конкурс на прохождение в состав Демидов-клуба. С жюри были люди как от администрации вуза и города, так и директор какой-то ярославской компании.
+А сюжет игры был довольно интересным: нас разбили на 7 команд (фактически разбились мы сами) -- по два-три человека в каждой. Со мной был мальчик и девочка с истфака, который друг друга, правда, не знали. Потом нам дали задание -- мы были туристической фирмой в каком-то городе. Всего семь городов, следовательно семь фирм. Идея -- приезжает музыкальная группа; необходимо получить максимальную прибыль от того, что она приедет именно в твой город (а в зависимости от количества дней и дня заезда различные вознаграждения); договорится об этом с другими городами-фирмами. Вначале обсуждаем внутри группы, а потом со всеми. А у каждого города свои характеристики концертной площадки и местоположение (аэропорт, курорт и т.п.). В итоге мы там что-то не то сдедали, покричали и... игра закончилась. наша команда заявила 110%, а получила 15 *CRAZY*
+Посмотрим теперь, возьмут ли меня =)]]></description>
+		<content:encoded><![CDATA[<p>Во вторник послал им резюме, так как в понедельник что-то не совсем и успел, а уже вечером они мне позвонили и сказали, что я прошёл во второй тур. Второй тур &#8212; это деловая игра, которая как раз и проходила сегодня (четверг, 16-00).<br />
+Пришёл я минут за пять в актовый зал первого корпуса: на меня спереди и сзади нацепили номер 7, а в зале почти никого и не было&#8230; В итоге пришло 18 человек: 6 парней и 12 девушек, которые и играли.<br />
+Суть в том, что пока мы играем в деловую игру, на нас смотрит жюри и оценивает, на сколько мы пригодны, то есть фактически конкурс на прохождение в состав Демидов-клуба. С жюри были люди как от администрации вуза и города, так и директор какой-то ярославской компании.<br />
+А сюжет игры был довольно интересным: нас разбили на 7 команд (фактически разбились мы сами) &#8212; по два-три человека в каждой. Со мной был мальчик и девочка с истфака, который друг друга, правда, не знали. Потом нам дали задание &#8212; мы были туристической фирмой в каком-то городе. Всего семь городов, следовательно семь фирм. Идея &#8212; приезжает музыкальная группа; необходимо получить максимальную прибыль от того, что она приедет именно в твой город (а в зависимости от количества дней и дня заезда различные вознаграждения); договорится об этом с другими городами-фирмами. Вначале обсуждаем внутри группы, а потом со всеми. А у каждого города свои характеристики концертной площадки и местоположение (аэропорт, курорт и т.п.). В итоге мы там что-то не то сдедали, покричали и&#8230; игра закончилась. наша команда заявила 110%, а получила 15 <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> Посмотрим теперь, возьмут ли меня =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/09/14/demidov-klub.html/comment-page-1#comment-1280</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2007 22:27:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/14/demidov-klub.html#comment-1280</guid>
+		<description><![CDATA[ТОЛЬКО СТУДЕНТАМ ЯРГУ...
+ну и ладно, не очень то и хотелось, буду дальше в тихоря над проектом работать...]]></description>
+		<content:encoded><![CDATA[<p>ТОЛЬКО СТУДЕНТАМ ЯРГУ&#8230;<br />
+ну и ладно, не очень то и хотелось, буду дальше в тихоря над проектом работать&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/09/14/demidov-klub.html/comment-page-1#comment-1276</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2007 16:56:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/09/14/demidov-klub.html#comment-1276</guid>
+		<description><![CDATA[Ещё можно сделать одно дополнение, так как &lt;a href=&quot;http://www.free-lancers.net/users/Cheshirecat/projects/48403/&quot; rel=&quot;nofollow&quot;&gt;нашёл информацию&lt;/a&gt; о том, как &lt;a href=&quot;http://www.consult.uniyar.ac.ru/programs/demidovklub.html&quot; rel=&quot;nofollow&quot;&gt;написать заявку&lt;/a&gt; (сайт &lt;a href=&quot;http://www.consult.uniyar.ac.ru&quot; rel=&quot;nofollow&quot;&gt;www.consult.uniyar.ac.ru&lt;/a&gt;):
+&lt;blockquote&gt;
+    * Напиши резюме по следующему плану: 1. Фамилия
+    * 2. Имя
+    * 3. Отчество
+    * 4. Дата рождения
+    * 5. Факультет, курс
+    * 6. специализация
+    * 7. Контакты (e-mail, телефон)
+    * 8. Опыт участия в:
+    * • Конференциях
+    * • Форумах
+    * • Конгрессах
+    * • Научно-исследовательских проектах
+    * • Научно-просветительских проектах
+    * • Научно-практических проектах
+    * • Социально-значимых проектах
+    * 9. Дополнительное образование (курсы, семинары)
+    * 10. Сфера профессионального интереса (возможно тема курсовой/дипломной работы)
+    * 11. Своим наибольшим достижением я считаю
+    * 12. Пять, характерных для меня, качеств
+    * 13. Мое жизненное кредо
+    * 14. Я хочу участвовать в проекте, потому что...
+      и отправь его по адресу: consult &lt;a href=&quot;http://www.regruppa.ru/etc/explanation/#at&quot; rel=&quot;nofollow&quot;&gt;at&lt;/a&gt; uniyar.ac.ru
+&lt;/blockquote&gt;]]></description>
+		<content:encoded><![CDATA[<p>Ещё можно сделать одно дополнение, так как <a href="http://www.free-lancers.net/users/Cheshirecat/projects/48403/" rel="nofollow" class="liexternal">нашёл информацию</a> о том, как <a href="http://www.consult.uniyar.ac.ru/programs/demidovklub.html" rel="nofollow" class="liexternal">написать заявку</a> (сайт <a href="http://www.consult.uniyar.ac.ru" rel="nofollow" class="liexternal">http://www.consult.uniyar.ac.ru</a>):</p>
+<blockquote><p>
+    * Напиши резюме по следующему плану: 1. Фамилия<br />
+    * 2. Имя<br />
+    * 3. Отчество<br />
+    * 4. Дата рождения<br />
+    * 5. Факультет, курс<br />
+    * 6. специализация<br />
+    * 7. Контакты (e-mail, телефон)<br />
+    * 8. Опыт участия в:<br />
+    * • Конференциях<br />
+    * • Форумах<br />
+    * • Конгрессах<br />
+    * • Научно-исследовательских проектах<br />
+    * • Научно-просветительских проектах<br />
+    * • Научно-практических проектах<br />
+    * • Социально-значимых проектах<br />
+    * 9. Дополнительное образование (курсы, семинары)<br />
+    * 10. Сфера профессионального интереса (возможно тема курсовой/дипломной работы)<br />
+    * 11. Своим наибольшим достижением я считаю<br />
+    * 12. Пять, характерных для меня, качеств<br />
+    * 13. Мое жизненное кредо<br />
+    * 14. Я хочу участвовать в проекте, потому что&#8230;</p>
+<p>      и отправь его по адресу: consult <a href="http://www.regruppa.ru/etc/explanation/#at" rel="nofollow" class="liinternal">at</a> uniyar.ac.ru
+</p></blockquote>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

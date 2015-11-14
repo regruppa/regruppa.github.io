@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Таллин в декабре</title>
+	<atom:link href="http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Olegov</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-9400</link>
+		<dc:creator><![CDATA[Olegov]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 17:52:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-9400</guid>
+		<description><![CDATA[А вообще Таллин волшебный город. Обожаю его.
+Хотите еще больше волшебства - посетите остров Saaremaa. Там есть что посмотреть.
+А фотки точно - класс!]]></description>
+		<content:encoded><![CDATA[<p>А вообще Таллин волшебный город. Обожаю его.<br />
+Хотите еще больше волшебства &#8212; посетите остров Saaremaa. Там есть что посмотреть.<br />
+А фотки точно &#8212; класс!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ольга</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-3231</link>
+		<dc:creator><![CDATA[Ольга]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 19:37:54 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-3231</guid>
+		<description><![CDATA[Спасибо! А фотки классные! :)]]></description>
+		<content:encoded><![CDATA[<p>Спасибо! А фотки классные! :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-3072</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Sun, 11 May 2008 07:05:31 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-3072</guid>
+		<description><![CDATA[Да, эта :)]]></description>
+		<content:encoded><![CDATA[<p>Да, эта :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ольга</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-3068</link>
+		<dc:creator><![CDATA[Ольга]]></dc:creator>
+		<pubDate>Sat, 10 May 2008 19:46:05 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-3068</guid>
+		<description><![CDATA[City Hotel Portus - это вот эта гостиница http://www.portushotel.ru/ ?]]></description>
+		<content:encoded><![CDATA[<p>City Hotel Portus &#8212; это вот эта гостиница <a href="http://www.portushotel.ru/" rel="nofollow" class="liexternal">http://www.portushotel.ru/</a> ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Дима</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2399</link>
+		<dc:creator><![CDATA[Дима]]></dc:creator>
+		<pubDate>Mon, 14 Jan 2008 19:34:07 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2399</guid>
+		<description><![CDATA[блииин. я тоже был в декабре в таллине. смотрю на фотки - ищу себя ))))) навеяли воспоминания. кставте я тоже немного описал свое путешествие http://tallin.nov.ru/ если интересно]]></description>
+		<content:encoded><![CDATA[<p>блииин. я тоже был в декабре в таллине. смотрю на фотки &#8212; ищу себя ))))) навеяли воспоминания. кставте я тоже немного описал свое путешествие <a href="http://tallin.nov.ru/" rel="nofollow" class="liexternal">http://tallin.nov.ru/</a> если интересно</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2387</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Wed, 09 Jan 2008 10:10:20 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2387</guid>
+		<description><![CDATA[&lt;blockquote&gt;
+А какой курс EEK к рублю? Какой вообще масштаб цен в городе?
+&lt;/blockquote&gt;
+1 крона около 2.1-2.3 рубля. Еда стоит дешевле, вещи чуть дешевле, а вот техника (компьютеры, телефоны, бытовая техника) стоит дороже.]]></description>
+		<content:encoded><![CDATA[<blockquote><p>
+А какой курс EEK к рублю? Какой вообще масштаб цен в городе?
+</p></blockquote>
+<p>1 крона около 2.1-2.3 рубля. Еда стоит дешевле, вещи чуть дешевле, а вот техника (компьютеры, телефоны, бытовая техника) стоит дороже.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Зиг</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2385</link>
+		<dc:creator><![CDATA[Зиг]]></dc:creator>
+		<pubDate>Wed, 09 Jan 2008 01:30:24 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2385</guid>
+		<description><![CDATA[*THUMBS_UP*
+обалденные фотки! очень впечетляет]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /> обалденные фотки! очень впечетляет</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Студент</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2384</link>
+		<dc:creator><![CDATA[Студент]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 14:53:14 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2384</guid>
+		<description><![CDATA[Красиво очень. Мне крепость понравилась :)]]></description>
+		<content:encoded><![CDATA[<p>Красиво очень. Мне крепость понравилась :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Энди</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2382</link>
+		<dc:creator><![CDATA[Энди]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 10:15:07 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2382</guid>
+		<description><![CDATA[Красиво в Таллине. Когда уж и мне удастся побывать у вас? Эх...]]></description>
+		<content:encoded><![CDATA[<p>Красиво в Таллине. Когда уж и мне удастся побывать у вас? Эх&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: chikenpox</title>
+		<link>http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html/comment-page-1#comment-2354</link>
+		<dc:creator><![CDATA[chikenpox]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2007 09:40:41 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/26/tallin-v-dekabre.html#comment-2354</guid>
+		<description><![CDATA[классна шо там рампа есть ну а астальное не так интересна*DANCE*]]></description>
+		<content:encoded><![CDATA[<p>классна шо там рампа есть ну а астальное не так интересна*DANCE*</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Вопросы к экзамену по ядерной физике</title>
+	<atom:link href="http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-921</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2007 07:47:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-921</guid>
+		<description><![CDATA[Физика сдана... жаль что общефиза в моей жизни больше не будет... прикипел я к нему с 7ого класса... а тут раз и всё, пустовато как то стало... обидно... очень обидно, что последней оценкой стал хор... может и заслуженно, не мне судить...]]></description>
+		<content:encoded><![CDATA[<p>Физика сдана&#8230; жаль что общефиза в моей жизни больше не будет&#8230; прикипел я к нему с 7ого класса&#8230; а тут раз и всё, пустовато как то стало&#8230; обидно&#8230; очень обидно, что последней оценкой стал хор&#8230; может и заслуженно, не мне судить&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Мухин &#8212; учебник по ядерной физике &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-874</link>
+		<dc:creator><![CDATA[Мухин &#8212; учебник по ядерной физике &#124; Regruppa]]></dc:creator>
+		<pubDate>Thu, 21 Jun 2007 15:26:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-874</guid>
+		<description><![CDATA[[...] Из облаков:&#160;Мухин, учебник, экзамен, ядерная физикаСкоро экзамен по ядерной физике, поэтому будет полезно почитать: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Из облаков:&nbsp;Мухин, учебник, экзамен, ядерная физикаСкоро экзамен по ядерной физике, поэтому будет полезно почитать: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-855</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Wed, 20 Jun 2007 09:18:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-855</guid>
+		<description><![CDATA[Да нет.. не обкуривался я ничем.. Мы пива просто много вчера пили.. Терь Илюха(Гомбац который) отлёживается, а я тут флужу)
+Имхо всётаки Сивухин решает...]]></description>
+		<content:encoded><![CDATA[<p>Да нет.. не обкуривался я ничем.. Мы пива просто много вчера пили.. Терь Илюха(Гомбац который) отлёживается, а я тут флужу)<br />
+Имхо всётаки Сивухин решает&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: jamper3d</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-853</link>
+		<dc:creator><![CDATA[jamper3d]]></dc:creator>
+		<pubDate>Wed, 20 Jun 2007 07:54:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-853</guid>
+		<description><![CDATA[Киньте книгу Мухина на сайт.]]></description>
+		<content:encoded><![CDATA[<p>Киньте книгу Мухина на сайт.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-836</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2007 16:51:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-836</guid>
+		<description><![CDATA[ER, ты Ландафшица накурился чтоль? *THUMBS_UP* *SMILE*
+надо начинать учить, позитивно хоть то, что дней в 2 раза больше положенного получилось на подготовку...., интересно, надо узнать у 4 курса, на Ядерке такой же завал как на Атомке, или почеловечнее все проходит..... вот в чем вопрос...]]></description>
+		<content:encoded><![CDATA[<p>ER, ты Ландафшица накурился чтоль? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_smile.gif' alt='*SMILE*' class='wp-smiley' /> надо начинать учить, позитивно хоть то, что дней в 2 раза больше положенного получилось на подготовку&#8230;., интересно, надо узнать у 4 курса, на Ядерке такой же завал как на Атомке, или почеловечнее все проходит&#8230;.. вот в чем вопрос&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-827</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2007 11:35:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-827</guid>
+		<description><![CDATA[*UNKNOWN*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html/comment-page-1#comment-826</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2007 11:27:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/06/19/voprosyi-k-ekzamenu-po-yadernoy-fizike.html#comment-826</guid>
+		<description><![CDATA[великий китайский автор Сиву-Хин решает в данном случае) во всяком случае решал пол года назад...]]></description>
+		<content:encoded><![CDATA[<p>великий китайский автор Сиву-Хин решает в данном случае) во всяком случае решал пол года назад&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Фотографии с VI Дельфийских Игр России</title>
+	<atom:link href="http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-556</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 12:02:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-556</guid>
+		<description><![CDATA[Есть &lt;a href=&quot;rtsp://helix.yars.free.net:1554/YSU/Life/2007-Delphic.rm&quot; rel=&quot;nofollow&quot;&gt;видеоролик про номинацию Веб-дизайн&lt;/a&gt;, есть &lt;a href=&quot;http://demid.org/index.php?showtopic=6202&amp;st=30&amp;#&quot; rel=&quot;nofollow&quot;&gt;информация о том, как посмотреть сайты участников&lt;/a&gt; (не всех, к сожалению).]]></description>
+		<content:encoded><![CDATA[<p>Есть <a href="rtsp://helix.yars.free.net:1554/YSU/Life/2007-Delphic.rm" rel="nofollow" class="liinternal">видеоролик про номинацию Веб-дизайн</a>, есть <a href="http://demid.org/index.php?showtopic=6202&#038;st=30&#038;#" rel="nofollow" class="liexternal">информация о том, как посмотреть сайты участников</a> (не всех, к сожалению).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-551</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 11:43:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-551</guid>
+		<description><![CDATA[Так ты ж уже видел :-)]]></description>
+		<content:encoded><![CDATA[<p>Так ты ж уже видел :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-549</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 11:39:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-549</guid>
+		<description><![CDATA[А хотелось бы еще и посмотреть на работу победителя.]]></description>
+		<content:encoded><![CDATA[<p>А хотелось бы еще и посмотреть на работу победителя.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: f_man</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-522</link>
+		<dc:creator><![CDATA[f_man]]></dc:creator>
+		<pubDate>Fri, 25 May 2007 19:08:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-522</guid>
+		<description><![CDATA[Йа вот там был.. хех ) нифига не взял правда )]]></description>
+		<content:encoded><![CDATA[<p>Йа вот там был.. хех ) нифига не взял правда )</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-506</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 15:15:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-506</guid>
+		<description><![CDATA[*JOKINGLY*]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_mocking.gif' alt='*JOKINGLY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-505</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 15:13:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-505</guid>
+		<description><![CDATA[*Eunix представил, как erlizz пытается войти в контакт со своим разумом... уже поцталом.]]></description>
+		<content:encoded><![CDATA[<p>*Eunix представил, как erlizz пытается войти в контакт со своим разумом&#8230; уже поцталом.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-504</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 15:07:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-504</guid>
+		<description><![CDATA[*erlizz пытается войти в контакт со своим разумом
+2fetisha енто почему?=-O=-O=-O]]></description>
+		<content:encoded><![CDATA[<p>*erlizz пытается войти в контакт со своим разумом </p>
+<p>2fetisha енто почему?=-O=-O=-O</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-503</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 14:34:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-503</guid>
+		<description><![CDATA[Это ж почему? *UNKNOWN*]]></description>
+		<content:encoded><![CDATA[<p>Это ж почему? <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_unknown.gif' alt='*UNKNOWN*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-502</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 14:06:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-502</guid>
+		<description><![CDATA[Секретничаете господа, секретничаете.=)*SMILE*]]></description>
+		<content:encoded><![CDATA[<p>Секретничаете господа, секретничаете.=)*SMILE*</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html/comment-page-1#comment-501</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Thu, 24 May 2007 04:35:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/blog/2007/05/23/fotografii-s-vi-delfiyskih-igr-rossii.html#comment-501</guid>
+		<description><![CDATA[Могу сказать, что давали участникам игр (всем): два плаката A0 с тематикой Дельфийских Игр, рюкзачок, мишку в одежде с символикой, книгу, две брошюрки. А ярославской делегации ещё и куртку, футболку и кепку *DANCE*]]></description>
+		<content:encoded><![CDATA[<p>Могу сказать, что давали участникам игр (всем): два плаката A0 с тематикой Дельфийских Игр, рюкзачок, мишку в одежде с символикой, книгу, две брошюрки. А ярославской делегации ещё и куртку, футболку и кепку <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_dance.gif' alt='*DANCE*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

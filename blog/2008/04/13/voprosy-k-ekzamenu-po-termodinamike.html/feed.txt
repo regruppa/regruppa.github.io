@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Вопросы к экзамену по термодинамике.</title>
+	<atom:link href="http://regruppa.ru/blog/2008/04/13/voprosy-k-ekzamenu-po-termodinamike.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/04/13/voprosy-k-ekzamenu-po-termodinamike.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/04/13/voprosy-k-ekzamenu-po-termodinamike.html/comment-page-1#comment-2808</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2008 10:55:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=693#comment-2808</guid>
+		<description><![CDATA[да... давно было:(]]></description>
+		<content:encoded><![CDATA[<p>да&#8230; давно было:(</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

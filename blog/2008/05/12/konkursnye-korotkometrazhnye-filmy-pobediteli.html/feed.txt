@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Конкурсные короткометражные фильмы-победители</title>
+	<atom:link href="http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Regruppa.ru где-то выиграла! &#124; Regruppa</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3380</link>
+		<dc:creator><![CDATA[Regruppa.ru где-то выиграла! &#124; Regruppa]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 14:29:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3380</guid>
+		<description><![CDATA[[...] могу сказать, что регруппа часто что-то выигрывает. Скорее наоборот. Но мне кажется, что это из-за того, что и участвуем-то [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] могу сказать, что регруппа часто что-то выигрывает. Скорее наоборот. Но мне кажется, что это из-за того, что и участвуем-то [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: megaObzor</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3298</link>
+		<dc:creator><![CDATA[megaObzor]]></dc:creator>
+		<pubDate>Thu, 29 May 2008 00:09:33 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3298</guid>
+		<description><![CDATA[Лучшая авторская работа — Лебедева Анна, «Видеофильм о факультете ИВТ»  В самом деле ИМХО лучшая!!! Но и остальные прикол. Блин только медлительный интернет у меня, притормаживает. Скажите, а ещё будут таке конкурсы? У меня столько прикольного аматорского видео из института есть... Можно было бы побороться за призовые места!!!]]></description>
+		<content:encoded><![CDATA[<p>Лучшая авторская работа — Лебедева Анна, «Видеофильм о факультете ИВТ»  В самом деле ИМХО лучшая!!! Но и остальные прикол. Блин только медлительный интернет у меня, притормаживает. Скажите, а ещё будут таке конкурсы? У меня столько прикольного аматорского видео из института есть&#8230; Можно было бы побороться за призовые места!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3100</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 22:05:23 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3100</guid>
+		<description><![CDATA[Покоменитирую чтоль)) (Сразу оговрюсь это только мои впечатления)
+Первый значит. Ничо такая агит видюшка) У нас тож такие снимают. Главное это абитурам на поступлении раздавать! Да и ведущая знакомая Аня Литарова звать(хотя походу фамилию сменила)
+Второй. Вообще прелести не понял.
+Третий ну и четвертый там же. Ну тож вобщем ничо нет в них. Куча тазла катаеца пацаны какие то стоят девушки руками машут.....
+Пятый. Помоему на уровне любителей-студентов-раздолбаев вполне ништяк))) Тока тема бы с КАЭС в качестве озвучки подошла бы лучше. И еще не увидел мега файтинга с главным босом, по закону жанра он должен был быть! + увидел много знакомых фамилий в титрах))) Вобщем слив защитан!
+Шестой. Ничо так))) Крокодил хавающий пальмы и улетающий в небеса это гут) Притом чуствуется неоднозначность работы, толи это была чуйская трава и ему конкретно так хорошо и легко стало что полетел родной, толи просто траванулся Гена и спопячилсо, крылья то ангельские! Вощем остается самим тока додумываться толи про наркоту фильм толи тупо драма)))
+Седьмой. Эм... ниачом... неудачно туристирующие тела.. сжигание костра ну вобщем и все.... Наверно это что то романтичное должно было выйти или восспоминания накатили на кого то)]]></description>
+		<content:encoded><![CDATA[<p>Покоменитирую чтоль)) (Сразу оговрюсь это только мои впечатления)</p>
+<p>Первый значит. Ничо такая агит видюшка) У нас тож такие снимают. Главное это абитурам на поступлении раздавать! Да и ведущая знакомая Аня Литарова звать(хотя походу фамилию сменила)</p>
+<p>Второй. Вообще прелести не понял.</p>
+<p>Третий ну и четвертый там же. Ну тож вобщем ничо нет в них. Куча тазла катаеца пацаны какие то стоят девушки руками машут&#8230;..</p>
+<p>Пятый. Помоему на уровне любителей-студентов-раздолбаев вполне ништяк))) Тока тема бы с КАЭС в качестве озвучки подошла бы лучше. И еще не увидел мега файтинга с главным босом, по закону жанра он должен был быть! + увидел много знакомых фамилий в титрах))) Вобщем слив защитан!</p>
+<p>Шестой. Ничо так))) Крокодил хавающий пальмы и улетающий в небеса это гут) Притом чуствуется неоднозначность работы, толи это была чуйская трава и ему конкретно так хорошо и легко стало что полетел родной, толи просто траванулся Гена и спопячилсо, крылья то ангельские! Вощем остается самим тока додумываться толи про наркоту фильм толи тупо драма)))</p>
+<p>Седьмой. Эм&#8230; ниачом&#8230; неудачно туристирующие тела.. сжигание костра ну вобщем и все&#8230;. Наверно это что то романтичное должно было выйти или восспоминания накатили на кого то)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: fetisha</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3097</link>
+		<dc:creator><![CDATA[fetisha]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 19:17:23 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3097</guid>
+		<description><![CDATA[Макс вообще виртуоз!! Что только стоит то видео с баскетболом! За это ему просто огромное спасибо! *THUMBS_UP*]]></description>
+		<content:encoded><![CDATA[<p>Макс вообще виртуоз!! Что только стоит то видео с баскетболом! За это ему просто огромное спасибо! <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3096</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 18:11:07 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3096</guid>
+		<description><![CDATA[Он три или четыре фильма прислал :) этот вроде лучший.]]></description>
+		<content:encoded><![CDATA[<p>Он три или четыре фильма прислал :) этот вроде лучший.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3095</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 18:06:08 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3095</guid>
+		<description><![CDATA[Макс конечно отжег, я под впечатлением *THUMBS_UP*]]></description>
+		<content:encoded><![CDATA[<p>Макс конечно отжег, я под впечатлением <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_good.gif' alt='*THUMBS_UP*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3094</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 18:05:29 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3094</guid>
+		<description><![CDATA[Да тут такие конкуренты!!!!11 Как бы мы выиграли?  *CRAZY*]]></description>
+		<content:encoded><![CDATA[<p>Да тут такие конкуренты!!!!11 Как бы мы выиграли?  <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_crazy.gif' alt='*CRAZY*' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Geras</title>
+		<link>http://regruppa.ru/blog/2008/05/12/konkursnye-korotkometrazhnye-filmy-pobediteli.html/comment-page-1#comment-3093</link>
+		<dc:creator><![CDATA[Geras]]></dc:creator>
+		<pubDate>Mon, 12 May 2008 18:00:57 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=749#comment-3093</guid>
+		<description><![CDATA[жалко мы ничего не выиграли :(]]></description>
+		<content:encoded><![CDATA[<p>жалко мы ничего не выиграли :(</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

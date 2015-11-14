@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Вопросы к экзамену по ФВП</title>
+	<atom:link href="http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Башмак</title>
+		<link>http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html/comment-page-1#comment-2349</link>
+		<dc:creator><![CDATA[Башмак]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2007 03:06:53 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html#comment-2349</guid>
+		<description><![CDATA[Да вобще и предмет клевый *DANCE*, и препод гений *HEART*, лабы воо *THUMBS_UP*... тока что то лень ходить  %-)
+ВСЕМ УДАЧИ НА СЕССИИ!!!!!!!!!! :-D]]></description>
+		<content:encoded><![CDATA[<p>Да вобще и предмет клевый *DANCE*, и препод гений *HEART*, лабы воо *THUMBS_UP*&#8230; тока что то лень ходить <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_wacko.gif' alt='%-)' class='wp-smiley' /> ВСЕМ УДАЧИ НА СЕССИИ!!!!!!!!!! :-D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Ahtener</title>
+		<link>http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html/comment-page-1#comment-2269</link>
+		<dc:creator><![CDATA[Ahtener]]></dc:creator>
+		<pubDate>Wed, 12 Dec 2007 07:44:36 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/2007/12/11/voprosyi-k-ekzamenu-po-fvp.html#comment-2269</guid>
+		<description><![CDATA[*ANGEL* всетаки Авенирович классный препод....хоть предмет и ужасен :)
+Мише спасибо за оперативность]]></description>
+		<content:encoded><![CDATA[<p> <img src='http://regruppa.ru/wp-content/plugins/smilies-themer/elinalipona/icon_angel.gif' alt='*ANGEL*' class='wp-smiley' /> всетаки Авенирович классный препод&#8230;.хоть предмет и ужасен :)<br />
+Мише спасибо за оперативность</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

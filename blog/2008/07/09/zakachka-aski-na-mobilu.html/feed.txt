@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Закачка аськи на мобилу</title>
+	<atom:link href="http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: Alemglalse</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-30475</link>
+		<dc:creator><![CDATA[Alemglalse]]></dc:creator>
+		<pubDate>Tue, 18 May 2010 19:55:16 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-30475</guid>
+		<description><![CDATA[Должен признать, написавший неплохо написал!]]></description>
+		<content:encoded><![CDATA[<p>Должен признать, написавший неплохо написал!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Станислава</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-30465</link>
+		<dc:creator><![CDATA[Станислава]]></dc:creator>
+		<pubDate>Tue, 18 May 2010 13:05:39 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-30465</guid>
+		<description><![CDATA[С большего, тот кто писал недурно отжег.]]></description>
+		<content:encoded><![CDATA[<p>С большего, тот кто писал недурно отжег.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Aня</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-15606</link>
+		<dc:creator><![CDATA[Aня]]></dc:creator>
+		<pubDate>Sat, 20 Jun 2009 09:16:55 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-15606</guid>
+		<description><![CDATA[:)]]></description>
+		<content:encoded><![CDATA[<p>:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Danila</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-11903</link>
+		<dc:creator><![CDATA[Danila]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2009 13:30:11 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-11903</guid>
+		<description><![CDATA[=) моя ася 384645970]]></description>
+		<content:encoded><![CDATA[<p>=) моя ася 384645970</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Defiler</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-9391</link>
+		<dc:creator><![CDATA[Defiler]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 14:42:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-9391</guid>
+		<description><![CDATA[Огромное спасибо]]></description>
+		<content:encoded><![CDATA[<p>Огромное спасибо</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: xp0n1k</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-6943</link>
+		<dc:creator><![CDATA[xp0n1k]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2008 22:12:06 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-6943</guid>
+		<description><![CDATA[Спасибо за статью оказалась очень полезной.]]></description>
+		<content:encoded><![CDATA[<p>Спасибо за статью оказалась очень полезной.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: TuMyP</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-6936</link>
+		<dc:creator><![CDATA[TuMyP]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2008 21:52:27 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-6936</guid>
+		<description><![CDATA[Спасибо, хорошая статья. Подписался.]]></description>
+		<content:encoded><![CDATA[<p>Спасибо, хорошая статья. Подписался.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Stanly</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-6642</link>
+		<dc:creator><![CDATA[Stanly]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 01:55:22 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-6642</guid>
+		<description><![CDATA[спасибо за инфу!]]></description>
+		<content:encoded><![CDATA[<p>спасибо за инфу!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: УК</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-4063</link>
+		<dc:creator><![CDATA[УК]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2008 21:52:07 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-4063</guid>
+		<description><![CDATA[хм... быть может руки не сильно прямы в таком случае?:)
+итак акция :) парням качаю аську на мобилу за пиго:)
+молодым и сексуальным девочкам просто так:)]]></description>
+		<content:encoded><![CDATA[<p>хм&#8230; быть может руки не сильно прямы в таком случае?:)</p>
+<p>итак акция :) парням качаю аську на мобилу за пиго:)<br />
+молодым и сексуальным девочкам просто так:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: duty</title>
+		<link>http://regruppa.ru/blog/2008/07/09/zakachka-aski-na-mobilu.html/comment-page-1#comment-4051</link>
+		<dc:creator><![CDATA[duty]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2008 14:59:44 +0000</pubDate>
+		<guid isPermaLink="false">http://regruppa.ru/blog/?p=778#comment-4051</guid>
+		<description><![CDATA[Между прочим не все могут]]></description>
+		<content:encoded><![CDATA[<p>Между прочим не все могут</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

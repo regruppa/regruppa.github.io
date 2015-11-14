@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+<channel>
+	<title>Комментарии: Конференция в ЯрГУ</title>
+	<atom:link href="http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html</link>
+	<description>Сайт группы Радиофизики и электроники ЯрГУ</description>
+	<lastBuildDate>Fri, 04 Mar 2011 21:50:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-313</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 19:13:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-313</guid>
+		<description><![CDATA[опять же вспоминается анегдод
+-маша?
+-папа?]]></description>
+		<content:encoded><![CDATA[<p>опять же вспоминается анегдод</p>
+<p>-маша?<br />
+-папа?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-308</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 18:47:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-308</guid>
+		<description><![CDATA[и как ей занимаються?]]></description>
+		<content:encoded><![CDATA[<p>и как ей занимаються?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-305</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 18:43:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-305</guid>
+		<description><![CDATA[А что такое физика?]]></description>
+		<content:encoded><![CDATA[<p>А что такое физика?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-294</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 18:07:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-294</guid>
+		<description><![CDATA[вот так ежли по честному то в моём понимании физикой занимался дядька сивухин, мы же с вами, господа, фигнёй страдаем....    я кстати  тож .. потому и мы...]]></description>
+		<content:encoded><![CDATA[<p>вот так ежли по честному то в моём понимании физикой занимался дядька сивухин, мы же с вами, господа, фигнёй страдаем&#8230;.    я кстати  тож .. потому и мы&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Eunix</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-290</link>
+		<dc:creator><![CDATA[Eunix]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 17:44:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-290</guid>
+		<description><![CDATA[Точно забыл! Я всё &lt;a href=&quot;/re/sergey_kurilov/&quot; rel=&quot;nofollow&quot;&gt;его&lt;/a&gt; искал... обновил.]]></description>
+		<content:encoded><![CDATA[<p>Точно забыл! Я всё <a href="/re/sergey_kurilov/" rel="nofollow" class="liinternal">его</a> искал&#8230; обновил.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-286</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 17:38:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-286</guid>
+		<description><![CDATA[&lt;b&gt;to ER&lt;/b&gt;
+здесь приведены темы в основном из Подсекции 3. Цифровая обработка сигналов
+и изображений в радиотехнике и телекоммуникациях. есть и другие подсекции: Радиофизика и Теор.Физика -- там, видимо, и занимаются физикой, в твоем понимании этого слова, =)]]></description>
+		<content:encoded><![CDATA[<p><b>to ER</b><br />
+здесь приведены темы в основном из Подсекции 3. Цифровая обработка сигналов<br />
+и изображений в радиотехнике и телекоммуникациях. есть и другие подсекции: Радиофизика и Теор.Физика &#8212; там, видимо, и занимаются физикой, в твоем понимании этого слова, =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Erlizz</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-285</link>
+		<dc:creator><![CDATA[Erlizz]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 17:36:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-285</guid>
+		<description><![CDATA[&lt;b&gt;to Eunix&lt;/b&gt;: забыл однако =))
+7. Синтезатор ЧМ-колебаний на основе однокольцевой ИФАПЧ с примене-
+нием ΔΣ – модулятора.
+Студент 4 курса М. Назаров, студент 3 курса &lt;b&gt;С. Курилов.&lt;/b&gt;
+Науч. рук. - проф. Л.Н. Казаков, науч. сотр. М.В. Башмаков.]]></description>
+		<content:encoded><![CDATA[<p><b>to Eunix</b>: забыл однако =))<br />
+7. Синтезатор ЧМ-колебаний на основе однокольцевой ИФАПЧ с примене-<br />
+нием ΔΣ – модулятора.<br />
+Студент 4 курса М. Назаров, студент 3 курса <b>С. Курилов.</b><br />
+Науч. рук. &#8212; проф. Л.Н. Казаков, науч. сотр. М.В. Башмаков.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-280</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 17:23:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-280</guid>
+		<description><![CDATA[а теперь серьёзно.... посмотрел направелния ... не находите господа что это больше не физические, а прогерские или на крайняк математические темы? нет я конечно  ниче против не имею... но вы ж физфак....]]></description>
+		<content:encoded><![CDATA[<p>а теперь серьёзно&#8230;. посмотрел направелния &#8230; не находите господа что это больше не физические, а прогерские или на крайняк математические темы? нет я конечно  ниче против не имею&#8230; но вы ж физфак&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: ER</title>
+		<link>http://regruppa.ru/blog/2007/04/30/konferentsiya-v-yargu.html/comment-page-1#comment-279</link>
+		<dc:creator><![CDATA[ER]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 17:21:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.regruppa.ru/2007/04/30/konferentsiya-v-yargu.html#comment-279</guid>
+		<description><![CDATA[а у нас антинаучная конференция есть;) а вам слабо???]]></description>
+		<content:encoded><![CDATA[<p>а у нас антинаучная конференция есть;) а вам слабо???</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
