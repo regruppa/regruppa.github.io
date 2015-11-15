@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div id="content">
+<div id="search-box">
+<form method="get" id="searchform" action="http://regruppa.ru/">
+  <span class="search"><input type="text" value="" name="s" id="s" /></span>
+</form>
+</div>
+<h1><a href="/chronicle/">Летопись</a> / <a href="/blog/">Буквы</a></h1>
+<p>Блог, или буквы. <a href="/cloud/">Облака</a> всё ещё доступны.</p>
+<div class="post" id="post-672">
+<div class="title">
+  <h2>{{ page.title }}</h2>
+</div>
+<div class="entry">
+<p class="tagcommalist">Из облаков: <a href="http://regruppa.ru/tag/9-marta" rel="tag">9-марта</a>, <a href="http://regruppa.ru/tag/maslenica-2008" rel="tag">масленица-2008</a>, <a href="http://regruppa.ru/tag/maslenica-ff" rel="tag">масленица-ФФ</a>, <a href="http://regruppa.ru/tag/fizfak" rel="tag">ФизФак</a>, <a href="http://regruppa.ru/tag/fizfak-yargu" rel="tag">ФизФак-ЯрГУ</a></p>
+{{ content }}
+<p class="postmetadata">{{ page.date | date: "%b %-d, %Y" }} @ <span class="re">{{ page.author.display_name }}</span>&nbsp;&nbsp;
+<span class="cat"><a href="http://regruppa.ru/category/news" rel="category tag">Новости</a></span></p>
+</div>
+</div>
+
+<div id="commentsbox">
+<h3 id="comments">3 коммент.</h3>
+	<div id="social">
+	<a href="http://blogowar.ru/soldier/165"><img src="http://blogowar.ru/herbs/165.gif" width="25" height="25" border="0" alt="Блоговар - война блогов"></a>
+	</div>
+<div id="blueblock">
+<ul>
+  {% for comment in page.comments %}
+  <li id="comment-{{ comment.id }}">
+<div class="author">
+  <p>{{ comment.author }} @ 3 марта, 22:17, <a class="comment-edit-link" href="http://regruppa.ru/wp-admin/comment.php?action=editcomment&amp;c=2609">редактировать</a></p>
+</div>
+<div class="text">
+  <p>{{ comment.content }}</p>
+</div>
+</li>
+{% endfor %}

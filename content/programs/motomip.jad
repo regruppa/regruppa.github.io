@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: D@rkNeo
+MIDlet-Name: MIP v1.1
+MIDlet-Version: 1.1.0
+MIDlet-Vendor: D@rkNeo
+MIDlet-Jar-URL: motomip.jar
+MIDlet-Jar-Size: 233039
+MIDlet-Icon: icon.png
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: Java Mobile Internet Pager v1.1
+MIDlet-Info-URL: http://mip.rufon.net/
+MIDlet-1: MIP v1.1,icon.png,jimm.Jimm
+MIP-Version: 1.1
+Background: True
+FlipInsensitive: True
+Nokia-MIDlet-Category: Game

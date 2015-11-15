@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav.html %}
+
+    <div id="center">
+	    <img src="/images/center.gif" />
+    </div>
+
+    <div id="content">
+      <div id="search-box">
+        <form method="get" id="searchform" action="http://regruppa.ru/">
+	        <span class="search"><input type="text" value="" name="s" id="s" /></span>
+        </form>
+      </div>
+
+        {{ content }}
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>

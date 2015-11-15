@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: Jimm Project
+MIDlet-Name: Jimm Aspro
+MIDlet-Version: 0.5.2
+MIDlet-Vendor: Jimm Project
+MIDlet-Jar-Size: 231090
+MIDlet-Jar-URL: Jimm_Siemens.jar
+MIDlet-Icon: icon.png
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: J2ME ICQ clone
+MIDlet-Info-URL: http://www.jimm.org/
+MIDlet-1: Jimm,/icon.png,jimm.Jimm
+Jimm-Version: 0.5.2a
+Background: True
+FlipInsensitive: True
+

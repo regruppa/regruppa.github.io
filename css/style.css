@@ -1,0 +1,459 @@
+/*  
+Theme Name: Regruppa Theme
+Theme URI: http://www.regruppa.ru/
+Description: Тема сделана специально для сайта группы.
+Version: 1.6
+Author: Eunix
+Author URI: http://www.eunix.ru/
+
+	Regruppa  Theme v1.6
+	http://www.regruppa.ru/
+
+	This theme was designed and built by Eunix,
+	whose blog you will find at http://www.eunix.ru/
+
+	The CSS, XHTML and design is released under GPL:
+	http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+	
+/* 
+Copyright 2005-2007 Eunix 
+NiftyCorners CSS
+$Revision: 1.00 $ 
+*/	
+.rtop,.rbottom{display:block}
+.rtop *,.rbottom *{display:block;height: 1px;overflow: hidden}
+.r1{margin: 0 5px}
+.r2{margin: 0 3px}
+.r3{margin: 0 2px}
+.r4{margin: 0 1px;height: 2px}
+
+.rs1{margin: 0 2px}
+.rs2{margin: 0 1px}
+
+/* 
+Copyright 2006 Eunix
+Styles CSS 
+$Revision: 3.00 $ 
+*/
+
+* {
+	padding: 0;margin: 0 auto;
+}
+
+body {
+	font: 85% Verdana,Arial,sans-serif; 
+	background-color: #FFF;
+	color: #333;
+	background: white url(/images/background.jpg) repeat-x;
+	padding: 0;margin: 0;
+	height: auto;text-align:center;
+}
+
+/* IMG */
+img, img.nav {
+	border: 0;
+}
+img.border {border: 1px solid #CCC;}
+
+/* H */
+h1,h2,h3 {
+	margin: 1em 0 0;
+	color: #336699;
+	letter-spacing: 1px;
+}
+h1 { margin-top:0;}
+h1,h2 {
+	font-family: Tahoma,Verdana;
+	margin: 0px 0px 5px 20px;
+	font-size: 1.3em;
+}
+h2 {
+	letter-spacing: 0px;
+	font-family: Verdana,Tahoma;
+	font-weight: 100;
+}
+h3 {
+	margin: 0px 0px 10px 20px;
+	font-size: 1em;
+}
+h4 {
+	margin: 0px 0px 5px 10px;
+	font-size: 1em;color:gray;
+}
+
+/* P */
+p {
+	margin: 0px 15px 0px 20px;
+	padding: 0 0 0.7em;
+	line-height: 1.6;
+}
+p.left {margin: 0px 5px 0px 40px;}
+p.center {margin: 0; text-align:center;}
+
+/* A */
+a { 
+	text-decoration: none; 
+	color: #336699;
+	padding-bottom: 1px;
+	border-bottom: 1px solid #333;
+}
+a:visited {border-bottom: 1px solid #CCC;}
+a:hover {border-bottom: 1px dotted #000;}
+
+/* Other */
+code {
+	font-weight: bold;
+	color: #647ECB;
+}
+ol,ul {
+	margin-top: 0.6em;
+	margin-bottom: 1em;
+	line-height: 1.4em;
+}
+address {
+	margin-bottom: 1em;
+}
+
+form {
+	margin: 0px 15px 0px 20px;
+	padding: 0 0 0.7em;
+	line-height: 1.6;
+}
+form.left {
+	margin: 0px 10px 0px 40px;
+	padding: 0 0 0.7em;
+	line-height: 1.6;
+}
+span.gray {
+	color:gray;
+}
+
+/* 
+Copyright 2005-2007 Eunix 
+Div CSS
+$Revision: 3.00 $ 
+*/
+
+div#top, div#nav, div#center, div#content, div#bottom, div#eunix, div#onlyBlock, div#navigation {
+	position: relative;
+	top: 0; right: 0;
+	text-align: left;
+	width: 790px; 
+}
+div#top {
+	height: 130px;
+}
+
+/* Div: nav */
+div#nav {
+	text-align: center;
+	height: 50px;
+}
+div#nav ul {list-style-type: none;margin:0;padding:0;}
+div#nav li {float:left;margin: 9px 15px 0px 6px !important;margin: 9px 13px 0px 6px;}
+
+/* A in divs */
+div#nav a, div#nav a:visited, div#nav a:hover,div#top a, div#top a:visited, div#top a:hover,div#eunix a, div#eunix a:visited, div#eunix a:hover  {text-decoration: none; border-bottom: 0px;}
+
+div#center {
+	padding-top:5px;
+	height: 28px;
+}
+div#center img {margin:0;padding:0;}
+
+/* Div: content */
+div#content {
+	background: url(/images/content.gif) repeat-y;
+	margin-top:-5px; /* Eunix: Strange IE*/
+}
+	div#search-box {
+		position:absolute;
+		top:2px;right:7px;
+	}
+	div#search-box input {
+		border:#E4E7F2 1px solid;
+	}
+p.cloud a {border:0;}
+p.cloud a:hover {border-bottom: 1px dotted #000;}
+.UTWPrimaryTags {
+font-size:90%;
+}
+/*
+table.files {width:90%; padding-bottom:20px;margin:0px 20px; vertical-align:text-top;}
+table.files td {vertical-align:text-top;}
+*/
+.files  {
+  margin:0 ;
+  font-size: 90%;
+  width:90%;
+  padding:0;
+  -moz-column-count:1;
+  column-count:1;
+}
+.files ol, .files ul {padding:0px 0 5px 35px; margin:0;}
+.files p {padding-left:0;margin-left:0;}
+
+div.header {
+	margin-bottom:-10px;
+}
+
+div.post {
+	background: url(/images/contur/middle.gif) center repeat-y;
+	width:750px;
+	margin:0 0 20px 20px;	
+}
+
+div.title {
+	width:750px;
+	background: white url(/images/contur/top.gif) bottom no-repeat;
+	margin-left:0px;
+}
+div.title h2 {display:inline; padding:0 7px 0 7px; background-color: white; margin-left:35px; color:#333;}
+div.title h2 a {color:#333;border:0;text-decoration:none;} 
+div.title h2 a:hover {color:#336699;} 
+
+/* Div: entry */
+div.entry {
+	background: url(/images/contur/bottom.gif) center bottom no-repeat;
+	padding:7px 10px 10px 15px;
+}
+div.entry p {padding:0 0 5px 0; margin:0;}
+div.entry ul,ol {padding-left:35px; margin-top:0;}
+div.entry a {border-bottom:0;} 
+div.entry a:hover {border-bottom:1px dotted #000;} 
+div.entry .tagcommalist {
+		font-size:100%;
+		opacity: 0.5;
+		-moz-opacity: 0.5;
+		filter: alpha(opacity=50);}
+	
+/* Div: entry, blockquote */
+div.entry blockquote {
+	background: transparent url(/images/i/rq.gif) bottom right no-repeat;
+	margin: 5px;
+	min-height:37px;
+}
+div.entry blockquote p {padding: 0 20px 0 35px;background: transparent url(/images/i/lq.gif) top left no-repeat;} 
+div.entry img {border: 1px solid #E7EAF3;}
+div.entry img.wp-smiley {border:0;}
+	
+/* Div: navigation */
+div#navigation {
+	padding-top:10px;
+	clear:both;
+}
+.alignright {float: right; padding-right:20px;}	
+.alignleft {float: left;padding-left:20px;}
+
+/* Div: addcomment */
+div#addcomment p {padding:0;margin-left:5px;}
+
+/* Div: clear */
+div.clear {
+	clear:both;
+	padding-top:20px;
+}
+div.clear > h3 {display:inline;padding-top:0; margin-top:0;}
+div.clear .divleft {float:left;}
+div.clear .divright {width:615px;float:right;padding:0; margin:0;border-left: 2px solid #E4E7F2;}
+div.clear .fifty {width:420px;}
+
+div#pages {width:100%;padding-bottom:0px;margin:0px 0px -10px 0px;}
+div#pages ul{list-style-type: none;margin:0px 20px 0px 20px;padding:0;}
+div#pages li.right{float:right;margin: 0px 0px 0px 0px;text-align:right;}
+div#pages li.left{float:left;margin: 0px 0px 0px 0px;text-align:left;}
+
+div#minipics{float:left;width:100%;margin:-10px 0px -10px 0px;padding-bottom:10px}
+div#minipics ul{list-style-type: none;margin:0px 0px 0px 20px;padding:0;}
+div#minipics li{float:left;width:180px;margin: 10px 10px 10px 0;background-color: #D6DEC5;text-align:center;}
+div#minipics li.none{float:left;width:180px;margin: 10px 10px 10px 0;text-align:center;}
+div#minipics li img{clear:both;height: 120px;margin:5px 10px;border: 0px;}
+div#minipics li a{float:none;clear:both;border:none;}
+
+div#psycho{float:left;width:750px;padding-bottom:0px;margin:0px 0px 20px 20px !important;margin:0px 0px 0px 10px;}
+div#psycho ul{list-style-type: none;margin:5px 0px 0px 0px;padding:0}
+div#psycho li{float:left;width:140px;margin: 0px 0px 0px 0px;text-align:right;}
+div#psycho li img{display: block;width: 140px;height: 105px;margin:0px 0px 0px 0px;border: 0px}
+
+div#bottom {
+	height: 20px;
+}
+div#eunix {
+	top: -30px; 
+	text-align: right;
+	height: 20px;
+}
+
+div#blueblock {
+	display:inline;
+	background:#E4E7F2;
+	text-align:left;
+	margin: 0px 0px 0px 0px
+	}
+	div#blueblock p{margin: 0px 15px 0px 10px;padding: 0 0 0.7em;line-height: 1.6;}
+	div#blueblock ul{list-style-type: none;margin:0px 0px 0px 20px;padding:0;}
+	div#blueblock li{width:745px;margin: 0px 0px 15px 0px;}
+	div#blueblock div.text {display:block;background-color: #E4E7F2;text-align:left;}
+	div#blueblock div.author {display:block;background: white url('/images/i/narrow.gif') bottom left no-repeat;text-align:left;}
+	div#blueblock div.text blockquote {margin-left:20px;border-left:white 2px solid; padding-right:-5px;}
+	
+div#commentsbox {
+	position:relative;
+}
+	
+div#social {
+	position:absolute;
+	top:0px;
+	right:30px;
+}
+	div#social img {
+		border:0;
+	}
+	div#social a {
+		border:0;
+		border-bottom:0;
+	}
+	div#social a:hover {
+		border:0;
+		border-bottom:0;
+	}
+	
+
+	span#blogowar img {
+		border:0;
+	}
+	span#blogowar a {
+		border:0;
+		border-bottom:0;
+	}
+	span#blogowar a:hover {
+		border:0;
+		border-bottom:0;
+	}
+	
+	
+div#wp_grins {
+	padding-left:5px;
+	font-size:12px;
+}
+div#wp_grins img {
+	margin:0;padding:0;
+}
+
+div#onlyBlock {
+	background: url(/images/error404.gif) no-repeat;
+	top: 200px;
+	width: 600px;
+	height: 150px;
+}
+div#onlyBlock p{margin:0px 15px 0px 300px;font-size:90%;}
+div#onlyBlock h4 {margin: 0px 15px 0px 300px;font-size: 100%;color:gray;padding-top:15px;}
+
+div#meterbox {margin-left:20px;text-align:left;height:11px;width:90%;padding:3px;border:1px solid #659fff;}
+p#meter {height:11px;padding:0;margin:0;color:white;background-color:#659fff;width:50%;text-align:center;font-size:6pt;}
+	
+/* For Link Indication plugin (with Eunix's modification for span) */
+span.liexternal { padding-right: 13px; background: url(/images/i/icon_external.gif) no-repeat right; }
+span.liwikipedia { padding-right: 14px; background: url(/images/i/icon_wikipedia.gif) no-repeat right; }
+span.livkontakte { padding-left: 18px; background: url(/images/i/icon_vkontakte.png) no-repeat left; }
+span.liimdb { padding-right: 18px; background: url(/images/i/icon_imdb.png) no-repeat right; }
+span.liftp { padding-right: 13px; background: url(/images/i/icon_ftp.png) no-repeat right; }
+span.liflickr { padding-right: 11px; background: url(/images/i/icon_flickr.png) no-repeat right; }
+span.lizip { padding-right: 13px; background: url(/images/i/icon_zip.png) no-repeat right; }
+span.li7zip { padding-right: 18px; background: url(/images/i/icon_7zip.png) no-repeat right; }
+span.lidjvu { padding-right: 15px; background: url(/images/i/icon_djvu.png) no-repeat right; }
+span.limailto { padding-right: 18px; background: url(/images/i/icon_mail.png) no-repeat right; }
+span.lipdf { padding-right: 16px; background: url(/images/i/icon_pdf.png) no-repeat right;  }
+span.liword { padding-right: 17px; background: url(/images/i/icon_word.png) no-repeat right;  }
+span.limcd { padding-right: 17px; background: url(/images/i/icon_mcd.png) no-repeat right;  }
+span.liexcel { padding-right: 15px; background: url(/images/i/icon_excel.png) no-repeat right;  }
+span.lirss { padding-left: 16px; background: url(/images/i/icon_rss.jpg) no-repeat left; margin-left:10px; }
+span.liicq { padding-left: 18px; background: url(/images/i/icon_icq.gif) no-repeat left; margin-left:10px; }
+span.cat, span.comment, span.re, span.baby {padding: 3px 1px 2px 23px;background-repeat: no-repeat;background-position: 0 4px;}
+span.cat {background-image: url(/images/i/cat.gif);}
+span.comment {background-image: url(/images/i/four.gif);}
+div.entry span.re {background-image: url(/images/i/baby.gif);}
+span.baby {background-image: url(/images/i/baby.gif);}
+span.search {padding-left: 19px; background: url(/images/i/search.png) no-repeat left;}
+
+/* wpSpoiler */
+span.spoiler_link_show,
+span.spoiler_link_hide {
+    background-repeat:      no-repeat;
+    background-position:    left center;
+    padding-left:           18px;
+}
+span.spoiler_link_show {
+    background-image: url(/images/i/add.png);
+}
+span.spoiler_link_hide {
+    background-image: url(/images/i/delete.png);
+}
+div.spoiler_div {
+    background-color:       #E4E7F2;
+    margin-top:             -5px;
+    padding:                2px;
+}
+
+/* Flexible Upload */
+/* .imageframe { margin: 10px; padding: 5px; border: 1px solid #aaa; } */
+.imageframe { margin: 10px;  } 
+.imgalignleft { float: left; }
+.imgalignright { float: right; }
+.imgaligncenter { margin-left: auto; margin-right: auto; }
+
+/* Wordpress stuff */
+
+/* Captions */
+#content .aligncenter,
+#content div.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content .wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 0  0 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#content .wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+#content .wp-caption p.wp-caption-text {
+	text-align:center;
+	font-size: 11px;
+	line-height: 17px;
+	padding: 2px 4px 3px;
+	margin: 0;
+}
+/* End captions */
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left
+}
+.left, .right {
+	float:left;
+}
+.clear {
+	clear:both;
+#	font-size:0;
+#	height:0;
+#	line-height:0;
+}
+

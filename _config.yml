@@ -1,0 +1,15 @@
+# Site settings
+title: Группа РЭ
+email: re@regruppa.ru
+description: >
+  Архивный сайт о группе Ярославского государственного университета
+  физического факультета специальности радиофизика и электроника
+  2004-2009 годов обучения
+baseurl: ""
+url: "http://regruppa.ru"
+twitter_username: regruppa
+github_username:  regruppa
+permalink: '/blog/:year/:month/:day/:title.html'
+
+# Build settings
+markdown: kramdown
