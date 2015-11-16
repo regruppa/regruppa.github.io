@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+
+<div id="psycho">
+  <ul>
+    <li><img src="/content/psycho/{{ page.latin_name }}/1.jpg" />{{ page.first_psycho }}</li>
+    <li><img src="/content/psycho/{{ page.latin_name }}/2.jpg" />{{ page.second_psycho }}</li>
+    <li><img src="/content/psycho/{{ page.latin_name }}/3.jpg" />{{ page.third_psycho }}</li>
+    <li><img src="/content/psycho/{{ page.latin_name }}/4.jpg" />{{ page.fourth_psycho }}</li>
+    <li style="margin-left:50px"><img src="/content/re/{{ page.latin_name }}.jpg"  /><a href="/etc/explanation/#onlytext">только текст</a></li>
+  </ul>
+</div>
+
+<h3>Широкоформатно</h3>
+<p>{{ page.full_name }}</p>
+
+<h3>День Рождения</h3>
+<p>{{ page.birthday }}</p>
+
+{% if page.content_date %}
+  <h3>Своё <span class="gray">({{ page.content_date }})</span></h3>
+  {{ content }}
+{% endif %}
+
+{% if page.f_x %}
+  <h3>F(x)</h3>
+  <p>{{ page.f_x | replace: 'at', '<a href="/etc/explanation/#at">at</a>' }}</p>
+{% endif %}
+
+<p>
+  Ты можешь посмотреть, как он выглядит на <a href="/media/photos/re/{{ page.latin_name }}/">фотографиях</a>, 
+  а также <a href="/etc/say/kolya_kostin/">сказать</a> ему всё, что захочется, или вернуться назад 
+  <a href="/re/">к списку</a>.
+</p>
+
+<div id="navigation">
+  <p>
+    Если ты не понял, что означает <a href="/etc/explanation/#onlytext">только текст</a>, 
+    <a href="/etc/explanation/#self">Своё</a>, <a href="/etc/explanation/#f">F(x)</a> и <a href="/etc/explanation/#at">at</a>, 
+    то посмотри страницу <a href="/etc/explanation/">Разъяснения</a>
+  </p>
+</div>

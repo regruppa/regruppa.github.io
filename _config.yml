@@ -13,3 +13,9 @@ permalink: '/blog/:year/:month/:day/:title.html'
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+  re:
+    output: true
+    permalink: /re/:path/
