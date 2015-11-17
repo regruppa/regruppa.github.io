@@ -448,9 +448,9 @@ div.spoiler_div {
 .alignleft {
 	float: left
 }
-.left, .right {
-	float:left;
-}
+/*.left, .right {*/
+	/*float:left;*/
+/*}*/
 .clear {
 	clear:both;
 #	font-size:0;
