@@ -357,22 +357,22 @@ div#meterbox {margin-left:20px;text-align:left;height:11px;width:90%;padding:3px
 p#meter {height:11px;padding:0;margin:0;color:white;background-color:#659fff;width:50%;text-align:center;font-size:6pt;}
 	
 /* For Link Indication plugin (with Eunix's modification for span) */
-span.liexternal { padding-right: 13px; background: url(/images/i/icon_external.gif) no-repeat right; }
-span.liwikipedia { padding-right: 14px; background: url(/images/i/icon_wikipedia.gif) no-repeat right; }
-span.livkontakte { padding-left: 18px; background: url(/images/i/icon_vkontakte.png) no-repeat left; }
-span.liimdb { padding-right: 18px; background: url(/images/i/icon_imdb.png) no-repeat right; }
-span.liftp { padding-right: 13px; background: url(/images/i/icon_ftp.png) no-repeat right; }
-span.liflickr { padding-right: 11px; background: url(/images/i/icon_flickr.png) no-repeat right; }
-span.lizip { padding-right: 13px; background: url(/images/i/icon_zip.png) no-repeat right; }
-span.li7zip { padding-right: 18px; background: url(/images/i/icon_7zip.png) no-repeat right; }
-span.lidjvu { padding-right: 15px; background: url(/images/i/icon_djvu.png) no-repeat right; }
-span.limailto { padding-right: 18px; background: url(/images/i/icon_mail.png) no-repeat right; }
-span.lipdf { padding-right: 16px; background: url(/images/i/icon_pdf.png) no-repeat right;  }
-span.liword { padding-right: 17px; background: url(/images/i/icon_word.png) no-repeat right;  }
-span.limcd { padding-right: 17px; background: url(/images/i/icon_mcd.png) no-repeat right;  }
-span.liexcel { padding-right: 15px; background: url(/images/i/icon_excel.png) no-repeat right;  }
-span.lirss { padding-left: 16px; background: url(/images/i/icon_rss.jpg) no-repeat left; margin-left:10px; }
-span.liicq { padding-left: 18px; background: url(/images/i/icon_icq.gif) no-repeat left; margin-left:10px; }
+.liexternal { padding-right: 13px; background: url(/images/i/icon_external.gif) no-repeat right; }
+.liwikipedia { padding-right: 14px; background: url(/images/i/icon_wikipedia.gif) no-repeat right; }
+.livkontakte { padding-left: 18px; background: url(/images/i/icon_vkontakte.png) no-repeat left; }
+.liimdb { padding-right: 18px; background: url(/images/i/icon_imdb.png) no-repeat right; }
+.liftp { padding-right: 13px; background: url(/images/i/icon_ftp.png) no-repeat right; }
+.liflickr { padding-right: 11px; background: url(/images/i/icon_flickr.png) no-repeat right; }
+.lizip { padding-right: 13px; background: url(/images/i/icon_zip.png) no-repeat right; }
+.li7zip { padding-right: 18px; background: url(/images/i/icon_7zip.png) no-repeat right; }
+.lidjvu { padding-right: 15px; background: url(/images/i/icon_djvu.png) no-repeat right; }
+.limailto { padding-right: 18px; background: url(/images/i/icon_mail.png) no-repeat right; }
+.lipdf { padding-right: 16px; background: url(/images/i/icon_pdf.png) no-repeat right;  }
+.liword { padding-right: 17px; background: url(/images/i/icon_word.png) no-repeat right;  }
+.limcd { padding-right: 17px; background: url(/images/i/icon_mcd.png) no-repeat right;  }
+.liexcel { padding-right: 15px; background: url(/images/i/icon_excel.png) no-repeat right;  }
+.lirss { padding-left: 16px; background: url(/images/i/icon_rss.jpg) no-repeat left; margin-left:10px; }
+.liicq { padding-left: 18px; background: url(/images/i/icon_icq.gif) no-repeat left; margin-left:10px; }
 span.cat, span.comment, span.re, span.baby {padding: 3px 1px 2px 23px;background-repeat: no-repeat;background-position: 0 4px;}
 span.cat {background-image: url(/images/i/cat.gif);}
 span.comment {background-image: url(/images/i/four.gif);}
