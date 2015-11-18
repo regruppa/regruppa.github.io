@@ -1,2 +1,12 @@
 - slug: news
   name: Новости
+- slug: zabavnoe
+  name: Забавное
+- slug: sayt
+  name: Сайт
+- slug: studentyi
+  name: Студенты
+- slug: tvorchestvo
+  name: Творчество
+- slug: media
+  name: Медиа
