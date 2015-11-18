@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h1>
+  <a href="/chronicle/">Летопись</a> /
+  <a href="/blog/">Буквы</a> / Архив рубрики &laquo;{{ page.category }}&raquo;
+</h1>
+<p>В архиве можно найти практически всё, но всё-таки можно улететь и в <a href="/cloud/">облака</a> &mdash; там тоже много всего можно найти.</p>
+
+<div>
+  {% if site.categories[page.category] %}
+    {% for post in site.categories[page.category] %}
+      {% include post.html %}
+    {% endfor %}
+  {% else %}
+    <p>Нет записей в данной рубрике</p>
+  {% endif %}
+</div>
+
+<p class="center">
+  <span class="lirss"><a href="/blog/feed/">Записи в RSS</a></span>
+</p>
