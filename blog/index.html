@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<h1><a href="/chronicle/">Летопись</a> / Буквы</h1>
+<p>Это блог. Место, где куча записей совершенно разного характера и содержания. 
+Могут быть и файлы, могут быть и размышения. Чтобы было проще, можно либо ориентироваться в категориях 
+(<a href="/category/news" rel="category tag">Новости</a>), либо улететь в <a href="/cloud/">облака</a>.</p>
+
+{% for post in paginator.posts %}
+  <div class="post" id="post-{{ post.wordpress_id }}">
+    <div class="title">
+      <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+    </div>
+    <div class="entry">
+      <p class="tagcommalist">
+        Из облаков: <a href="/tag/9-marta" rel="tag">9-марта</a>
+      </p>
+
+      {{ post.excerpt }}
+
+      <p class="postmetadata">
+        {{ post.date | date: "%b %-d, %Y" }} @ <span class="re">{{ post.author.display_name }}</span>&nbsp;&nbsp;
+        <span class="cat"><a href="/category/news" rel="category tag">Новости</a></span>&nbsp;&nbsp;
+        <span class="comment">
+          <a href="{{ post.url }}#comments">
+            {% if post.comments.size == 0 %}
+              нет комментов
+            {% elsif post.comments.size == 1 %}
+              один коммент
+            {% else %}
+              комменты ({{ post.comments.size }})
+            {% endif %}
+          </a>
+        </span>
+      </p>
+    </div>
+  </div>
+{% endfor %}
+
+<div id="navigation">
+  {% if paginator.next_page %}
+    <div class="alignleft">
+      <a href="{{ paginator.next_page_path }}" class="previous">« Раньше</a>
+    </div>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <div class="alignright">
+      <a href="{{ paginator.previous_page_path }}" class="next">Позже »</a>
+    </div>
+  {% endif %}
+</div>
+
+<p class="center">
+  <span class="lirss"><a href="/blog/feed/">Записи в RSS</a></span>
+</p>

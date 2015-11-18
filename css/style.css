@@ -91,7 +91,7 @@ p {
 	line-height: 1.6;
 }
 p.left {margin: 0px 5px 0px 40px;}
-p.center {margin: 0; text-align:center;}
+p.center {margin: 0; text-align:center;clear: both;}
 
 /* A */
 a { 
