@@ -56,29 +56,35 @@ layout: default
   <ul id="random_re">
   </ul>
   <p>Они совсем случайно показались на первой странице. Если ты хочешь посмотреть на всех нас, то переходи на страницу <a href="/re/">это мы</a>.</p>
+
   <h3>Скоро День Рождения!</h3>
-  <ul>
-    <li><a href="/re/valya" class="img"><img src="/content/re/valya.jpg" /></a><br /><a href="/re/valya/">3 декабря</a></li>
-    <li><a href="/re/anton" class="img"><img src="/content/re/anton.jpg" /></a><br /><a href="/re/anton/">23 декабря</a></li>
-    <li><a href="/re/viktor" class="img"><img src="/content/re/viktor.jpg" /></a><br /><a href="/re/viktor/">27 декабря</a></li>
-  </ul>
-  <ul>
-    <li><a href="/re/sanya_igoshev" class="img"><img src="/content/re/sanya_igoshev.jpg" /></a><br /><a href="/re/sanya_igoshev/">1 января</a></li>
+  <ul id="birthday_re">
   </ul>
 </div>
+
 <div id="navigation">
   <p>А сейчас на сайте более 198 Mb <a href="/files/open/">файлов</a>.</p>
 </div>
 
 <script>
+function SortByBirthday(a, b) {
+  var aBirthday = a.birthday_sort;
+  var bBirthday = b.birthday_sort; 
+  return ((aBirthday < bBirthday) ? -1 : ((aBirthday > bBirthday) ? 1 : 0));
+}
+
 var re = [
   {% for re in site.re %}
     {
-      "name"       : "{{ re.name }}",
-      "latin_name" : "{{ re.latin_name }}"
+      "name"          : "{{ re.name }}",
+      "latin_name"    : "{{ re.latin_name }}",
+      "birthday"      : "{{ re.birthday }}",
+      "birthday_sort" : {{ re.birthday_sort }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
+
+/* Random Re */
 re.sort(function() { return 0.5 - Math.random() });
 for (i = 0; i < 4; i++) {
   jQuery("#random_re").append(
@@ -87,5 +93,35 @@ for (i = 0; i < 4; i++) {
     '<a href="/re/' + re[i].latin_name + '/">' + re[i].name + '</a>' +
     '</li>'
   );
+}
+
+/* Birthday Re */
+re.sort(SortByBirthday);
+var d = new Date();
+var today = (d.getMonth() + 1) * 100 + d.getDay();
+i = 0; var r = 0;
+while (re[i] && r < 4) {
+  if (re[i].birthday_sort < today) { 
+    i++;
+    continue; 
+  }
+  jQuery("#birthday_re").append(
+    '<li>' +
+    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+    '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
+    '</li>'
+  );
+  i++; r++;
+}
+
+i = 0;
+while(r < 4) {
+  jQuery("#birthday_re").append(
+    '<li>' +
+    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+    '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
+    '</li>'
+  );
+  i++; r++;
 }
 </script>
