@@ -1,0 +1,19 @@
+name: "Белоножко"
+slug: "belonozhko"
+description: "Несколько интересных фотографий преподавателя кафедры микроэлектроника"
+category: "prepod"
+photos:
+  - filename: "164_belonozhko_1.jpg"
+    hits: 971
+    width: 560
+    height: 420
+    date: "2004-12-23 00:00:00 +0300"
+    caption: "Расчёска"
+    description: "Во время практики по аналитической геометрии. В те времена он вёл только практику."
+  - filename: "167_belonozhko_2.jpg"
+    hits: 956
+    width: 560
+    height: 420
+    date: "2004-12-23 00:00:00 +0300"
+    caption: "Вид с парты"
+    description: ""

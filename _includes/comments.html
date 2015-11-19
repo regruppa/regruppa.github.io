@@ -1,0 +1,20 @@
+{% if page.comments.size > 0 %}
+  <div id="commentsbox">
+    <h3 id="comments">{{ page.comments.size }} коммент.</h3>
+    <div id="blueblock">
+      <ul>
+        {% for comment in page.comments %}
+          <li id="comment-{{ comment.id }}">
+            <div class="author">
+              <p>{{ comment.author }} @ {{ comment.date | date: "%b %-d, %Y, %H:%M" }}</p>
+            </div>
+
+            <div class="text">
+              <p>{{ comment.content }}</p>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endif %}

@@ -1,0 +1,26 @@
+name: 'Коля Герасимов'
+slug: "kolya_gerasimov"
+description: 'Герас, Колбаса и ещё что-то, что возможно есть на <a href="http://www.regruppa.ru/re/kolya_gerasimov/">его странице</a>'
+category: "re"
+photos:
+  - filename: "123_kolya_gerasimov.jpg"
+    hits: 801
+    width: 560
+    height: 420
+    date: "2007-04-21 11:02:47 +0400"
+    caption: ""
+    description: ""
+  - filename: "124_kolya_gerasimov.jpg"
+    hits: 803
+    width: 560
+    height: 420
+    date: "2007-04-21 11:02:47 +0400"
+    caption: ""
+    description: ""
+  - filename: "125_kolya_gerasimov.jpg"
+    hits: 779
+    width: 560
+    height: 420
+    date: "2007-04-21 11:02:47 +0400"
+    caption: ""
+    description: ""

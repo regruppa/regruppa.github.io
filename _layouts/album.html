@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% assign album = site.data.albums[page.album] %}
+<h1>
+  <a href="/media/photos">Фотографии</a>  / {{ page.title }}
+</h1>
+
+<p>{{ aldum.description }}</p>
+
+<div class="gallery_pad">
+  <div id="minipics">
+    <ul>
+      {% for photo in album.photos %}
+        <li>        
+          <a href="/media/photos/{{ album.category }}/{{ page.album }}/{{ photo.filename }}/" class="img"><img src="/content/gallery/00-single/thumb_{{ photo.filename }}" class="gallery_pic_border" alt="{{ photo.filename }}"><br></a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div id="navigation">
+  <p>
+    Эта страница создана {{ page.date | date: "%-d.%m.%Y" }}. 
+    Здесь {{ site.data.albums[page.album].photos | size }} фото и {{ page.comments_count }} коммент. 
+    И всё это посмотрели {{ page.views_count }} раз.
+  </p>
+</div>

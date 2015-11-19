@@ -1,0 +1,26 @@
+name: "Миша"
+slug: "misha"
+description: 'Миша &mdash; наш староста, узнать о котором можно на <a href="http://www.regruppa.ru/re/misha/">его странице</a>'
+category: "re"
+photos:
+  - filename: "127_misha.jpg"
+    hits: 662
+    width: 560
+    height: 420
+    date: "2007-04-21 11:00:15 +0400"
+    caption: ""
+    description: ""
+  - filename: "128_misha.jpg"
+    hits: 806
+    width: 560
+    height: 420
+    date: "2007-04-21 11:00:15 +0400"
+    caption: ""
+    description: ""
+  - filename: "130_misha.jpg"
+    hits: 661
+    width: 560
+    height: 420
+    date: "2007-04-21 11:00:16 +0400"
+    caption: ""
+    description: ""

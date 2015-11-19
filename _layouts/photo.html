@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% assign album = site.data.albums[page.album] %}
+{% for data_photo in album.photos %}
+  {% if data_photo.filename == page.filename %}
+    {% assign photo = data_photo %}
+  {% endif %}
+{% endfor %}
+
+<h1>
+  <a href="/media/photos">Фотографии</a> 
+  / <a href="/media/photos/{{ album.category }}/{{ album.slug }}/">{{ album.name }}</a>
+  {% if photo.caption != "" %}/ {{ photo.caption }}{% endif %}
+</h1>
+
+<p>{{ photo.description }}</p>
+
+{% if photo %}
+  <div class="wp-caption aligncenter" style="width: {{ photo.width | plus: 10 }}px">
+    <img src="/content/gallery/00-single/{{ page.filename }}" width="{{ photo.width }}" height="{{ photo.height }}" class="size-full wp-image-816">
+    <p class="wp-caption-text">
+      {{ page.filename }} | 
+      {{ photo.width }}x{{ photo.height }}px | 
+      просмотров: {{ photo.hits }}			
+    </p>
+  </div>
+{% else %}
+  <p>Фотография не найдена</p>
+{% endif %}
+
+{% include comments.html %}
+{% include imprint.html %}
