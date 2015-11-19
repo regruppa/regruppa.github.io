@@ -17,8 +17,13 @@ layout: default
 <p>{{ photo.description }}</p>
 
 {% if photo %}
-  <div class="wp-caption aligncenter" style="width: {{ photo.width | plus: 10 }}px">
-    <img src="/content/gallery/00-single/{{ page.filename }}" width="{{ photo.width }}" height="{{ photo.height }}" class="size-full wp-image-816">
+  {% if photo.width > 700 %}
+    {% assign width = 700 %}
+  {% else %}
+    {% assign width = photo.width %}
+  {% endif %}
+  <div class="wp-caption aligncenter" style="width: {{ width | plus: 10 }}px">
+    <img src="/content/gallery/00-single/{{ page.filename }}" width="{{ width }}" class="size-full">
     <p class="wp-caption-text">
       {{ page.filename }} | 
       {{ photo.width }}x{{ photo.height }}px | 

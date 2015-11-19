@@ -373,6 +373,7 @@ p#meter {height:11px;padding:0;margin:0;color:white;background-color:#659fff;wid
 .liexcel { padding-right: 15px; background: url(/images/i/icon_excel.png) no-repeat right;  }
 .lirss { padding-left: 16px; background: url(/images/i/icon_rss.jpg) no-repeat left; margin-left:10px; }
 .liicq { padding-left: 18px; background: url(/images/i/icon_icq.gif) no-repeat left; margin-left:10px; }
+.ligithub { padding-left: 18px; background: url(/images/i/icon_github.png) no-repeat left; margin-left:10px; }
 span.cat, span.comment, span.re, span.baby {padding: 3px 1px 2px 23px;background-repeat: no-repeat;background-position: 0 4px;}
 span.cat {background-image: url(/images/i/cat.gif);}
 span.comment {background-image: url(/images/i/four.gif);}
