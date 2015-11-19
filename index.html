@@ -53,13 +53,7 @@ layout: default
 </div>
 <div id="minipics">
   <h3>: )</h3>
-  <ul>
-    <li><a href="/re/igor/" class="img"><img src="/content/re/igor.jpg" /></a><br /><a href="/re/igor/">Игорь</a></li>
-    <li><a href="/re/vitaliy_medvedev/" class="img"><img src="/content/re/vitaliy_medvedev.jpg" /></a><br /><a href="/re/vitaliy_medvedev/">Виталий Медведев</a></li>
-    <li><a href="/re/sergey_kurilov/" class="img"><img src="/content/re/sergey_kurilov.jpg" /></a><br /><a href="/re/sergey_kurilov/">Серёжа Курилов</a></li>
-  </ul>
-  <ul>
-    <li><a href="/re/sanya_igoshev/" class="img"><img src="/content/re/sanya_igoshev.jpg" /></a><br /><a href="/re/sanya_igoshev/">Саня Игошев</a></li>
+  <ul id="random_re">
   </ul>
   <p>Они совсем случайно показались на первой странице. Если ты хочешь посмотреть на всех нас, то переходи на страницу <a href="/re/">это мы</a>.</p>
   <h3>Скоро День Рождения!</h3>
@@ -75,3 +69,23 @@ layout: default
 <div id="navigation">
   <p>А сейчас на сайте более 198 Mb <a href="/files/open/">файлов</a>.</p>
 </div>
+
+<script>
+var re = [
+  {% for re in site.re %}
+    {
+      "name"       : "{{ re.name }}",
+      "latin_name" : "{{ re.latin_name }}"
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]
+re.sort(function() { return 0.5 - Math.random() });
+for (i = 0; i < 4; i++) {
+  jQuery("#random_re").append(
+    '<li>' +
+    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+    '<a href="/re/' + re[i].latin_name + '/">' + re[i].name + '</a>' +
+    '</li>'
+  );
+}
+</script>
