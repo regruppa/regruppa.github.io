@@ -2,9 +2,12 @@
 layout: default
 ---
 <h1><a href="/chronicle/">Летопись</a> / Буквы</h1>
-<p>Это блог. Место, где куча записей совершенно разного характера и содержания. 
-Могут быть и файлы, могут быть и размышения. Чтобы было проще, можно либо ориентироваться в категориях 
-(<a href="/category/news" rel="category tag">Новости</a>), либо улететь в <a href="/cloud/">облака</a>.</p>
+<p>
+  Это блог. Место, где куча записей совершенно разного характера и содержания. 
+  Могут быть и файлы, могут быть и размышения. Чтобы было проще, можно либо ориентироваться в категориях 
+  ({% for category in site.data.categories %}<a href="/category/{{ category.slug }}" rel="category tag">{{ category.name }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}),
+  либо улететь в <a href="/cloud/">облака</a>.
+</p>
 
 {% for post in paginator.posts %}
   {% include post.html %}
@@ -24,6 +27,4 @@ layout: default
   {% endif %}
 </div>
 
-<p class="center">
-  <span class="lirss"><a href="/blog/feed/">Записи в RSS</a></span>
-</p>
+{% include imprint.html %}

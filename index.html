@@ -66,62 +66,62 @@ layout: default
   <p>А сейчас на сайте более 198 Mb <a href="/files/open/">файлов</a>.</p>
 </div>
 
-<script>
-function SortByBirthday(a, b) {
-  var aBirthday = a.birthday_sort;
-  var bBirthday = b.birthday_sort; 
-  return ((aBirthday < bBirthday) ? -1 : ((aBirthday > bBirthday) ? 1 : 0));
-}
-
-var re = [
-  {% for re in site.re %}
-    {
-      "name"          : "{{ re.name }}",
-      "latin_name"    : "{{ re.latin_name }}",
-      "birthday"      : "{{ re.birthday }}",
-      "birthday_sort" : {{ re.birthday_sort }}
-    } {% if forloop.last %}{% else %},{% endif %}
-  {% endfor %}
-]
-
-/* Random Re */
-re.sort(function() { return 0.5 - Math.random() });
-for (i = 0; i < 4; i++) {
-  jQuery("#random_re").append(
-    '<li>' +
-    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
-    '<a href="/re/' + re[i].latin_name + '/">' + re[i].name + '</a>' +
-    '</li>'
-  );
-}
-
-/* Birthday Re */
-re.sort(SortByBirthday);
-var d = new Date();
-var today = (d.getMonth() + 1) * 100 + d.getDay();
-i = 0; var r = 0;
-while (re[i] && r < 4) {
-  if (re[i].birthday_sort < today) { 
-    i++;
-    continue; 
+<script type="text/javascript">
+  function SortByBirthday(a, b) {
+    var aBirthday = a.birthday_sort;
+    var bBirthday = b.birthday_sort; 
+    return ((aBirthday < bBirthday) ? -1 : ((aBirthday > bBirthday) ? 1 : 0));
   }
-  jQuery("#birthday_re").append(
-    '<li>' +
-    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
-    '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
-    '</li>'
-  );
-  i++; r++;
-}
 
-i = 0;
-while(r < 4) {
-  jQuery("#birthday_re").append(
-    '<li>' +
-    '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
-    '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
-    '</li>'
-  );
-  i++; r++;
-}
+  var re = [
+    {% for re in site.re %}
+      {
+        "name"          : "{{ re.name }}",
+        "latin_name"    : "{{ re.latin_name }}",
+        "birthday"      : "{{ re.birthday }}",
+        "birthday_sort" : {{ re.birthday_sort }}
+      } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ]
+
+  /* Random Re */
+  re.sort(function() { return 0.5 - Math.random() });
+  for (i = 0; i < 4; i++) {
+    jQuery("#random_re").append(
+      '<li>' +
+      '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+      '<a href="/re/' + re[i].latin_name + '/">' + re[i].name + '</a>' +
+      '</li>'
+    );
+  }
+
+  /* Birthday Re */
+  re.sort(SortByBirthday);
+  var d = new Date();
+  var today = (d.getMonth() + 1) * 100 + d.getDay();
+  i = 0; var r = 0;
+  while (re[i] && r < 4) {
+    if (re[i].birthday_sort < today) { 
+      i++;
+      continue; 
+    }
+    jQuery("#birthday_re").append(
+      '<li>' +
+      '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+      '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
+      '</li>'
+    );
+    i++; r++;
+  }
+
+  i = 0;
+  while(r < 4) {
+    jQuery("#birthday_re").append(
+      '<li>' +
+      '<a href="/re/' + re[i].latin_name + '/" class="img"><img src="/content/re/' + re[i].latin_name + '.jpg" /></a><br />' +
+      '<a href="/re/' + re[i].latin_name + '/">' + re[i].birthday + '</a>' +
+      '</li>'
+    );
+    i++; r++;
+  }
 </script>
