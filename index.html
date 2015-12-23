@@ -99,7 +99,7 @@ layout: default
   /* Birthday Re */
   re.sort(SortByBirthday);
   var d = new Date();
-  var today = (d.getMonth() + 1) * 100 + d.getDay();
+  var today = (d.getMonth() + 1) * 100 + d.getDate();
   i = 0; var r = 0;
   while (re[i] && r < 4) {
     if (re[i].birthday_sort < today) { 
